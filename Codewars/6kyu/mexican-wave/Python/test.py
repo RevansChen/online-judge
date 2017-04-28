@@ -1,6 +1,6 @@
 def _wrap(str, result):
-	test.it("Should return: '[" + ", ".join(result) + "]'")
-	test.assert_equals(wave(str), result)
+    test.it("Should return: '[" + ", ".join(result) + "]'")
+    test.assert_equals(wave(str), result)
 
 # 無空白字元的字串
 result = ["Hello", "hEllo", "heLlo", "helLo", "hellO"]
