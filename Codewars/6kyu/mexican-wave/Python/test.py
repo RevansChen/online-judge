@@ -12,7 +12,7 @@ _wrap("", result)
 
 # 含空白字元
 result = ["Two words", "tWo words", "twO words", "two Words", "two wOrds", "two woRds", "two worDs", "two wordS"]
-_wrap("two words",result)
+_wrap("two words", result)
 
 result = [" Gap ", " gAp ", " gaP "]
 _wrap(" gap ", result)
