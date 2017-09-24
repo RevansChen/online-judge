@@ -1,0 +1,16 @@
+# Python - 3.4.3
+
+test.describe("Testing multiply")
+test.it("Should return a result")
+test.assert_equals(multiply(0, 1), 0)
+test.assert_equals(multiply(1, 1), 1)
+test.assert_equals(multiply(2, 2), 4)
+test.assert_equals(multiply(3, 3), 9)
+test.assert_equals(multiply(4, 3), 12)
+test.assert_equals(multiply(5, 3), 15)
+test.assert_equals(multiply(10, 8), 80)
+test.assert_equals(multiply(10, 10), 100)
+test.assert_equals(multiply(10, -10), -100)
+test.assert_equals(multiply(-10, 10), -100)
+test.assert_equals(multiply(-10, -10), 100)
+test.assert_equals(multiply(20, 10), 200)

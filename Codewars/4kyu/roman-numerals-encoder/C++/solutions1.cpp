@@ -1,3 +1,5 @@
+// C++ - 14
+
 string solution(int number) {
     // 範圍限制，大於等於4000以上的無對應符號，所以不處理
     if ((number <= 0) || (number >= 4000)) {

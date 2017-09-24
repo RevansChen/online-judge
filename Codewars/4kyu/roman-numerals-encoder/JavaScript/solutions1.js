@@ -1,3 +1,5 @@
+// JavaScript - Node v6.11.0
+
 function solution(n) {
     // 範圍限制，範圍外不處理
     // JavaScript有超過4000的測資，故去除限制在4000內的判斷

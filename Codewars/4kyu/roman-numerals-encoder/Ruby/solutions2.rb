@@ -1,3 +1,5 @@
+# Ruby - MRI 2.3.0
+
 def solution(n)
     # 列出所有可能的進位值
     symbols = {

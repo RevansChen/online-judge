@@ -1,3 +1,5 @@
+// Mono - 4.2.3
+
 using System;
 using System.Collections.Generic;
 using NumSymb = System.Tuple<int, string>;

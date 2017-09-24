@@ -1,3 +1,5 @@
+// PHP - 7
+
 class MyTestCases extends TestCase {
     public function test_static_operations() {
         $this->assertEquals("I", solution(1));

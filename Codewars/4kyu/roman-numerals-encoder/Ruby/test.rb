@@ -1,3 +1,5 @@
+# Ruby - MRI 2.3.0
+
 describe "Solution" do
     it "sample tests" do
         Test.assert_equals(solution(1), "I")

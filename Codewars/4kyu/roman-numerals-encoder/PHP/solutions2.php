@@ -1,3 +1,5 @@
+// PHP - 7
+
 function solution($n) {
     // 列出所有可能的進位值
     $symbols = [

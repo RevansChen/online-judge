@@ -1,3 +1,5 @@
+# Python - 3.4.3
+
 WALL = 1
 START_POINT = 2
 FINISH_POINT = 3

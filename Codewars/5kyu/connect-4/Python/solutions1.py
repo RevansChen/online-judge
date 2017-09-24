@@ -1,3 +1,5 @@
+# Python - 3.4.3
+
 from functools import reduce
 
 class Connect4():
