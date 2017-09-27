@@ -1,0 +1,34 @@
+describe "Solution for parameter 'Aug'" do
+    it "should print proper output" do
+        output = run_shell args: ['Aug']
+        expect(output).to eq("08")
+    end
+end
+
+describe "Solution for parameter 'Apr'" do
+    it "should print proper output" do
+        output = run_shell args: ['Apr']
+        expect(output).to eq("04")
+    end
+end
+
+describe "Solution for parameter 'DeCemBer'" do
+    it "should print proper output" do
+        output = run_shell args: ['DeCemBer']
+        expect(output).to eq("12")
+    end
+end
+
+describe "Solution for parameter 'dEc'" do
+    it "should print proper output" do
+        output = run_shell args: ['dEc']
+        expect(output).to eq("12")
+    end
+end
+
+describe "Solution for parameter 'DEC'" do
+    it "should print proper output" do
+        output = run_shell args: ['DEC']
+        expect(output).to eq("12")
+    end
+end
