@@ -1,5 +1,5 @@
 # 題目連結
-https://www.codewars.com/kata/multiply
+https://www.codewars.com/kata/multiply/
 
 # 目標
 首頁的測試題目。  

@@ -1,5 +1,5 @@
 # 題目連結
-https://www.codewars.com/kata/mexican-wave
+https://www.codewars.com/kata/mexican-wave/
 
 # 目標
 從左至右逐一將輸入字串的每一個小寫字母變成大寫字母

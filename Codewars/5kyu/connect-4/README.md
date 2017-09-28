@@ -1,5 +1,5 @@
 # 題目連結
-https://www.codewars.com/kata/connect-4
+https://www.codewars.com/kata/connect-4/
 
 # 目標
 設計一個標準7x6四子棋的遊戲，規則如下：

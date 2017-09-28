@@ -1,5 +1,5 @@
 # 題目連結
-https://www.codewars.com/kata/maze-runner
+https://www.codewars.com/kata/maze-runner/
 
 # 目標
 根據給予的迷宮以及一連串的移動方向，分別輸出：  
