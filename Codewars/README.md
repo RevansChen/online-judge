@@ -41,6 +41,7 @@
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
 * [NBA full 48 minutes average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/nba-full-48-minutes-average/)
 * [Opposite number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposite-number/)
+* [Points of Reflection](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/points-of-reflection/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
