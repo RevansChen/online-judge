@@ -37,6 +37,7 @@
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
+* [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
 * [Man in the west](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/man-in-the-west/)
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
 * [NBA full 48 minutes average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/nba-full-48-minutes-average/)
