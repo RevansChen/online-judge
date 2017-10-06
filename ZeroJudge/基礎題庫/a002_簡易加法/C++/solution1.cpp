@@ -1,14 +1,13 @@
 // g++ -std=c++14(gcc 5.4.0)
 
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main() {
-    string s;
+    int a, b;
     
-    while (cin >> s) {
-        cout << "hello, " << s << endl;
+    while (cin >> a >> b) {
+        cout << a + b << endl;
     }
     
     return 0;
