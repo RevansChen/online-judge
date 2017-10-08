@@ -10,8 +10,9 @@
 
 # 目錄
 ## 2kyu
-* [ASCII85 Encoding & Decoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/ascii85-encoding-and-decoding) - 未註解
-* [My smallest code interpreter (aka Brainf**k)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/my-smallest-code-interpreter-aka-brainf-star-star-k) - 未註解
+* [ASCII85 Encoding & Decoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/ascii85-encoding-and-decoding/) - 未註解
+* [Assembler interpreter (part II)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/assembler-interpreter-part-ii/)
+* [My smallest code interpreter (aka Brainf**k)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/my-smallest-code-interpreter-aka-brainf-star-star-k/) - 未註解
 ## 4kyu
 * [Pyramid Slide Down](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/pyramid-slide-down/) - 未註解
 * [Roman Numerals Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/roman-numerals-encoder/)
@@ -19,6 +20,7 @@
 * [A Chain adding function](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/a-chain-adding-function/) - 未註解
 * [Connect 4](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/connect-4/)
 * [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/) - 未註解
+* [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
 ## 6kyu
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/) - 未註解
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)

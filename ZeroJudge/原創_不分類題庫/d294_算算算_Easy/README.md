@@ -6,5 +6,5 @@ https://zerojudge.tw/ShowProblem?problemid=d294
 求出該矩形能形成多少個矩形。  
 
 # 公式
-利用組合公式計算
+利用組合公式計算  
 ```數量 = C(n + 1, 2) * C(m + 1, 2)```
