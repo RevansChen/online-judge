@@ -17,19 +17,19 @@
 * [Pyramid Slide Down](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/pyramid-slide-down/) - 未註解
 * [Roman Numerals Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/roman-numerals-encoder/)
 ## 5kyu
-* [A Chain adding function](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/a-chain-adding-function/) - 未註解
+* [A Chain adding function](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/a-chain-adding-function/)
 * [Connect 4](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/connect-4/)
 * [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/) - 未註解
 * [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
 ## 6kyu
-* [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/) - 未註解
+* [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
 ## 7kyu
 * [AD2070: Help Lorimar troubleshoot his robots- ultrasonic distance analysis](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ad2070-help-lorimar-troubleshoot-his-robots-ultrasonic-distance-analysis/)
-* [A Rule of Divisibility by 7](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/a-rule-of-divisibility-by-7/) - 未註解
+* [A Rule of Divisibility by 7](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/a-rule-of-divisibility-by-7/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
-* [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/) - 未註解
+* [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 ## 8kyu
 * [Area of a Square (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square-easy/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
