@@ -1,4 +1,7 @@
-# 題目難度
+# 目錄
+
+## 題目難度
+
 * 1kyu - 難
 * 2kyu
 * 3kyu
@@ -8,29 +11,39 @@
 * 7kyu
 * 8kyu - 易
 
-# 目錄
 ## 2kyu
+
 * [ASCII85 Encoding & Decoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/ascii85-encoding-and-decoding/) - 未註解
 * [Assembler interpreter (part II)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/assembler-interpreter-part-ii/)
 * [My smallest code interpreter (aka Brainf**k)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/my-smallest-code-interpreter-aka-brainf-star-star-k/) - 未註解
+
 ## 4kyu
+
 * [Pyramid Slide Down](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/pyramid-slide-down/) - 未註解
 * [Roman Numerals Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/roman-numerals-encoder/)
+
 ## 5kyu
+
 * [A Chain adding function](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/a-chain-adding-function/)
 * [Connect 4](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/connect-4/)
 * [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/) - 未註解
 * [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
+
 ## 6kyu
+
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
+
 ## 7kyu
+
 * [AD2070: Help Lorimar troubleshoot his robots- ultrasonic distance analysis](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ad2070-help-lorimar-troubleshoot-his-robots-ultrasonic-distance-analysis/)
 * [A Rule of Divisibility by 7](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/a-rule-of-divisibility-by-7/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
+
 ## 8kyu
+
 * [Area of a Square (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square-easy/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)

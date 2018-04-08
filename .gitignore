@@ -1,7 +1,11 @@
 # VSCode設定檔
 .vscode/
+*.code-workspace
 
-# 不上傳的目錄
+# 自用工具
+Utils/
+
+# 不上傳的參考答案
 EN-TRY/
 
 # 原始題目&測試資料
