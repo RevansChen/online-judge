@@ -1,2 +1,1 @@
-# 題目連結
-https://www.codewars.com/kata/secret-knock/
+# [Secret knock](https://www.codewars.com/kata/secret-knock/)

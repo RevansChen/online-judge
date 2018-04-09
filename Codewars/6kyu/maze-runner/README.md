@@ -1,13 +1,15 @@
-# 題目連結
-https://www.codewars.com/kata/maze-runner/
+# [Maze Runner](https://www.codewars.com/kata/maze-runner/)
 
-# 目標
-根據給予的迷宮以及一連串的移動方向，分別輸出：  
+## 目標
+
+根據給予的迷宮以及一連串的移動方向，分別輸出：
+
 1. Finish。表示走到終點。
 2. Dead。表示走到地圖外或者撞到牆壁。
 3. Lost。經過一連串的移動後仍未走到終點。
 
-# 輸入
+## 輸入
+
 1. 迷宮為二維整數陣列。內容代表的意義為：
     * 0：可行走的位置。
     * 1：牆壁。

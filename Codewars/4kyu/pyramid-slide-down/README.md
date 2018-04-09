@@ -1,2 +1,1 @@
-# 題目連結
-https://www.codewars.com/kata/pyramid-slide-down/
+# [Pyramid Slide Down](https://www.codewars.com/kata/pyramid-slide-down/)
