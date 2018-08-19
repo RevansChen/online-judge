@@ -1,18 +1,22 @@
-# Python - 2.7.6
+# Python - 3.4.3
 
 from struct import pack, unpack
 
 # 功能
 #     編碼至 ASCII85
 # 參數
-#     binary: 二進位資料 (bytes)
+#     binary: 原始資料 (str)
 # 回傳值
 #     ASCII85 資料 (str)
 def toAscii85(binary):
+    # str 轉 bytes
+    if type(binary) == str:
+        binary = bytes(map(ord, binary))
+
     # 結尾處增加 '\0' 補齊至 4 的倍數
     paddings = (4 - (len(binary) % 4)) % 4
     if paddings:
-        binary += '\0' * paddings
+        binary += b'\0' * paddings
 
     # 4 個位元組為一組轉換為 32位元無號整數
     u32s = unpack('>%dI' % (len(binary) // 4), binary)
@@ -38,7 +42,7 @@ def toAscii85(binary):
 # 參數
 #     data: ASCII85 資料 (str)
 # 回傳值
-#     二進位資料 (bytes)
+#     原始資料 (str)
 def fromAscii85(data):
     # 移除頭尾 '<~' 與 '~>', 並將 'z' 替換為 '!!!!!'
     ascii85 = data[2:-2].replace('z', '!!!!!')
@@ -53,7 +57,7 @@ def fromAscii85(data):
 
     # ASCII85 轉二進位資料
     binarys = [ord(b) - 33 for b in ascii85]
-    text = ''
+    text = b''
     for i in range(0, len(binarys), 5):
         u32 = 0
         for j in range(i, i + 5):
@@ -64,4 +68,4 @@ def fromAscii85(data):
     if paddings:
         text = text[:-paddings]
 
-    return text
+    return ''.join(map(chr, text))
