@@ -17,6 +17,10 @@
 * [Assembler interpreter (part II)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/assembler-interpreter-part-ii/)
 * [My smallest code interpreter (aka Brainf**k)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/my-smallest-code-interpreter-aka-brainf-star-star-k/) - 未註解
 
+## 3kyu
+
+* [Rail Fence Cipher: Encoding and Decoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/3kyu/rail-fence-cipher-encoding-and-decoding/) - 未註解
+
 ## 4kyu
 
 * [Pyramid Slide Down](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/pyramid-slide-down/) - 未註解
