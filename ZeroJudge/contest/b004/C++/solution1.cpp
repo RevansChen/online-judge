@@ -3,7 +3,11 @@
 #include <iostream>
 #define _USE_MATH_DEFINES
 #include <cmath>
-using namespace std;
+
+using std::fixed;
+using std::cin;
+using std::cout;
+using std::endl;
 
 int main() {
     double D, L;

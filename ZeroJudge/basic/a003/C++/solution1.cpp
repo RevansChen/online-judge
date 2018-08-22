@@ -2,11 +2,15 @@
 
 #include <iostream>
 #include <string>
-using namespace std;
+
+using std::string;
+using std::cin;
+using std::cout;
+using std::endl;
 
 int main() {
     int M, D;
-    string table[3] = { "´¶³q", "¦N", "¤j¦N" };
+    string table[3] = { "æ™®é€š", "å‰", "å¤§å‰" };
     
     while (cin >> M >> D) {
         int S = (M * 2 + D) % 3;

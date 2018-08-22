@@ -2,7 +2,12 @@
 
 #include <iostream>
 #include <stack>
-using namespace std;
+
+using std::cin;
+using std::cout;
+using std::endl;
+using std::stack;
+using std::swap;
 
 void flip(int row, int col, int *arr) {
     int tmp[100] = {0};
