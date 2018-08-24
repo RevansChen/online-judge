@@ -18,3 +18,4 @@
 ## 原創/不分類題庫
 
 * [d294: 算算算.....Easy](https://github.com/RevansChen/online-judge/tree/master/ZeroJudge/original/d294/)
+* [c672: RGB ⇆ HEX](https://github.com/RevansChen/online-judge/tree/master/ZeroJudge/original/c672)
