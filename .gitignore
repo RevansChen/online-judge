@@ -9,6 +9,7 @@ Utils/
 EN-TRY/
 
 # 原始題目&測試資料
+testcode/
 question.md
 testcase.*
 
