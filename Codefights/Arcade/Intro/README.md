@@ -2,14 +2,14 @@
 
 ## Level 1: The Journey Begins
 
-1. [add](https://github.com/RevansChen/online-judge/tree/master/Codefights/Arcade/Intro/level-1/1.add/)
-2. [centuryFromYear](https://github.com/RevansChen/online-judge/tree/master/Codefights/Arcade/Intro/level-1/2.centuryFromYear/)
-3. [checkPalindrome](https://github.com/RevansChen/online-judge/tree/master/Codefights/Arcade/Intro/level-1/3.checkPalindrome/)
+1. [add](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-1/1.add/)
+2. [centuryFromYear](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-1/2.centuryFromYear/)
+3. [checkPalindrome](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-1/3.checkPalindrome/)
 
 ## Level 2: Edge of the Ocean
 
-4. [adjacentElementsProduct](https://github.com/RevansChen/online-judge/tree/master/Codefights/Arcade/Intro/level-2/4.adjacentElementsProduct/)
-5. shapeArea
+4. [adjacentElementsProduct](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/4.adjacentElementsProduct/)
+5. [shapeArea](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/5.shapeArea/)
 6. Make Array Consecutive 2
 7. almostIncreasingSequence
 8. matrixElementsSum
