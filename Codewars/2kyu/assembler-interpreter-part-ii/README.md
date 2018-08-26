@@ -1,7 +1,5 @@
 # [Assembler interpreter (part II)](http://www.codewars.com/kata/assembler-interpreter-part-ii/)
 
-## 目標
-
 設計一個組合語言直譯器。
 
 以下符號名稱會有三種敘述方式，暫存器 `x`、常數 `x` 以及 `x` (兩者皆可)。

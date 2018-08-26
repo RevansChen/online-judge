@@ -1,7 +1,5 @@
 # [Simple assembler interpreter](http://www.codewars.com/kata/simple-assembler-interpreter/)
 
-## 目標
-
 設計一個簡易的組合語言直譯器，支援以下指令：
 
 |指令      |功能|

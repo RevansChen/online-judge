@@ -1,7 +1,5 @@
 # [Connect 4](https://www.codewars.com/kata/connect-4/)
 
-## 目標
-
 設計一個標準 7x6 四子棋的遊戲，規則如下：
 
 1. 任一玩家讓四個棋子連成一線(垂直、水平或斜線)即獲勝，並顯示 `"Player n wins!"` (`n` 為 `1` 或 `2`，表示玩家一或玩家二)。

@@ -1,7 +1,5 @@
 # [Sum of Multiples](https://www.codewars.com/kata/sum-of-multiples/)
 
-## 目標
-
 給兩個自然數 `n` 跟 `m`，求 `n` 的倍數的總和，`n` 的最大倍數小於 `m`。
 
 ## 範例

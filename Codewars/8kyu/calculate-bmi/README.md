@@ -1,7 +1,5 @@
 # [Calculate BMI](http://www.codewars.com/kata/calculate-bmi/)
 
-## 目標
-
 寫一個計算BMI的程式。
 
 `BMI = 體重(公斤) / 身高(公尺)的平方`
