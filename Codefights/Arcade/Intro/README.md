@@ -10,7 +10,7 @@
 
 4. [adjacentElementsProduct](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/4.adjacentElementsProduct/)
 5. [shapeArea](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/5.shapeArea/)
-6. Make Array Consecutive 2
+6. [Make Array Consecutive 2](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/6.Make-Array-Consecutive-2)
 7. almostIncreasingSequence
 8. matrixElementsSum
 
