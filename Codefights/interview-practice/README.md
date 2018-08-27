@@ -12,7 +12,7 @@
 
 ### Linked Lists
 
-* removeKFromList
+* [removeKFromList](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/removeKFromList/)
 * isListPalindrome
 * addTwoHugeNumbers
 * mergeTwoLinkedLists
