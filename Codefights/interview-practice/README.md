@@ -13,7 +13,7 @@
 ### Linked Lists
 
 * [removeKFromList](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/removeKFromList/)
-* isListPalindrome
+* [isListPalindrome](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/isListPalindrome/)
 * addTwoHugeNumbers
 * mergeTwoLinkedLists
 * reverseNodesInKGroups
