@@ -16,7 +16,7 @@
 * [isListPalindrome](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/isListPalindrome/)
 * [addTwoHugeNumbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/addTwoHugeNumbers/)
 * [mergeTwoLinkedLists](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/mergeTwoLinkedLists/)
-* reverseNodesInKGroups
+* [reverseNodesInKGroups](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/reverseNodesInKGroups/)
 * rearrangeLastN
 
 ### Hash Tables
