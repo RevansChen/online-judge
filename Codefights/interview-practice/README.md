@@ -15,7 +15,7 @@
 * [removeKFromList](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/removeKFromList/)
 * [isListPalindrome](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/isListPalindrome/)
 * [addTwoHugeNumbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/addTwoHugeNumbers/)
-* mergeTwoLinkedLists
+* [mergeTwoLinkedLists](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/mergeTwoLinkedLists/)
 * reverseNodesInKGroups
 * rearrangeLastN
 
