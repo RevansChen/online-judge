@@ -17,7 +17,7 @@
 * [addTwoHugeNumbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/addTwoHugeNumbers/)
 * [mergeTwoLinkedLists](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/mergeTwoLinkedLists/)
 * [reverseNodesInKGroups](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/reverseNodesInKGroups/)
-* rearrangeLastN
+* [rearrangeLastN](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/linked-lists/rearrangeLastN/)
 
 ### Hash Tables
 
