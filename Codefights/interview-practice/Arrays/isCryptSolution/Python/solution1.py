@@ -1,5 +1,5 @@
-# coding: utf-8
 # Python3
+
 def isCryptSolution(crypt, solution):
     solution = { ord(s[0]): ord(s[1]) for s in solution }
     decrypt = [ c.translate(solution) for c in crypt ]

@@ -1,5 +1,5 @@
-# coding: utf-8
 # Python3
+
 def sudoku2(grid):
     def valid(nums):
         nums = [ n for n in nums if n != '.' ]

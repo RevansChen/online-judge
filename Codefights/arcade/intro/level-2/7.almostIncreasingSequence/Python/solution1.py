@@ -1,3 +1,5 @@
+# Python3
+
 def almostIncreasingSequence(seq):
     groups = []
     startIndex = 0

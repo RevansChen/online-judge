@@ -1,10 +1,19 @@
-# 題目連結
-https://leetcode.com/problems/reverse-integer/
+# [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
-# 目標
-輸入一個32bit的有號整數，將該整數的數字顛倒過來。  
-若顛倒後的數值超出32bit有號整數範圍，需傳回0。
+輸入一個 32 bits 的有號整數，將該整數的數字顛倒過來。
 
-# 範例
-* x = 123，傳回 321
-* x = -123，傳回 -321
+若顛倒後的數值超出 32 bits 有號整數範圍，需傳回 `0`。
+
+## 輸入範例
+
+```
+123
+-123
+```
+
+## 輸出範例
+
+```
+321
+-321
+```

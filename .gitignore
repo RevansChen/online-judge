@@ -13,5 +13,6 @@ testcode/
 question.md
 testcase.*
 
-# 未完成旗標
+# 非必要性的檔案與目錄
 nc
+__pycache__/

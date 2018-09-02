@@ -1,5 +1,5 @@
-# coding: utf-8
 # Python3
+
 def firstNotRepeatingCharacter(s):
     characters = {}
     for ch in s:
