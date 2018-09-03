@@ -16,11 +16,11 @@
 
 ## Level 3: Smooth Sailing
 
-9. 未知
-10. 未知
-11. 未知
-12. 未知
-13. 未知
+9. [All Longest Strings](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/9.All-Longest-Strings)
+10. commonCharacterCount
+11. isLucky
+12. Sort by Height
+13. reverseParentheses
 
 ## Level 4: Exploring the Waters
 
