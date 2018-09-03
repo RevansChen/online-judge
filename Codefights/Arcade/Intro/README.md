@@ -10,14 +10,14 @@
 
 4. [adjacentElementsProduct](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/4.adjacentElementsProduct/)
 5. [shapeArea](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/5.shapeArea/)
-6. [Make Array Consecutive 2](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/6.Make-Array-Consecutive-2)
-7. [almostIncreasingSequence](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/7.almostIncreasingSequence)
-8. [matrixElementsSum](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/8.matrixElementsSum)
+6. [Make Array Consecutive 2](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/6.Make-Array-Consecutive-2/)
+7. [almostIncreasingSequence](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/7.almostIncreasingSequence/)
+8. [matrixElementsSum](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-2/8.matrixElementsSum/)
 
 ## Level 3: Smooth Sailing
 
-9. [All Longest Strings](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/9.All-Longest-Strings)
-10. commonCharacterCount
+9. [All Longest Strings](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/9.All-Longest-Strings/)
+10. [commonCharacterCount](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/10.commonCharacterCount/)
 11. isLucky
 12. Sort by Height
 13. reverseParentheses
