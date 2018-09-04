@@ -18,13 +18,13 @@
 
 9. [All Longest Strings](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/9.All-Longest-Strings/)
 10. [commonCharacterCount](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/10.commonCharacterCount/)
-11. isLucky
+11. [isLucky](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/11.isLucky/)
 12. Sort by Height
 13. reverseParentheses
 
 ## Level 4: Exploring the Waters
 
-14. 未知
+14. alternatingSums
 15. 未知
 16. 未知
 17. 未知
