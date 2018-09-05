@@ -24,7 +24,7 @@
 
 ## Level 4: Exploring the Waters
 
-14. alternatingSums
+14. [alternatingSums](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-4/14.alternatingSums/)
 15. 未知
 16. 未知
 17. 未知
