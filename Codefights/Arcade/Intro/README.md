@@ -20,7 +20,7 @@
 10. [commonCharacterCount](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/10.commonCharacterCount/)
 11. [isLucky](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/11.isLucky/)
 12. [Sort by Height](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/12.Sort-by-Height/)
-13. reverseParentheses
+13. [reverseParentheses](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-3/13.reverseParentheses/)
 
 ## Level 4: Exploring the Waters
 
