@@ -25,27 +25,27 @@
 ## Level 4: Exploring the Waters
 
 14. [alternatingSums](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-4/14.alternatingSums/)
-15. 未知
-16. 未知
-17. 未知
-18. 未知
+15. [Add Border](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-4/15.Add-Border/)
+1.  Are Similar?
+2.  arrayChange
+3.  palindromeRearranging
 
 ## Level 5: Island of Knowledge
 
-19. 未知
-20. 未知
-21. 未知
-22. 未知
-23. 未知
-24. 未知
+19. areEquallyStrong
+20. arrayMaximalAdjacentDifference
+21. isIPv4Address
+22. avoidObstacles
+23. Box Blur
+24. Minesweeper
 
 ## Level 6: Rains of Reason
 
-25. 未知
-26. 未知
-27. 未知
-28. 未知
-29. 未知
+25. Array Replace
+26. evenDigitsOnly
+27. variableName
+28. alphabeticShift
+29. chessBoardCellColor
 
 ## Level 7: Through the Fog
 
