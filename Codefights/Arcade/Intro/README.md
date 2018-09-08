@@ -28,7 +28,7 @@
 15. [Add Border](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-4/15.Add-Border/)
 16. [Are Similar?](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-4/16.Are-Similar/)
 17. [arrayChange](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-4/17.arrayChange/)
-18. palindromeRearranging
+18. [palindromeRearranging](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-4/18.palindromeRearranging/)
 
 ## Level 5: Island of Knowledge
 
