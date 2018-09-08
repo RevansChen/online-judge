@@ -32,7 +32,7 @@
 
 ## Level 5: Island of Knowledge
 
-19. areEquallyStrong
+19. [areEquallyStrong](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-5/19.areEquallyStrong/)
 20. arrayMaximalAdjacentDifference
 21. isIPv4Address
 22. avoidObstacles
