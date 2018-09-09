@@ -35,7 +35,7 @@
 19. [areEquallyStrong](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-5/19.areEquallyStrong/)
 20. [arrayMaximalAdjacentDifference](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-5/20.arrayMaximalAdjacentDifference/)
 21. [isIPv4Address](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-5/21.isIPv4Address/)
-22. avoidObstacles
+22. [avoidObstacles](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-5/22.avoidObstacles/)
 23. Box Blur
 24. Minesweeper
 
