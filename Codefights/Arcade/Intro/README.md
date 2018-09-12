@@ -43,7 +43,7 @@
 
 25. [Array Replace](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-6/25.Array-Replace/)
 26. [evenDigitsOnly](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-6/26.evenDigitsOnly/)
-27. variableName
+27. [variableName](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-6/27.variableName/)
 28. alphabeticShift
 29. chessBoardCellColor
 
