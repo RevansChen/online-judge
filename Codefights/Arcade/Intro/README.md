@@ -49,7 +49,7 @@
 
 ## Level 7: Through the Fog
 
-30. Circle of Numbers
+30. [Circle of Numbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-7/30.Circle-of-Numbers/)
 31. depositProfit
 32. absoluteValuesSumMinimization
 33. stringsRearrangement
