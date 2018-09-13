@@ -45,7 +45,7 @@
 26. [evenDigitsOnly](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-6/26.evenDigitsOnly/)
 27. [variableName](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-6/27.variableName/)
 28. [alphabeticShift](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-6/28.alphabeticShift/)
-29. chessBoardCellColor
+29. [chessBoardCellColor](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-6/29.chessBoardCellColor/)
 
 ## Level 7: Through the Fog
 
