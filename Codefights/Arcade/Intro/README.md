@@ -51,7 +51,7 @@
 
 30. [Circle of Numbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-7/30.Circle-of-Numbers/)
 31. [depositProfit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-7/31.depositProfit/)
-32. absoluteValuesSumMinimization
+32. [absoluteValuesSumMinimization](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-7/32.absoluteValuesSumMinimization/)
 33. stringsRearrangement
 
 ## Level 8: Diving Deeper
