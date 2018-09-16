@@ -58,7 +58,7 @@
 
 34. [extractEachKth](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-8/34.extractEachKth/)
 35. [firstDigit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-8/35.firstDigit/)
-36. differentSymbolsNaive
+36. [differentSymbolsNaive](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-8/36.differentSymbolsNaive/)
 37. arrayMaxConsecutiveSum
 
 ## Level 9: Dark Wilderness
