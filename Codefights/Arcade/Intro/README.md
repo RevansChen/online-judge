@@ -57,7 +57,7 @@
 ## Level 8: Diving Deeper
 
 34. [extractEachKth](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-8/34.extractEachKth/)
-35. firstDigit
+35. [firstDigit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-8/35.firstDigit/)
 36. differentSymbolsNaive
 37. arrayMaxConsecutiveSum
 
