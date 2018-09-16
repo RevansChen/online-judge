@@ -52,7 +52,7 @@
 30. [Circle of Numbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-7/30.Circle-of-Numbers/)
 31. [depositProfit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-7/31.depositProfit/)
 32. [absoluteValuesSumMinimization](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-7/32.absoluteValuesSumMinimization/)
-33. stringsRearrangement
+33. [stringsRearrangement](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-7/33.stringsRearrangement/)
 
 ## Level 8: Diving Deeper
 
@@ -63,19 +63,19 @@
 
 ## Level 9: Dark Wilderness
 
-38. 未知
-39. 未知
-40. 未知
-41. 未知
-42. 未知
+38. growingPlant
+39. Knapsack Light
+40. longestDigitsPrefix
+41. digitDegree
+42. Bishop and Pawn
 
 ## Level 10: Eruption of Light
 
-43. 未知
-44. 未知
-45. 未知
-46. 未知
-47. 未知
+43. isBeautifulString
+44. Find Email Domain
+45. buildPalindrome
+46. Elections Winners
+47. Is MAC48 Address?
 
 ## Level 11: Rainbow of Clarity
 
@@ -86,8 +86,6 @@
 
 ## Level 12: Land of Logic
 
-50. 未知
-51. 未知
 52. 未知
 53. 未知
 54. 未知
