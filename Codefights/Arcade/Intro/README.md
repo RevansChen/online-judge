@@ -59,7 +59,7 @@
 34. [extractEachKth](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-8/34.extractEachKth/)
 35. [firstDigit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-8/35.firstDigit/)
 36. [differentSymbolsNaive](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-8/36.differentSymbolsNaive/)
-37. arrayMaxConsecutiveSum
+37. [arrayMaxConsecutiveSum](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-8/37.arrayMaxConsecutiveSum/)
 
 ## Level 9: Dark Wilderness
 
@@ -79,10 +79,10 @@
 
 ## Level 11: Rainbow of Clarity
 
-48. 未知
-49. 未知
-50. 未知
-51. 未知
+48. isDigit
+49. lineEncoding
+50. chessKnight
+51. deleteDigit
 
 ## Level 12: Land of Logic
 
