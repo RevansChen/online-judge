@@ -63,7 +63,7 @@
 
 ## Level 9: Dark Wilderness
 
-38. growingPlant
+38. [growingPlant](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-9/38.growingPlant/)
 39. Knapsack Light
 40. longestDigitsPrefix
 41. digitDegree
