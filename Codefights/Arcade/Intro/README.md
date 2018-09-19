@@ -66,7 +66,7 @@
 38. [growingPlant](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-9/38.growingPlant/)
 39. [Knapsack Light](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-9/39.Knapsack-Light/)
 40. [longestDigitsPrefix](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-9/40.longestDigitsPrefix/)
-41. digitDegree
+41. [digitDegree](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-9/41.digitDegree/)
 42. Bishop and Pawn
 
 ## Level 10: Eruption of Light
