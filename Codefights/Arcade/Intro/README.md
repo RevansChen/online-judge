@@ -71,7 +71,7 @@
 
 ## Level 10: Eruption of Light
 
-43. isBeautifulString
+43. [isBeautifulString](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-10/43.isBeautifulString/)
 44. Find Email Domain
 45. buildPalindrome
 46. Elections Winners
@@ -86,12 +86,12 @@
 
 ## Level 12: Land of Logic
 
-52. 未知
-53. 未知
-54. 未知
-55. 未知
-56. 未知
-57. 未知
-58. 未知
-59. 未知
-60. 未知
+52. longestWord
+53. Valid Time
+54. sumUpNumbers
+55. Different Squares
+56. digitsProduct
+57. File Naming
+58. messageFromBinaryCode
+59. spiralNumbers
+60. Sudoku
