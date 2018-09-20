@@ -73,7 +73,7 @@
 
 43. [isBeautifulString](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-10/43.isBeautifulString/)
 44. [Find Email Domain](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-10/44.Find-Email-Domain/)
-45. buildPalindrome
+45. [buildPalindrome](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-10/45.buildPalindrome/)
 46. Elections Winners
 47. Is MAC48 Address?
 
