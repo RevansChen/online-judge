@@ -75,7 +75,7 @@
 44. [Find Email Domain](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-10/44.Find-Email-Domain/)
 45. [buildPalindrome](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-10/45.buildPalindrome/)
 46. [Elections Winners](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-10/46.Elections-Winners/)
-47. Is MAC48 Address?
+47. [Is MAC48 Address?](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-10/47.Is-MAC48-Address/)
 
 ## Level 11: Rainbow of Clarity
 
