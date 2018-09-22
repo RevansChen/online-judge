@@ -79,7 +79,7 @@
 
 ## Level 11: Rainbow of Clarity
 
-48. isDigit
+48. [isDigit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-11/48.isDigit/)
 49. lineEncoding
 50. chessKnight
 51. deleteDigit
