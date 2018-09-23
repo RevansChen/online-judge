@@ -82,7 +82,7 @@
 48. [isDigit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-11/48.isDigit/)
 49. [lineEncoding](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-11/49.lineEncoding/)
 50. [chessKnight](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-11/50.chessKnight/)
-51. deleteDigit
+51. [deleteDigit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-11/51.deleteDigit/)
 
 ## Level 12: Land of Logic
 
