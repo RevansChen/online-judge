@@ -88,7 +88,7 @@
 
 52. [longestWord](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/52.longestWord/)
 53. [Valid Time](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/53.Valid-Time/)
-54. sumUpNumbers
+54. [sumUpNumbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/54.sumUpNumbers/)
 55. Different Squares
 56. digitsProduct
 57. File Naming
