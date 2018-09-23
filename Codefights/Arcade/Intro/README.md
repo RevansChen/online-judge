@@ -86,7 +86,7 @@
 
 ## Level 12: Land of Logic
 
-52. longestWord
+52. [longestWord](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/52.longestWord/)
 53. Valid Time
 54. sumUpNumbers
 55. Different Squares
