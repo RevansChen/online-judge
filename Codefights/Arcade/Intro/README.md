@@ -90,7 +90,7 @@
 53. [Valid Time](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/53.Valid-Time/)
 54. [sumUpNumbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/54.sumUpNumbers/)
 55. [Different Squares](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/55.Different-Squares/)
-56. digitsProduct
+56. [digitsProduct](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/56.digitsProduct/)
 57. File Naming
 58. messageFromBinaryCode
 59. spiralNumbers
