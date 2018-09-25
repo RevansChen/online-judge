@@ -93,5 +93,5 @@
 56. [digitsProduct](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/56.digitsProduct/)
 57. [File Naming](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/57.File-Naming/)
 58. [messageFromBinaryCode](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/58.messageFromBinaryCode/)
-59. spiralNumbers
+59. [spiralNumbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/intro/level-12/59.spiralNumbers/)
 60. Sudoku
