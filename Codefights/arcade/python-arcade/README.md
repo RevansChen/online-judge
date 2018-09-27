@@ -3,7 +3,7 @@
 ## Level 1: Meet Python
 
 1. [Collections Truthness](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/1.Collections-Truthness/)
-2. Efficient Comparison
+2. [Efficient Comparison](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/2.Efficient-Comparison/)
 3. Special Conditional
 4. Language Differences
 5. Count Bits
