@@ -3,7 +3,7 @@
 ## Level 1: Welcome to the Table
 
 1. [projectList](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-1/1.projectList/)
-2. countriesSelection
+2. [countriesSelection](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-1/2.countriesSelection/)
 3. monthlyScholarships
 4. projectsTeam
 5. automaticNotifications
