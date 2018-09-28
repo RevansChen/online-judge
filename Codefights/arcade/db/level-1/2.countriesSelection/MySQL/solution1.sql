@@ -1,6 +1,10 @@
-# MySQL
+-- MySQL
 
 CREATE PROCEDURE countriesSelection()
-BEGIN
-    SELECT * FROM `countries` WHERE continent = "Africa";
-END
+    SELECT
+        *
+    FROM
+        `countries`
+    WHERE
+        continent = "Africa"
+    ;

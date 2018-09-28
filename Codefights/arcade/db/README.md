@@ -4,7 +4,7 @@
 
 1. [projectList](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-1/1.projectList/)
 2. [countriesSelection](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-1/2.countriesSelection/)
-3. monthlyScholarships
+3. [monthlyScholarships](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-1/3.monthlyScholarships/)
 4. projectsTeam
 5. automaticNotifications
 
@@ -18,12 +18,12 @@
 
 ## Level 3: Would you LIKE the Second Meal?
 
-11. Unknown
-12. Unknown
-13. Unknown
-14. Unknown
-15. Unknown
-16. Unknown
+11. suspectsInvestigation
+12. suspectsInvestigation2
+13. securityBreach
+14. testCheck
+15. expressionsVerification
+16. newsSubscribers
 
 ## Level 4: GROUP Dishes BY Type
 
