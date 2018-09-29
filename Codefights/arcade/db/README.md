@@ -12,7 +12,7 @@
 
 6. [volleyballResults](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-2/6.volleyballResults/)
 7. [mostExpensive](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-2/7.mostExpensive/)
-8. contestLeaderboard
+8. [contestLeaderboard](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-2/8.contestLeaderboard/)
 9. gradeDistribution
 10. mischievousNephews
 
