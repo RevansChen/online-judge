@@ -5,7 +5,7 @@
 1. [Collections Truthness](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/1.Collections-Truthness/)
 2. [Efficient Comparison](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/2.Efficient-Comparison/)
 3. [Special Conditional](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/3.Special-Conditional/)
-4. Language Differences
+4. [Language Differences](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/4.Language-Differences/)
 5. Count Bits
 6. Modulus
 7. Simple Sort
