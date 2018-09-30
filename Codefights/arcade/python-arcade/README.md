@@ -4,7 +4,7 @@
 
 1. [Collections Truthness](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/1.Collections-Truthness/)
 2. [Efficient Comparison](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/2.Efficient-Comparison/)
-3. Special Conditional
+3. [Special Conditional](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/3.Special-Conditional/)
 4. Language Differences
 5. Count Bits
 6. Modulus
@@ -15,16 +15,16 @@
 
 ## Level 2: Slithering in Strings
 
-11. Unknown
-12. Unknown
-13. Unknown
-14. Unknown
-15. Unknown
-16. Unknown
-17. Unknown
-18. Unknown
-19. Unknown
-20. Unknown
+11. String Definition
+12. Fix Message
+13. Cat Walk
+14. Convert Tabs
+15. Feedback Review
+16. Is Word Palindrome
+17. Permutation Cipher
+18. Competitive Eating
+19. New Style Formatting
+20. Get Commit
 
 ## Level 3: Lurking in Lists
 
