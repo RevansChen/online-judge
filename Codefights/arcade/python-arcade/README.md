@@ -9,7 +9,7 @@
 5. [Count Bits](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/5.Count-Bits/)
 6. [Modulus](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/6.Modulus/)
 7. [Simple Sort](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/7.Simple-Sort/)
-8. Base Conversion
+8. [Base Conversion](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/8.Base-Conversion/)
 9. Mex Function
 10. List Beautifier
 
