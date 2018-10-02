@@ -3,7 +3,7 @@
 ## Level 1: Intro Gates
 
 1. [Add Two Digits](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-1/1.Add-Two-Digits/)
-2. Largest Number
+2. [Largest Number](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-1/2.Largest-Number/)
 3. Candies
 4. Seats in Theater
 5. Max Multiple
