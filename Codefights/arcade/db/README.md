@@ -14,7 +14,7 @@
 7. [mostExpensive](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-2/7.mostExpensive/)
 8. [contestLeaderboard](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-2/8.contestLeaderboard/)
 9. [gradeDistribution](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-2/9.gradeDistribution/)
-10. mischievousNephews
+10. [mischievousNephews](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-2/10.mischievousNephews/)
 
 ## Level 3: Would you LIKE the Second Meal?
 
