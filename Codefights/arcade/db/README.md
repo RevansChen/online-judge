@@ -18,7 +18,7 @@
 
 ## Level 3: Would you LIKE the Second Meal?
 
-11. suspectsInvestigation
+11. [suspectsInvestigation](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-3/11.suspectsInvestigation/)
 12. suspectsInvestigation2
 13. securityBreach
 14. testCheck
