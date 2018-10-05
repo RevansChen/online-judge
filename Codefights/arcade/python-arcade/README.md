@@ -15,7 +15,7 @@
 
 ## Level 2: Slithering in Strings
 
-11. String Definition
+11. [String Definition](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-2/11.String-Definition/)
 12. Fix Message
 13. Cat Walk
 14. Convert Tabs
