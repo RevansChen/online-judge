@@ -11,7 +11,7 @@
 7. [Simple Sort](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/7.Simple-Sort/)
 8. [Base Conversion](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/8.Base-Conversion/)
 9. [Mex Function](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/9.Mex-Function/)
-10. List Beautifier
+10. [List Beautifier](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-1/10.List-Beautifier/)
 
 ## Level 2: Slithering in Strings
 
