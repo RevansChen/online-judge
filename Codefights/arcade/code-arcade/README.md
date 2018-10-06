@@ -13,7 +13,7 @@
 
 ## Level 2: At the Crossroads
 
-9. Reach Next Level
+9. [Reach Next Level](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/9.Reach-Next-Level/)
 10. Knapsack Light
 11. Extra Number
 12. Is Infinite Process?
