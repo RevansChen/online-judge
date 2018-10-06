@@ -8,7 +8,7 @@
 4. [Seats in Theater](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-1/4.Seats-in-Theater/)
 5. [Max Multiple](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-1/5.Max-Multiple/)
 6. [Circle of Numbers](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-1/6.Circle-of-Numbers/)
-7. Late Ride
+7. [Late Ride](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-1/7.Late-Ride/)
 8. Phone Call
 
 ## Level 2: At the Crossroads
