@@ -15,7 +15,7 @@
 
 9. [Reach Next Level](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/9.Reach-Next-Level/)
 10. [Knapsack Light](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/10.Knapsack-Light/)
-11. Extra Number
+11. [Extra Number](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/11.Extra-Number/)
 12. Is Infinite Process?
 13. Arithmetic Expression
 14. Tennis Set
