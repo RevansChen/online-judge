@@ -14,7 +14,7 @@
 ## Level 2: At the Crossroads
 
 9. [Reach Next Level](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/9.Reach-Next-Level/)
-10. Knapsack Light
+10. [Knapsack Light](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/10.Knapsack-Light/)
 11. Extra Number
 12. Is Infinite Process?
 13. Arithmetic Expression
@@ -24,27 +24,27 @@
 
 ## Level 3: Corner of 0s and 1s
 
-17. Unknown
-18. Unknown
-19. Unknown
-20. Unknown
-21. Unknown
-22. Unknown
-23. Unknown
-24. Unknown
+17. Kill K-th Bit
+18. Array Packing
+19. Range Bit Count
+20. Mirror Bits
+21. Second-Rightmost Zero Bit
+22. Swap Adjacent Bits
+23. Different Rightmost Bit
+24. Equal Pair of Bits
 
 ## Level 4: Loop Tunnel
 
-25. Unknown
-26. Unknown
-27. Unknown
-28. Unknown
-29. Unknown
-30. Unknown
-31. Unknown
-32. Unknown
-33. Unknown
-34. Unknown
+25. Least Factorial
+26. Count Sum of Two Representations 2
+27. Magical Well
+28. Lineup
+29. Addition Without Carrying
+30. Apple Boxes
+31. Increase Number Roundness
+32. Rounders
+33. Candles
+34. Count Black Cells
 
 ## Level 5: List Forest Edge
 
