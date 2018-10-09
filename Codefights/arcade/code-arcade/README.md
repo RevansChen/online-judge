@@ -20,7 +20,7 @@
 13. [Arithmetic Expression](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/13.Arithmetic-Expression/)
 14. [Tennis Set](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/14.Tennis-Set/)
 15. [Will You?](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/15.Will-You/)
-16. Metro Card
+16. [Metro Card](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-2/16.Metro-Card/)
 
 ## Level 3: Corner of 0s and 1s
 
