@@ -26,7 +26,7 @@
 
 17. [Kill K-th Bit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-3/17.Kill-K-th-Bit/)
 18. [Array Packing](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-3/18.Array-Packing/)
-19. Range Bit Count
+19. [Range Bit Count](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-3/19.Range-Bit-Count/)
 20. Mirror Bits
 21. Second-Rightmost Zero Bit
 22. Swap Adjacent Bits
