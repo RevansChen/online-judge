@@ -30,7 +30,7 @@
 20. [Mirror Bits](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-3/20.Mirror-Bits/)
 21. [Second-Rightmost Zero Bit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-3/21.Second-Rightmost-Zero-Bit/)
 22. [Swap Adjacent Bits](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-3/22.Swap-Adjacent-Bits/)
-23. Different Rightmost Bit
+23. [Different Rightmost Bit](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-3/23.Different-Rightmost-Bit/)
 24. Equal Pair of Bits
 
 ## Level 4: Loop Tunnel
