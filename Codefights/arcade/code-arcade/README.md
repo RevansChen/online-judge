@@ -35,7 +35,7 @@
 
 ## Level 4: Loop Tunnel
 
-25. Least Factorial
+25. [Least Factorial](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/code-arcade/level-4/25.Least-Factorial/)
 26. Count Sum of Two Representations 2
 27. Magical Well
 28. Lineup
