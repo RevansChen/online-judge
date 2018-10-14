@@ -13,24 +13,24 @@
 
 ## 2kyu
 
-* [ASCII85 Encoding & Decoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/ascii85-encoding-and-decoding/) - 未註解
+* [ASCII85 Encoding & Decoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/ascii85-encoding-and-decoding/)
 * [Assembler interpreter (part II)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/assembler-interpreter-part-ii/)
-* [My smallest code interpreter (aka Brainf**k)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/my-smallest-code-interpreter-aka-brainf-star-star-k/) - 未註解
+* [My smallest code interpreter (aka Brainf**k)](https://github.com/RevansChen/online-judge/tree/master/Codewars/2kyu/my-smallest-code-interpreter-aka-brainf-star-star-k/)
 
 ## 3kyu
 
-* [Rail Fence Cipher: Encoding and Decoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/3kyu/rail-fence-cipher-encoding-and-decoding/) - 未註解
+* [Rail Fence Cipher: Encoding and Decoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/3kyu/rail-fence-cipher-encoding-and-decoding/)
 
 ## 4kyu
 
-* [Pyramid Slide Down](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/pyramid-slide-down/) - 未註解
+* [Pyramid Slide Down](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/pyramid-slide-down/)
 * [Roman Numerals Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/roman-numerals-encoder/)
 
 ## 5kyu
 
 * [A Chain adding function](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/a-chain-adding-function/)
 * [Connect 4](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/connect-4/)
-* [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/) - 未註解
+* [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/)
 * [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
 
 ## 6kyu
@@ -70,3 +70,4 @@
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
+* [You only need one - Beginner](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/you-only-need-one-beginner/)
