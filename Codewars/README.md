@@ -29,6 +29,7 @@
 ## 5kyu
 
 * [A Chain adding function](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/a-chain-adding-function/)
+* [Argument Mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/argument-mapper/)
 * [Connect 4](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/connect-4/)
 * [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/)
 * [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
