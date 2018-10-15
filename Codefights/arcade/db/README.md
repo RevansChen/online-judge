@@ -21,7 +21,7 @@
 11. [suspectsInvestigation](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-3/11.suspectsInvestigation/)
 12. [suspectsInvestigation2](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-3/12.suspectsInvestigation2/)
 13. [securityBreach](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-3/13.securityBreach/)
-14. testCheck
+14. [testCheck](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/db/level-3/14.testCheck/)
 15. expressionsVerification
 16. newsSubscribers
 
