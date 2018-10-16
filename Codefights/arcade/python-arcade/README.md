@@ -21,7 +21,7 @@
 14. [Convert Tabs](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-2/14.Convert-Tabs/)
 15. [Feedback Review](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-2/15.Feedback-Review/)
 16. [Is Word Palindrome](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-2/16.Is-Word-Palindrome/)
-17. Permutation Cipher
+17. [Permutation Cipher](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-2/17.Permutation-Cipher/)
 18. Competitive Eating
 19. New Style Formatting
 20. Get Commit
