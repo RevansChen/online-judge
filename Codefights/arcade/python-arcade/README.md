@@ -23,7 +23,7 @@
 16. [Is Word Palindrome](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-2/16.Is-Word-Palindrome/)
 17. [Permutation Cipher](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-2/17.Permutation-Cipher/)
 18. [Competitive Eating](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-2/18.Competitive-Eating/)
-19. New Style Formatting
+19. [New Style Formatting](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-2/19.New-Style-Formatting/)
 20. Get Commit
 
 ## Level 3: Lurking in Lists
