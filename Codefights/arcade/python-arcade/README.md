@@ -28,18 +28,18 @@
 
 ## Level 3: Lurking in Lists
 
-21. Unknown
-22. Unknown
-23. Unknown
-24. Unknown
-25. Unknown
+21. [List Multiplication](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-3/21.List-Multiplication/)
+22. Lists Concatenation
+23. Two Teams
+24. Remove Tasks
+25. Print List
 
 ## Level 4: Lambda Illusions
 
-26. Unknown
-27. Unknown
-28. Unknown
-29. Unknown
+26. Repeat Char
+27. Get Points
+28. Sort Students
+29. Is Test Solvable
 
 ## Level 5: Complexity of Comprehension
 
