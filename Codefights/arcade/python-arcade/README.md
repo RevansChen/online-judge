@@ -37,17 +37,17 @@
 ## Level 4: Lambda Illusions
 
 26. [Repeat Char](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-4/26.Repeat-Char/)
-27. Get Points
+27. [Get Points](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-4/27.Get-Points/)
 28. Sort Students
 29. Is Test Solvable
 
 ## Level 5: Complexity of Comprehension
 
-30. Unknown
-31. Unknown
-32. Unknown
-33. Unknown
-34. Unknown
+30. Create Spiral Matrix
+31. Construct Shell
+32. Word Power
+33. Cool Pairs
+34. Multiplication Table
 
 ## Level 6: Fumbling in Functional
 
