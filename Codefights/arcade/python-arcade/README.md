@@ -39,7 +39,7 @@
 26. [Repeat Char](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-4/26.Repeat-Char/)
 27. [Get Points](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-4/27.Get-Points/)
 28. [Sort Students](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-4/28.Sort-Students/)
-29. Is Test Solvable
+29. [Is Test Solvable](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-4/29.Is-Test-Solvable/)
 
 ## Level 5: Complexity of Comprehension
 
