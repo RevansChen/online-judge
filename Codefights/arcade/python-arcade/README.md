@@ -31,7 +31,7 @@
 21. [List Multiplication](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-3/21.List-Multiplication/)
 22. [Lists Concatenation](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-3/22.Lists-Concatenation/)
 23. [Two Teams](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-3/23.Two-Teams/)
-24. Remove Tasks
+24. [Remove Tasks](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-3/24.Remove-Tasks/)
 25. Print List
 
 ## Level 4: Lambda Illusions
