@@ -36,7 +36,7 @@
 
 ## Level 4: Lambda Illusions
 
-26. Repeat Char
+26. [Repeat Char](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-4/26.Repeat-Char/)
 27. Get Points
 28. Sort Students
 29. Is Test Solvable
