@@ -47,7 +47,7 @@
 31. [Construct Shell](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-5/31.Construct-Shell/)
 32. [Word Power](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-5/32.Word-Power/)
 33. [Cool Pairs](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-5/33.Cool-Pairs/)
-34. Multiplication Table
+34. [Multiplication Table](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-5/34.Multiplication-Table/)
 
 ## Level 6: Fumbling in Functional
 
