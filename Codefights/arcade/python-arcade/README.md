@@ -51,7 +51,7 @@
 
 ## Level 6: Fumbling in Functional
 
-35. Chess Teams
+35. [Chess Teams](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/35.Chess-Teams/)
 36. Fix Result
 37. College Courses
 38. Create Histogram
