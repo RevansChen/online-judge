@@ -46,16 +46,16 @@
 30. [Create Spiral Matrix](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-5/30.Create-Spiral-Matrix/)
 31. [Construct Shell](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-5/31.Construct-Shell/)
 32. [Word Power](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-5/32.Word-Power/)
-33. Cool Pairs
+33. [Cool Pairs](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-5/33.Cool-Pairs/)
 34. Multiplication Table
 
 ## Level 6: Fumbling in Functional
 
-35. Unknown
-36. Unknown
-37. Unknown
-38. Unknown
-39. Unknown
+35. Chess Teams
+36. Fix Result
+37. College Courses
+38. Create Histogram
+39. Least Common Denominator
 
 ## Level 7: Caravan of Collections
 
