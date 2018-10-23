@@ -53,7 +53,7 @@
 
 35. [Chess Teams](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/35.Chess-Teams/)
 36. [Fix Result](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/36.Fix-Result/)
-37. College Courses
+37. [College Courses](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/37.College-Courses/)
 38. Create Histogram
 39. Least Common Denominator
 
