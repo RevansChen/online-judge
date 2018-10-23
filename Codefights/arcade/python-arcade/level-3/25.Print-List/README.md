@@ -1,1 +1,1 @@
-# [Print List](https://app.codesignal.com/python-arcade/lurking-in-lists/2nwFuRGHpmfRJ8GCo/)
+# [Print List](https://app.codesignal.com/arcade/python-arcade/lurking-in-lists/2nwFuRGHpmfRJ8GCo/)

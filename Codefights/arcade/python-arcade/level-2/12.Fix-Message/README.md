@@ -1,1 +1,1 @@
-# [Fix Message](https://app.codesignal.com/python-arcade/slithering-in-strings/Wmdqw8NBzcbqHSsw7/)
+# [Fix Message](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/Wmdqw8NBzcbqHSsw7/)

@@ -1,1 +1,1 @@
-# [Convert Tabs](https://app.codesignal.com/python-arcade/slithering-in-strings/joYKtZyJDDsFQBLHP/)
+# [Convert Tabs](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/joYKtZyJDDsFQBLHP/)

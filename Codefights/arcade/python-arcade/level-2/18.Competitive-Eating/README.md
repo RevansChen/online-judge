@@ -1,1 +1,1 @@
-# [Competitive Eating](https://app.codesignal.com/python-arcade/slithering-in-strings/BPFsda3ddPJruBX24/)
+# [Competitive Eating](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/BPFsda3ddPJruBX24/)

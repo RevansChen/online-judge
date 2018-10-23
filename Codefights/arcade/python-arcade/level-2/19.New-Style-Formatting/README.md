@@ -1,1 +1,1 @@
-# [New Style Formatting](https://app.codesignal.com/python-arcade/slithering-in-strings/GADdmPKQivSzQGYLw/)
+# [New Style Formatting](https://app.codesignal.com/arcade/python-arcade/slithering-in-strings/GADdmPKQivSzQGYLw/)

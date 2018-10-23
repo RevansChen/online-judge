@@ -1,1 +1,1 @@
-# [List Beautifier](https://app.codesignal.com/python-arcade/meet-python/ZiezPAoWeaK9ThXvQ/)
+# [List Beautifier](https://app.codesignal.com/arcade/python-arcade/meet-python/ZiezPAoWeaK9ThXvQ/)

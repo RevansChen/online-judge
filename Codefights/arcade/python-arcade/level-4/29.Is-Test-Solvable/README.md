@@ -1,1 +1,1 @@
-# [Is Test Solvable](https://app.codesignal.com/python-arcade/lambda-illusions/eP7hJDmLdZym2Kdo3/)
+# [Is Test Solvable](https://app.codesignal.com/arcade/python-arcade/lambda-illusions/eP7hJDmLdZym2Kdo3/)

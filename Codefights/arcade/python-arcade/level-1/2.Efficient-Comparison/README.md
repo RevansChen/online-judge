@@ -1,1 +1,1 @@
-# [Efficient Comparison](https://app.codesignal.com/python-arcade/meet-python/NWtSkp4Gd8ZeKc5R5/)
+# [Efficient Comparison](https://app.codesignal.com/arcade/python-arcade/meet-python/NWtSkp4Gd8ZeKc5R5/)
