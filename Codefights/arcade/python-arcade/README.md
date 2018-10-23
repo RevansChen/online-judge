@@ -52,21 +52,21 @@
 ## Level 6: Fumbling in Functional
 
 35. [Chess Teams](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/35.Chess-Teams/)
-36. Fix Result
+36. [Fix Result](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/36.Fix-Result/)
 37. College Courses
 38. Create Histogram
 39. Least Common Denominator
 
 ## Level 7: Caravan of Collections
 
-40. Unknown
-41. Unknown
-42. Unknown
-43. Unknown
-44. Unknown
-45. Unknown
-46. Unknown
-47. Unknown
+40. Dictionary Keys
+41. Unique Characters
+42. Correct Scholarships
+43. Startup Name
+44. Words Recognition
+45. Transpose Dictionary
+46. Doodled Password
+47. Frequency Analysis
 
 ## Level 8: Itertools Kit
 
