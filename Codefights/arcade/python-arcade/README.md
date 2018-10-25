@@ -55,7 +55,7 @@
 36. [Fix Result](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/36.Fix-Result/)
 37. [College Courses](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/37.College-Courses/)
 38. [Create Histogram](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/38.Create-Histogram/)
-39. Least Common Denominator
+39. [Least Common Denominator](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-6/39.Least-Common-Denominator/)
 
 ## Level 7: Caravan of Collections
 
