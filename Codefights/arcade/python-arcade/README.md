@@ -61,7 +61,7 @@
 
 40. [Dictionary Keys](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-7/40.Dictionary-Keys/)
 41. [Unique Characters](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-7/41.Unique-Characters/)
-42. Correct Scholarships
+42. [Correct Scholarships](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-7/42.Correct-Scholarships/)
 43. Startup Name
 44. Words Recognition
 45. Transpose Dictionary
@@ -70,13 +70,13 @@
 
 ## Level 8: Itertools Kit
 
-48. Unknown
-49. Unknown
-50. Unknown
-51. Unknown
-52. Unknown
-53. Unknown
-54. Unknown
+48. Cyclic Name
+49. Memory Pills
+50. Float Range
+51. Rock Paper Scissors
+52. Kth Permutation
+53. Crazyball
+54. Cracking Password
 
 ## Level 9: Drilling the Lists
 
