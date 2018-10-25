@@ -60,7 +60,7 @@
 ## Level 7: Caravan of Collections
 
 40. [Dictionary Keys](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-7/40.Dictionary-Keys/)
-41. Unique Characters
+41. [Unique Characters](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-7/41.Unique-Characters/)
 42. Correct Scholarships
 43. Startup Name
 44. Words Recognition
