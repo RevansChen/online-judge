@@ -66,7 +66,7 @@
 44. [Words Recognition](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-7/44.Words-Recognition/)
 45. [Transpose Dictionary](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-7/45.Transpose-Dictionary/)
 46. [Doodled Password](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-7/46.Doodled-Password/)
-47. Frequency Analysis
+47. [Frequency Analysis](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-7/47.Frequency-Analysis/)
 
 ## Level 8: Itertools Kit
 
