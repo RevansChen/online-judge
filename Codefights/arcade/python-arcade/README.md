@@ -73,23 +73,23 @@
 48. [Cyclic Name](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/48.Cyclic-Name/)
 49. [Memory Pills](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/49.Memory-Pills/)
 50. [Float Range](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/50.Float-Range/)
-51. Rock Paper Scissors
+51. [Rock Paper Scissors](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/51.Rock-Paper-Scissors/)
 52. Kth Permutation
 53. Crazyball
 54. Cracking Password
 
 ## Level 9: Drilling the Lists
 
-55. Unknown
-56. Unknown
-57. Unknown
-58. Unknown
-59. Unknown
-60. Unknown
-61. Unknown
-62. Unknown
-63. Unknown
-64. Unknown
+55. Twins Score
+56. Pressure Gauges
+57. Correct Lineup
+58. Group Dating
+59. Fix Tree
+60. Pref Sum
+61. Math Practice
+62. Check Participants
+63. Fibonacci List
+64. Primes Sum
 
 ## Level 10: Yin and Yang of Yields
 
