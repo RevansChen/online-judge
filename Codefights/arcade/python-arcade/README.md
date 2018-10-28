@@ -72,7 +72,7 @@
 
 48. [Cyclic Name](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/48.Cyclic-Name/)
 49. [Memory Pills](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/49.Memory-Pills/)
-50. Float Range
+50. [Float Range](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/50.Float-Range/)
 51. Rock Paper Scissors
 52. Kth Permutation
 53. Crazyball
