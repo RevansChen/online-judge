@@ -75,7 +75,7 @@
 50. [Float Range](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/50.Float-Range/)
 51. [Rock Paper Scissors](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/51.Rock-Paper-Scissors/)
 52. [Kth Permutation](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/52.Kth-Permutation/)
-53. Crazyball
+53. [Crazyball](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-8/53.Crazyball/)
 54. Cracking Password
 
 ## Level 9: Drilling the Lists
