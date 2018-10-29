@@ -80,7 +80,7 @@
 
 ## Level 9: Drilling the Lists
 
-55. Twins Score
+55. [Twins Score](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/55.Cracking-Password/)
 56. Pressure Gauges
 57. Correct Lineup
 58. Group Dating
