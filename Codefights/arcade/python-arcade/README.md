@@ -82,7 +82,7 @@
 
 55. [Twins Score](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/55.Cracking-Password/)
 56. [Pressure Gauges](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/56.Pressure-Gauges/)
-57. Correct Lineup
+57. [Correct Lineup](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/57.Correct-Lineup/)
 58. Group Dating
 59. Fix Tree
 60. Pref Sum
