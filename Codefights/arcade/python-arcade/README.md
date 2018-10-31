@@ -86,7 +86,7 @@
 58. [Group Dating](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/58.Group-Dating/)
 59. [Fix Tree](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/59.Fix-Tree/)
 60. [Pref Sum](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/60.Pref-Sum/)
-61. Math Practice
+61. [Math Practice](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/61.Math-Practice/)
 62. Check Participants
 63. Fibonacci List
 64. Primes Sum
