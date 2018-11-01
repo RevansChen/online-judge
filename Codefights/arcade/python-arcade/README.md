@@ -88,19 +88,19 @@
 60. [Pref Sum](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/60.Pref-Sum/)
 61. [Math Practice](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/61.Math-Practice/)
 62. [Check Participants](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/62.Check-Participants/)
-63. Fibonacci List
+63. [Fibonacci List](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-9/63.Fibonacci-List/)
 64. Primes Sum
 
 ## Level 10: Yin and Yang of Yields
 
-65. Unknown
-66. Unknown
-67. Unknown
-68. Unknown
-69. Unknown
-70. Unknown
-71. Unknown
-72. Unknown
+65. Calc Bonuses
+66. Calc Final Score
+67. Fibonacci Generator
+68. Calkin Wilf Sequence
+69. Check Password
+70. Greetings Generator
+71. Range Float
+72. Super Prize
 
 ## Level 11: Higher Order Thinking
 
