@@ -93,7 +93,7 @@
 
 ## Level 10: Yin and Yang of Yields
 
-65. Calc Bonuses
+65. [Calc Bonuses](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/65.Calc-Bonuses/)
 66. Calc Final Score
 67. Fibonacci Generator
 68. Calkin Wilf Sequence
