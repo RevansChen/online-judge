@@ -96,7 +96,7 @@
 65. [Calc Bonuses](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/65.Calc-Bonuses/)
 66. [Calc Final Score](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/66.Calc-Final-Score/)
 67. [Fibonacci Generator](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/67.Fibonacci-Generator/)
-68. Calkin Wilf Sequence
+68. [Calkin Wilf Sequence](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/68.Calkin-Wilf-Sequence/)
 69. Check Password
 70. Greetings Generator
 71. Range Float
