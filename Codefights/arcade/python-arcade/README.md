@@ -97,18 +97,18 @@
 66. [Calc Final Score](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/66.Calc-Final-Score/)
 67. [Fibonacci Generator](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/67.Fibonacci-Generator/)
 68. [Calkin Wilf Sequence](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/68.Calkin-Wilf-Sequence/)
-69. Check Password
+69. [Check Password](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/69.Check-Password/)
 70. Greetings Generator
 71. Range Float
 72. Super Prize
 
 ## Level 11: Higher Order Thinking
 
-73. Unknown
-74. Unknown
-75. Unknown
-76. Unknown
-77. Unknown
+73. Try Functions
+74. Two Lines
+75. Simple Composition
+76. Functions Composition
+77. Merging Vines
 
 ## Level 12: Showing Class
 
