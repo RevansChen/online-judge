@@ -105,7 +105,7 @@
 ## Level 11: Higher Order Thinking
 
 73. [Try Functions](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-11/73.Try-Functions/)
-74. Two Lines
+74. [Two Lines](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-11/74.Two-Lines/)
 75. Simple Composition
 76. Functions Composition
 77. Merging Vines
