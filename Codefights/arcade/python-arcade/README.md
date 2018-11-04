@@ -100,7 +100,7 @@
 69. [Check Password](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/69.Check-Password/)
 70. [Greetings Generator](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/70.Greetings-Generator/)
 71. [Range Float](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/71.Range-Float/)
-72. Super Prize
+72. [Super Prize](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-10/72.Super-Prize/)
 
 ## Level 11: Higher Order Thinking
 
