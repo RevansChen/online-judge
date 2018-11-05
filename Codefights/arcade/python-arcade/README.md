@@ -106,20 +106,20 @@
 
 73. [Try Functions](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-11/73.Try-Functions/)
 74. [Two Lines](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-11/74.Two-Lines/)
-75. Simple Composition
+75. [Simple Composition](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-11/75.Simple-Composition/)
 76. Functions Composition
 77. Merging Vines
 
 ## Level 12: Showing Class
 
-78. Unknown
-79. Unknown
-80. Unknown
-81. Unknown
-82. Unknown
-83. Unknown
-84. Unknown
-85. Unknown
+78. Count Visitors
+79. Sign
+80. Primary School
+81. User Attribute
+82. Sort Codesginal Users
+83. Is Cool Team
+84. Create Die
+85. To Human Age
 
 ## Level 13: Picturing the Parsibilities
 
