@@ -114,7 +114,7 @@
 
 78. [Count Visitors](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/78.Count-Visitors/)
 79. [Sign](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/79.Sign/)
-80. Primary School
+80. [Primary School](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/80.Primary-School/)
 81. User Attribute
 82. Sort Codesginal Users
 83. Is Cool Team
