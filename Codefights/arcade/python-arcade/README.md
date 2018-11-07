@@ -117,7 +117,7 @@
 80. [Primary School](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/80.Primary-School/)
 81. [User Attribute](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/81.User-Attribute/)
 82. [Sort Codesginal Users](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/82.Sort-Codesginal-Users/)
-83. Is Cool Team
+83. [Is Cool Team](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/83.Is-Cool-Team/)
 84. Create Die
 85. To Human Age
 
