@@ -118,15 +118,15 @@
 81. [User Attribute](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/81.User-Attribute/)
 82. [Sort Codesginal Users](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/82.Sort-Codesginal-Users/)
 83. [Is Cool Team](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/83.Is-Cool-Team/)
-84. Create Die
+84. [Create Die](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-12/84.Create-Die/)
 85. To Human Age
 
 ## Level 13: Picturing the Parsibilities
 
-86. Unknown
-87. Unknown
-88. Unknown
-89. Unknown
-90. Unknown
-91. Unknown
-92. Unknown
+86. Xml Tags
+87. Build Command
+88. Website Calendar
+89. Malicious Program
+90. Url Similarity
+91. Page Complexity
+92. Weird Encoding
