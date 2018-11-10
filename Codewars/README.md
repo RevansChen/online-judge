@@ -37,6 +37,7 @@
 
 ## 6kyu
 
+* [ASCII Fun #1: X- Shape](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-1-x-shape/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
