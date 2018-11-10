@@ -35,6 +35,7 @@
 * [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/)
 * [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
 * [Poker cards reducer](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/poker-cards-reducer/)
+* [RGB To Hex Conversion](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/rgb-to-hex-conversion/)
 
 ## 6kyu
 
