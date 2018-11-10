@@ -34,6 +34,7 @@
 * [Going to zero or to infinity?](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/going-to-zero-or-to-infinity/)
 * [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/)
 * [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
+* [Poker cards reducer](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/poker-cards-reducer/)
 
 ## 6kyu
 
