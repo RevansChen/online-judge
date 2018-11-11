@@ -50,6 +50,7 @@
 * [A Rule of Divisibility by 7](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/a-rule-of-divisibility-by-7/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
+* [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
 
 ## 8kyu
 
