@@ -129,4 +129,4 @@
 89. [Malicious Program](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-13/89.Malicious-Program/)
 90. [Url Similarity](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-13/90.Url-Similarity/)
 91. [Page Complexity](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-13/91.Page-Complexity/)
-92. Weird Encoding
+92. [Weird Encoding](https://github.com/RevansChen/online-judge/tree/master/Codefights/arcade/python-arcade/level-13/92.Weird-Encoding/)
