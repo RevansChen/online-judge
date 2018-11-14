@@ -21,7 +21,7 @@
 
 ### Hash Tables
 
-* groupingDishes
+* [groupingDishes](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/hash-tables/groupingDishes/)
 * areFollowingPatterns
 * containsCloseNums
 * possibleSums
