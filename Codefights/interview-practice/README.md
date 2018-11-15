@@ -23,7 +23,7 @@
 
 * [groupingDishes](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/hash-tables/groupingDishes/)
 * [areFollowingPatterns](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/hash-tables/areFollowingPatterns/)
-* containsCloseNums
+* [containsCloseNums](https://github.com/RevansChen/online-judge/tree/master/Codefights/interview-practice/hash-tables/containsCloseNums/)
 * possibleSums
 * swapLexOrder
 
