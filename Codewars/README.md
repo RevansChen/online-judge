@@ -43,6 +43,7 @@
 * [ASCII Fun #4: Build a pyramid](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-4-build-a-pyramid/)
 * [Duplicate Arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-arguments/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
+* [Find The Parity Outlier](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-parity-outlier/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
 
