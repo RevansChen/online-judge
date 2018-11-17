@@ -32,10 +32,11 @@
 * [Argument Mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/argument-mapper/)
 * [Connect 4](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/connect-4/)
 * [Going to zero or to infinity?](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/going-to-zero-or-to-infinity/)
+* [Interlaced Spiral Cipher](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/interlaced-spiral-cipher/)
+* [RGB To Hex Conversion](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/rgb-to-hex-conversion/)
+* [Poker cards reducer](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/poker-cards-reducer/)
 * [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/)
 * [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
-* [Poker cards reducer](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/poker-cards-reducer/)
-* [RGB To Hex Conversion](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/rgb-to-hex-conversion/)
 
 ## 6kyu
 
