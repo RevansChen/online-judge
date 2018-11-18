@@ -39,6 +39,7 @@
 * [Secret knock](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/secret-knock/)
 * [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
 * [Simple CSS selector comparison](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-css-selector-comparison/)
+* [String incrementer](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/string-incrementer/)
 
 ## 6kyu
 
