@@ -44,6 +44,7 @@
 ## 6kyu
 
 * [ASCII Fun #1: X- Shape](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-1-x-shape/)
+* [ASCII Fun #2: Funny Dots](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-2-funny-dots/)
 * [ASCII Fun #4: Build a pyramid](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-4-build-a-pyramid/)
 * [Duplicate Arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-arguments/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
