@@ -54,6 +54,7 @@
 * [IP address finder [Code-golf]](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ip-address-finder-code-golf/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
+* [Micro-World](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/micro-world/)
 
 ## 7kyu
 
