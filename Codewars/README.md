@@ -55,6 +55,7 @@
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
 * [Micro-World](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/micro-world/)
+* [Regexp Basics - is it IPv4 address?](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/regexp-basics-is-it-ipv4-address/)
 
 ## 7kyu
 

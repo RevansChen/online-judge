@@ -1,0 +1,18 @@
+# Python - 3.4.3
+
+Test.describe('Basic tests')
+Test.assert_equals(ipv4_address(''), False)
+Test.assert_equals(ipv4_address('127.0.0.1'), True)
+Test.assert_equals(ipv4_address('0.0.0.0'), True)
+Test.assert_equals(ipv4_address('255.255.255.255'), True)
+Test.assert_equals(ipv4_address('10.20.30.40'), True)
+Test.assert_equals(ipv4_address('10.256.30.40'), False)
+Test.assert_equals(ipv4_address('10.20.030.40'), False)
+Test.assert_equals(ipv4_address('127.0.1'), False)
+Test.assert_equals(ipv4_address('127.0.0.0.1'), False)
+Test.assert_equals(ipv4_address('..255.255'), False)
+Test.assert_equals(ipv4_address('127.0.0.1\n'), False)
+Test.assert_equals(ipv4_address('\n127.0.0.1'), False)
+Test.assert_equals(ipv4_address(' 127.0.0.1'), False)
+Test.assert_equals(ipv4_address('127.0.0.1 '), False)
+Test.assert_equals(ipv4_address(' 127.0.0.1 '), False)
