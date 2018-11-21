@@ -67,6 +67,7 @@
 * [AD2070: Help Lorimar troubleshoot his robots- ultrasonic distance analysis](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ad2070-help-lorimar-troubleshoot-his-robots-ultrasonic-distance-analysis/)
 * [Area of a Circle](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/area-of-a-circle/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
+* [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
