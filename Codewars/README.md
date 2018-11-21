@@ -59,6 +59,7 @@
 * [Sort the odd](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sort-the-odd/)
 * [Sortable Shapes](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sortable-shapes/)
 * [Surrounding Primes for a value](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/surrounding-primes-for-a-value/)
+* [Twisted Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/twisted-sum/)
 
 ## 7kyu
 
