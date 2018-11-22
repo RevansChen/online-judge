@@ -75,6 +75,7 @@
 
 ## 8kyu
 
+* [101 Dalmatians - squash the bugs, not the dogs!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/101-dalmatians-squash-the-bugs-not-the-dogs/)
 * [Area of a Square (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square-easy/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
