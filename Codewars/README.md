@@ -80,6 +80,7 @@
 * [A Needle in the Haystack](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-needle-in-the-haystack/)
 * [Add new item (collections are passed by reference)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/add-new-item-collections-are-passed-by-reference/)
 * [Age Range Compatibility Equation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/age-range-compatibility-equation/)
+* [Alan Partridge II - Apple Turnover](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/alan-partridge-ii-apple-turnover/)
 * [Area of a Square (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square-easy/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
