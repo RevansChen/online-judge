@@ -83,6 +83,7 @@
 * [Alan Partridge II - Apple Turnover](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/alan-partridge-ii-apple-turnover/)
 * [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/alternating-case-%3C-equals-%3E-alternating-case/)
 * [Are You Playing Banjo?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/are-you-playing-banjo/)
+* [Area of a Square](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square/)
 * [Area of a Square (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square-easy/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
