@@ -85,6 +85,7 @@
 * [Are You Playing Banjo?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/are-you-playing-banjo/)
 * [Area of a Square](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square/)
 * [Area of a Square (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square-easy/)
+* [Barking mad](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/barking-mad/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
 * [Count of positives / sum of negatives](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-of-positives-slash-sum-of-negatives/)
