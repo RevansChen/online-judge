@@ -66,6 +66,7 @@
 * [A Rule of Divisibility by 7](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/a-rule-of-divisibility-by-7/)
 * [AD2070: Help Lorimar troubleshoot his robots- ultrasonic distance analysis](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ad2070-help-lorimar-troubleshoot-his-robots-ultrasonic-distance-analysis/)
 * [Area of a Circle](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/area-of-a-circle/)
+* [Averages of numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/averages-of-numbers/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
 * [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
