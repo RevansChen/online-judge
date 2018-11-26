@@ -69,6 +69,7 @@
 * [Averages of numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/averages-of-numbers/)
 * [Coding 3min : Planting Trees](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coding-3min-planting-trees/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
+* [Count the Ones](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/count-the-ones/)
 * [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
