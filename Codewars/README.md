@@ -43,6 +43,7 @@
 
 ## 6kyu
 
+* [A disguised sequence (I)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/a-disguised-sequence-i/)
 * [ASCII Fun #1: X- Shape](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-1-x-shape/)
 * [ASCII Fun #2: Funny Dots](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-2-funny-dots/)
 * [ASCII Fun #3: Puzzle Tiles](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-3-puzzle-tiles/)
