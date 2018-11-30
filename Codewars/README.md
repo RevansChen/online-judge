@@ -50,6 +50,7 @@
 * [ASCII Fun #3: Puzzle Tiles](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-3-puzzle-tiles/)
 * [ASCII Fun #4: Build a pyramid](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-4-build-a-pyramid/)
 * [Bouncing Balls](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/bouncing-balls/)
+* [Brainfuck generator](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/brainfuck-generator/)
 * [Count characters in your string](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/count-characters-in-your-string/)
 * [Duplicate Arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-arguments/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
