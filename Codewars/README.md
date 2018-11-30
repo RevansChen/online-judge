@@ -52,6 +52,7 @@
 * [Bouncing Balls](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/bouncing-balls/)
 * [Brainfuck generator](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/brainfuck-generator/)
 * [Build a pile of Cubes](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/build-a-pile-of-cubes/)
+* [Buying a car](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/buying-a-car/)
 * [Count characters in your string](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/count-characters-in-your-string/)
 * [Duplicate Arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-arguments/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
