@@ -54,6 +54,7 @@
 * [Build a pile of Cubes](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/build-a-pile-of-cubes/)
 * [Buying a car](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/buying-a-car/)
 * [Calculate the function f(x) for a simple linear sequence (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/calculate-the-function-f-x-for-a-simple-linear-sequence-easy/)
+* [Calculate the function f(x) for a simple linear sequence (Medium)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/calculate-the-function-f-x-for-a-simple-linear-sequence-medium/)
 * [Count characters in your string](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/count-characters-in-your-string/)
 * [Duplicate Arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-arguments/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
