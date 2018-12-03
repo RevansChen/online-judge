@@ -59,6 +59,7 @@
 * [Count characters in your string](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/count-characters-in-your-string/)
 * [Data Reverse](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/data-reverse/)
 * [Decode the Morse code](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/decode-the-morse-code/)
+* [Decompose a number](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/decompose-a-number/)
 * [Duplicate Arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-arguments/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
 * [Find The Parity Outlier](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-parity-outlier/)
