@@ -61,6 +61,7 @@
 * [Decode the Morse code](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/decode-the-morse-code/)
 * [Decompose a number](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/decompose-a-number/)
 * [Design a Simple Automaton (Finite State Machine)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/design-a-simple-automaton-finite-state-machine/)
+* [Does my number look big in this?](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/does-my-number-look-big-in-this/)
 * [Duplicate Arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-arguments/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
 * [Find The Parity Outlier](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-parity-outlier/)
