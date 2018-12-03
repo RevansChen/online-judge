@@ -57,6 +57,7 @@
 * [Calculate the function f(x) for a simple linear sequence (Medium)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/calculate-the-function-f-x-for-a-simple-linear-sequence-medium/)
 * [Change Machine](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/change-machine/)
 * [Count characters in your string](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/count-characters-in-your-string/)
+* [Data Reverse](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/data-reverse/)
 * [Duplicate Arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-arguments/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
 * [Find The Parity Outlier](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-parity-outlier/)
