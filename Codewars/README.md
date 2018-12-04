@@ -66,6 +66,7 @@
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
 * [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/esolang-interpreters-number-1-introduction-to-esolangs-and-my-first-interpreter-ministringfuck/)
 * [Esolang: Tick](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/esolang-tick/)
+* [Fibonacci, Tribonacci and friends](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/fibonacci-tribonacci-and-friends/)
 * [Find The Parity Outlier](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-parity-outlier/)
 * [IP address finder [Code-golf]](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ip-address-finder-code-golf/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
