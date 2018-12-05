@@ -71,6 +71,7 @@
 * [Find the Mine!](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-mine/)
 * [Find the odd int](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-odd-int/)
 * [Find The Parity Outlier](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-parity-outlier/)
+* [If you can read this...](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/if-you-can-read-this-dot-dot-dot/)
 * [IP address finder [Code-golf]](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ip-address-finder-code-golf/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
