@@ -69,6 +69,7 @@
 * [Fibonacci, Tribonacci and friends](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/fibonacci-tribonacci-and-friends/)
 * [Financing Plan on Planet XY140Z-n](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/financing-plan-on-planet-xy140z-n/)
 * [Find the Mine!](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-mine/)
+* [Find the odd int](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-odd-int/)
 * [Find The Parity Outlier](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-parity-outlier/)
 * [IP address finder [Code-golf]](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ip-address-finder-code-golf/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
