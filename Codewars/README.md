@@ -73,6 +73,7 @@
 * [Find The Parity Outlier](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-parity-outlier/)
 * [If you can read this...](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/if-you-can-read-this-dot-dot-dot/)
 * [IP address finder [Code-golf]](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ip-address-finder-code-golf/)
+* [IPv4 to int32](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ipv4-to-int32/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
 * [Micro-World](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/micro-world/)
