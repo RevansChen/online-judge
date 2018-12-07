@@ -76,6 +76,7 @@
 * [IPv4 to int32](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ipv4-to-int32/)
 * [IQ Test](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/iq-test/)
 * [Lambdas as a mechanism for Open/Closed](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/lambdas-as-a-mechanism-for-open-slash-closed/)
+* [Length of missing array](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/length-of-missing-array/)
 * [Maze Runner](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/maze-runner/)
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
 * [Micro-World](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/micro-world/)
