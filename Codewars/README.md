@@ -82,6 +82,7 @@
 * [Mexican Wave](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/mexican-wave/)
 * [Micro-World](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/micro-world/)
 * [Multi-tap Keypad Text Entry on an Old Mobile Phone](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/multi-tap-keypad-text-entry-on-an-old-mobile-phone/)
+* [Ore Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ore-numbers/)
 * [Regexp Basics - is it IPv4 address?](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/regexp-basics-is-it-ipv4-address/)
 * [Sort the odd](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sort-the-odd/)
 * [Sortable Shapes](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sortable-shapes/)
