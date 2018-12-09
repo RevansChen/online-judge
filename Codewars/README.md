@@ -108,6 +108,7 @@
 * [Find the next perfect square!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-next-perfect-square/)
 * [Find the volume of a Cone.](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-volume-of-a-cone/)
 * [Gauß needs help! (Sums of a lot of numbers).](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/gauss-needs-help-sums-of-a-lot-of-numbers/)
+* [Head, Tail, Init and Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/head-tail-init-and-last/)
 * [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
