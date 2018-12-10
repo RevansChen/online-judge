@@ -111,6 +111,7 @@
 * [Head, Tail, Init and Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/head-tail-init-and-last/)
 * [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
 * [Largest 5 digit number in a series](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/largest-5-digit-number-in-a-series/)
+* [Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/last/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
