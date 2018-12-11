@@ -114,6 +114,7 @@
 * [Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/last/)
 * [Make them bark!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/make-them-bark/)
 * [Money, Money, Money](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/money-money-money/)
+* [Mumbling](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mumbling/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
