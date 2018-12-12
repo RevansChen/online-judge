@@ -117,6 +117,7 @@
 * [Mumbling](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mumbling/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 * [Ones and Zeros](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ones-and-zeros/)
+* [Order of weight](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/order-of-weight/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
 * [Simple string division II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-string-division-ii/)
