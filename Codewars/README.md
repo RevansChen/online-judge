@@ -125,6 +125,7 @@
 * [Shortest Word](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/shortest-word/)
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
 * [Simple string division II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-string-division-ii/)
+* [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
 
 ## 8kyu
 
