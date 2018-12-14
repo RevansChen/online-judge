@@ -127,6 +127,7 @@
 * [Simple string division II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-string-division-ii/)
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
+* [ToLeetSpeak](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/toleetspeak/)
 
 ## 8kyu
 
