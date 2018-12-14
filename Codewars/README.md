@@ -128,6 +128,7 @@
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
 * [ToLeetSpeak](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/toleetspeak/)
+* [Volume of a cup](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/volume-of-a-cup/)
 
 ## 8kyu
 
