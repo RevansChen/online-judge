@@ -145,6 +145,7 @@
 * [Area of a Square (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square-easy/)
 * [Barking mad](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/barking-mad/)
 * [BASIC: Making Six Toast.](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-making-six-toast/)
+* [Basic Mathematical Operations](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-mathematical-operations/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
 * [Count of positives / sum of negatives](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-of-positives-slash-sum-of-negatives/)
