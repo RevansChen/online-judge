@@ -129,6 +129,7 @@
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
 * [ToLeetSpeak](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/toleetspeak/)
 * [Volume of a cup](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/volume-of-a-cup/)
+* [You're a square!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/youre-a-square/)
 
 ## 8kyu
 
