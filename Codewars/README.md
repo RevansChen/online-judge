@@ -23,6 +23,7 @@
 
 ## 4kyu
 
+* [Codewars style ranking system](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/codewars-style-ranking-system/)
 * [Pyramid Slide Down](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/pyramid-slide-down/)
 * [Roman Numerals Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/4kyu/roman-numerals-encoder/)
 
