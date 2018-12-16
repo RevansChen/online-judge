@@ -19,6 +19,7 @@
 
 ## 3kyu
 
+* [Base64 Encoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/3kyu/base64-encoding/)
 * [Rail Fence Cipher: Encoding and Decoding](https://github.com/RevansChen/online-judge/tree/master/Codewars/3kyu/rail-fence-cipher-encoding-and-decoding/)
 
 ## 4kyu
