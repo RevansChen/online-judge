@@ -153,6 +153,7 @@
 * [BEETLEJUICE X3 "ENTERTRAINMENT" // BUG FIX](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beetlejuice-x3-entertrainment-slash-slash-bug-fix/)
 * [Beginner - Lost Without a Map](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-lost-without-a-map/)
 * [Beginner - Reduce but Grow](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-reduce-but-grow/)
+* [Bin to Decimal](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/bin-to-decimal/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
 * [Count of positives / sum of negatives](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-of-positives-slash-sum-of-negatives/)
