@@ -158,6 +158,7 @@
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Chuck Norris VII - True or False? (Beginner)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/chuck-norris-vii-true-or-false-beginner/)
 * [CIS 122 #1 Simple Printing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/cis-122-number-1-simple-printing/)
+* [Classic Hello World](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/classic-hello-world/)
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
 * [Count of positives / sum of negatives](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-of-positives-slash-sum-of-negatives/)
 * [Difference of Volumes of Cuboids](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/difference-of-volumes-of-cuboids/)
