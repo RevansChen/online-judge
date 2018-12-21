@@ -163,6 +163,7 @@
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
 * [Color Ghost](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/color-ghost/)
 * [Compare within margin](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/compare-within-margin/)
+* [Convert a Boolean to a String](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-a-boolean-to-a-string/)
 * [Count of positives / sum of negatives](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-of-positives-slash-sum-of-negatives/)
 * [Difference of Volumes of Cuboids](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/difference-of-volumes-of-cuboids/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
