@@ -169,6 +169,7 @@
 * [Convert a string to an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-a-string-to-an-array/)
 * [Convert boolean values to strings 'Yes' or 'No'.](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-boolean-values-to-strings-yes-or-no/)
 * [Convert number to reversed array of digits](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-number-to-reversed-array-of-digits/)
+* [Correct the mistakes of the character recognition software](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/correct-the-mistakes-of-the-character-recognition-software/)
 * [Count of positives / sum of negatives](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-of-positives-slash-sum-of-negatives/)
 * [Difference of Volumes of Cuboids](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/difference-of-volumes-of-cuboids/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
