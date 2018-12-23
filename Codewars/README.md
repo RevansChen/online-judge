@@ -172,6 +172,7 @@
 * [Correct the mistakes of the character recognition software](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/correct-the-mistakes-of-the-character-recognition-software/)
 * [Count by X](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-by-x/)
 * [Count of positives / sum of negatives](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-of-positives-slash-sum-of-negatives/)
+* [Count the Monkeys!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-the-monkeys/)
 * [Difference of Volumes of Cuboids](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/difference-of-volumes-of-cuboids/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
