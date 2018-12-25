@@ -176,6 +176,7 @@
 * [Count the number of cubes with paint on](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-the-number-of-cubes-with-paint-on/)
 * [Counting sheep...](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/counting-sheep-dot-dot-dot/)
 * [Crash Override](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/crash-override/)
+* [Days in the year](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/days-in-the-year/)
 * [Difference of Volumes of Cuboids](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/difference-of-volumes-of-cuboids/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
