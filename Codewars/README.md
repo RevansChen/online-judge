@@ -184,6 +184,7 @@
 * [Do I get a bonus?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/do-i-get-a-bonus/)
 * [Dollars and Cents](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/dollars-and-cents/)
 * [Double Char](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/double-char/)
+* [Drink about](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/drink-about/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
