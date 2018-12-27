@@ -181,6 +181,7 @@
 * [Did she say hallo?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/did-she-say-hallo/)
 * [Difference of Volumes of Cuboids](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/difference-of-volumes-of-cuboids/)
 * [DNA to RNA Conversion](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/dna-to-rna-conversion/)
+* [Do I get a bonus?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/do-i-get-a-bonus/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
