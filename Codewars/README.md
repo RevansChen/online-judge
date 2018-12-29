@@ -188,6 +188,7 @@
 * [Duck Duck Goose](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/duck-duck-goose/)
 * [Enumerable Magic #1 - True for All?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-1-true-for-all/)
 * [Even or Odd](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/even-or-odd/)
+* [Evil or Odious](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/evil-or-odious/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
