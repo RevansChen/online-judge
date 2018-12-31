@@ -193,6 +193,7 @@
 * [Exclamation marks series #2: Remove all exclamation marks from the end of sentence](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclamation-marks-series-number-2-remove-all-exclamation-marks-from-the-end-of-sentence/)
 * [Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclamation-marks-series-number-4-remove-all-exclamation-marks-from-sentence-but-ensure-a-exclamation-mark-at-the-end-of-string/)
 * [Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclamation-marks-series-number-6-remove-n-exclamation-marks-in-the-sentence-from-left-to-right/)
+* [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclamation-marks-series-number-11-replace-all-vowel-to-exclamation-mark-in-the-sentence/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
