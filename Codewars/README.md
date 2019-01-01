@@ -200,6 +200,7 @@
 * [Find Multiples of a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-multiples-of-a-number/)
 * [Find numbers which are divisible by given number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-numbers-which-are-divisible-by-given-number/)
 * [Find the first non-consecutive number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-first-non-consecutive-number/)
+* [Find n'th Digit of a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-nth-digit-of-a-number/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
