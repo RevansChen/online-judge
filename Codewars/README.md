@@ -198,6 +198,7 @@
 * [Fake Binary](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fake-binary/)
 * [Find Maximum and Minimum Values of a List](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-maximum-and-minimum-values-of-a-list/)
 * [Find Multiples of a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-multiples-of-a-number/)
+* [Find numbers which are divisible by given number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-numbers-which-are-divisible-by-given-number/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
