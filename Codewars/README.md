@@ -204,6 +204,7 @@
 * [Find the position!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-position/)
 * [Find the Slope](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-slope/)
 * [Finish Guess the Number Game](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/finish-guess-the-number-game/)
+* [Fix the Bugs (Syntax) - My First Kata](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-the-bugs-syntax-my-first-kata/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
