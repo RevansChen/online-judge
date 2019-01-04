@@ -208,6 +208,7 @@
 * [Fix your code before the garden dies!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-your-code-before-the-garden-dies/)
 * [For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/for-ufc-fans-total-beginners-conor-mcgregor-vs-george-saint-pierre/)
 * [Formatting decimal places #0](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/formatting-decimal-places-number-0/)
+* [Freudian translator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/freudian-translator/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
