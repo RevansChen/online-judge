@@ -216,6 +216,7 @@
 * [Get number from string](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-number-from-string/)
 * [Get the mean of an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-the-mean-of-an-array/)
 * [Grasshopper - Bug Squashing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-bug-squashing/)
+* [Grasshopper - Combine strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-combine-strings/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
 * [Is he gonna survive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-he-gonna-survive/)
 * [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
