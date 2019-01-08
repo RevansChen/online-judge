@@ -221,6 +221,7 @@
 * [Grasshopper - Debug sayHello](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-debug-sayhello/)
 * [Grasshopper - If/else syntax debug](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-if-slash-else-syntax-debug/)
 * [Grasshopper - Make change](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-make-change/)
+* [Grasshopper - Messi Goals](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-messi-goals/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
 * [Is he gonna survive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-he-gonna-survive/)
 * [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
