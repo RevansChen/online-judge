@@ -225,6 +225,7 @@
 * [Grasshopper - Personalized Message](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-personalized-message/)
 * [Grasshopper - Shopping list](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-shopping-list/)
 * [Grasshopper - Summation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-summation/)
+* [Grasshopper - Terminal Game Turn Function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-terminal-game-turn-function/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
 * [Is he gonna survive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-he-gonna-survive/)
 * [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
