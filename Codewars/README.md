@@ -232,6 +232,7 @@
 * [Hex to Decimal](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/hex-to-decimal/)
 * [Holiday VIII - Duty Free](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/holiday-viii-duty-free/)
 * [How do I compare numbers?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-do-i-compare-numbers/)
+* [How good are you really?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-good-are-you-really/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
 * [Is he gonna survive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-he-gonna-survive/)
 * [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
