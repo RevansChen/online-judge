@@ -235,6 +235,7 @@
 * [How good are you really?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-good-are-you-really/)
 * [How many lightsabers do you own?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-lightsabers-do-you-own/)
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
+* [How much water do I need?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-much-water-do-i-need/)
 * [Is he gonna survive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-he-gonna-survive/)
 * [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
 * [Is your period late?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-your-period-late/)
