@@ -237,6 +237,7 @@
 * [How many stairs will Suzuki climb in 20 years?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-many-stairs-will-suzuki-climb-in-20-years/)
 * [How much water do I need?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-much-water-do-i-need/)
 * [How old will I be in 2099?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-old-will-i-be-in-2099/)
+* [I love you, a little , a lot, passionately ... not at all](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/i-love-you-a-little-a-lot-passionately-dot-dot-dot-not-at-all/)
 * [Is he gonna survive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-he-gonna-survive/)
 * [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
 * [Is your period late?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-your-period-late/)
