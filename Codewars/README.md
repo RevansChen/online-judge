@@ -245,6 +245,7 @@
 * [Is there a vowel in there?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-there-a-vowel-in-there/)
 * [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
 * [Is your period late?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-your-period-late/)
+* [Jenny's secret message](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/jennys-secret-message/)
 * [Man in the west](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/man-in-the-west/)
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
 * [My head is at the wrong end!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/my-head-is-at-the-wrong-end/)
