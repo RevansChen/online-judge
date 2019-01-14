@@ -241,6 +241,7 @@
 * [Invert values](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/invert-values/)
 * [Is he gonna survive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-he-gonna-survive/)
 * [Is it a number?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-it-a-number/)
+* [Is the string uppercase?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-the-string-uppercase/)
 * [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
 * [Is your period late?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-your-period-late/)
 * [Man in the west](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/man-in-the-west/)
