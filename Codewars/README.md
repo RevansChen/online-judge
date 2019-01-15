@@ -248,6 +248,7 @@
 * [Jenny's secret message](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/jennys-secret-message/)
 * [Keep Hydrated!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/keep-hydrated-1/)
 * [Keep up the hoop](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/keep-up-the-hoop/)
+* [Lario and Muigi Pipe Problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/lario-and-muigi-pipe-problem/)
 * [Man in the west](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/man-in-the-west/)
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
 * [My head is at the wrong end!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/my-head-is-at-the-wrong-end/)
