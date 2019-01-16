@@ -251,6 +251,7 @@
 * [Lario and Muigi Pipe Problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/lario-and-muigi-pipe-problem/)
 * [Leonardo Dicaprio and Oscars](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/leonardo-dicaprio-and-oscars/)
 * [Localize The Barycenter of a Triangle](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/localize-the-barycenter-of-a-triangle/)
+* [Logical calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/logical-calculator/)
 * [Man in the west](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/man-in-the-west/)
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
 * [My head is at the wrong end!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/my-head-is-at-the-wrong-end/)
