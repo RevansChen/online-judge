@@ -253,6 +253,7 @@
 * [Localize The Barycenter of a Triangle](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/localize-the-barycenter-of-a-triangle/)
 * [Logical calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/logical-calculator/)
 * [Man in the west](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/man-in-the-west/)
+* [Miles per gallon to kilometers per liter](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/miles-per-gallon-to-kilometers-per-liter/)
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
 * [My head is at the wrong end!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/my-head-is-at-the-wrong-end/)
 * [NBA full 48 minutes average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/nba-full-48-minutes-average/)
