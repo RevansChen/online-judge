@@ -258,6 +258,7 @@
 * [Multiply the number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply-the-number/)
 * [My head is at the wrong end!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/my-head-is-at-the-wrong-end/)
 * [N-th Power](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/n-th-power/)
+* [Name on billboard](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/name-on-billboard/)
 * [NBA full 48 minutes average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/nba-full-48-minutes-average/)
 * [Opposite number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposite-number/)
 * [Parse nice int from char problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/parse-nice-int-from-char-problem/)
