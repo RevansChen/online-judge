@@ -260,6 +260,7 @@
 * [N-th Power](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/n-th-power/)
 * [Name on billboard](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/name-on-billboard/)
 * [NBA full 48 minutes average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/nba-full-48-minutes-average/)
+* [No zeros for heros](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/no-zeros-for-heros/)
 * [Opposite number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposite-number/)
 * [Parse nice int from char problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/parse-nice-int-from-char-problem/)
 * [Points of Reflection](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/points-of-reflection/)
