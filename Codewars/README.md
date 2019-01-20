@@ -266,6 +266,7 @@
 * [Number toString](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-tostring/)
 * [Object Oriented Piracy](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/object-oriented-piracy/)
 * [Opposite number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposite-number/)
+* [Opposites Attract](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposites-attract/)
 * [Parse nice int from char problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/parse-nice-int-from-char-problem/)
 * [Points of Reflection](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/points-of-reflection/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
