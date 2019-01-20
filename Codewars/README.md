@@ -264,6 +264,7 @@
 * [noobCode 01: SUPERSIZE ME.... or rather, this integer!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/)
 * [Number of People in the Bus](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-of-people-in-the-bus/)
 * [Number toString](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-tostring/)
+* [Object Oriented Piracy](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/object-oriented-piracy/)
 * [Opposite number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposite-number/)
 * [Parse nice int from char problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/parse-nice-int-from-char-problem/)
 * [Points of Reflection](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/points-of-reflection/)
