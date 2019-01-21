@@ -268,6 +268,7 @@
 * [Opposite number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposite-number/)
 * [Opposites Attract](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposites-attract/)
 * [Palindrome Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/palindrome-strings/)
+* [Parse float](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/parse-float/)
 * [Parse nice int from char problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/parse-nice-int-from-char-problem/)
 * [Points of Reflection](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/points-of-reflection/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
