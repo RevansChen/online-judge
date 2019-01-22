@@ -274,6 +274,7 @@
 * [Playing with cubes II](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/playing-with-cubes-ii/)
 * [Plural](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/plural/)
 * [Points of Reflection](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/points-of-reflection/)
+* [Pole Vault Starting Marks](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/pole-vault-starting-marks/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
