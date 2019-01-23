@@ -278,6 +278,7 @@
 * [Powers of 2](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/powers-of-2/)
 * [Pre-FizzBuzz Workout #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/pre-fizzbuzz-workout-number-1/)
 * [Price of Mangoes](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/price-of-mangoes/)
+* [Printing Array elements with Comma delimiters](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/printing-array-elements-with-comma-delimiters/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
