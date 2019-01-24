@@ -281,6 +281,7 @@
 * [Printing Array elements with Comma delimiters](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/printing-array-elements-with-comma-delimiters/)
 * [Regex count lowercase letters](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/regex-count-lowercase-letters/)
 * [Regexp Basics - is it a digit?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/regexp-basics-is-it-a-digit/)
+* [Regular Ball Super Ball](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/regular-ball-super-ball/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
