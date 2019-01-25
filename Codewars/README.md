@@ -283,6 +283,7 @@
 * [Regexp Basics - is it a digit?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/regexp-basics-is-it-a-digit/)
 * [Regular Ball Super Ball](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/regular-ball-super-ball/)
 * [Remove duplicates from list](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/remove-duplicates-from-list/)
+* [Remove exclamation marks](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/remove-exclamation-marks/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
