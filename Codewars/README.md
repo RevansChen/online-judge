@@ -289,6 +289,7 @@
 * [Remove String Spaces](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/remove-string-spaces/)
 * [Remove the time](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/remove-the-time/)
 * [Removing Elements](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/removing-elements/)
+* [Return Negative](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-negative/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
