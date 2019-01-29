@@ -295,6 +295,7 @@
 * [Rock Paper Scissors!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/rock-paper-scissors/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
 * [Simple Fun #1: Seats in Theater](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-fun-number-1-seats-in-theater/)
+* [Simple Fun #261: Whose Move](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-fun-number-261-whose-move/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
