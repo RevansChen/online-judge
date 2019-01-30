@@ -299,6 +299,7 @@
 * [Simple validation of a username with regex](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-validation-of-a-username-with-regex/)
 * [Smallest unused ID](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/smallest-unused-id/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
+* [Square(n) Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/square-n-sum/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
