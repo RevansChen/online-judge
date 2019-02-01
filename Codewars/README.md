@@ -306,6 +306,7 @@
 * [String Templates - Bug Fixing #5](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/string-templates-bug-fixing-number-5/)
 * [Stringy Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/stringy-strings/)
 * [Subtract the Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/subtract-the-sum/)
+* [Sum Mixed Array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-mixed-array/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
