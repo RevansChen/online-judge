@@ -310,6 +310,7 @@
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
 * [Sum of positive](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-positive/)
 * [Sum without highest and lowest number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-without-highest-and-lowest-number/)
+* [Surface Area and Volume of a Box](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/surface-area-and-volume-of-a-box/)
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
 * [You Can't Code Under Pressure #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/you-cant-code-under-pressure-number-1/)
