@@ -292,6 +292,7 @@
 * [Remove the time](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/remove-the-time/)
 * [Removing Elements](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/removing-elements/)
 * [Return Negative](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-negative/)
+* [Return the day](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-the-day/)
 * [Return Two Highest Values in List](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-two-highest-values-in-list/)
 * [Reversing Words in a String](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reversing-words-in-a-string/)
 * [Rock Paper Scissors!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/rock-paper-scissors/)
