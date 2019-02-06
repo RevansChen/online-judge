@@ -316,6 +316,7 @@
 * [Surface Area and Volume of a Box](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/surface-area-and-volume-of-a-box/)
 * [Switch it Up!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/switch-it-up/)
 * [The 'if' function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-if-function/)
+* [The Wide-Mouthed frog!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-wide-mouthed-frog/)
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
 * [You Can't Code Under Pressure #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/you-cant-code-under-pressure-number-1/)
