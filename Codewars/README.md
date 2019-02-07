@@ -323,6 +323,7 @@
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Transportation on vacation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/transportation-on-vacation/)
 * [Triple Trouble](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/triple-trouble-2/)
+* [Unexpected parsing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unexpected-parsing/)
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
 * [You Can't Code Under Pressure #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/you-cant-code-under-pressure-number-1/)
 * [You only need one - Beginner](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/you-only-need-one-beginner/)
