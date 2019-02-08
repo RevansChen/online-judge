@@ -328,5 +328,6 @@
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
 * [validate code with simple regex](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/validate-code-with-simple-regex/)
 * [Volume of a Cuboid](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/volume-of-a-cuboid/)
+* [Watermelon](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/watermelon/)
 * [You Can't Code Under Pressure #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/you-cant-code-under-pressure-number-1/)
 * [You only need one - Beginner](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/you-only-need-one-beginner/)
