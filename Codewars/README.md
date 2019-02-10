@@ -88,6 +88,7 @@
 * [Ore Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ore-numbers/)
 * [Pascal's Triangle #2](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/pascals-triangle-number-2/)
 * [Rainfall](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/rainfall/)
+* [Rectangle into Squares](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/rectangle-into-squares/)
 * [Regexp Basics - is it IPv4 address?](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/regexp-basics-is-it-ipv4-address/)
 * [Sort the odd](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sort-the-odd/)
 * [Sortable Shapes](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sortable-shapes/)
