@@ -91,6 +91,7 @@
 * [Rectangle into Squares](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/rectangle-into-squares/)
 * [Reducing by steps](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/reducing-by-steps/)
 * [Regexp Basics - is it IPv4 address?](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/regexp-basics-is-it-ipv4-address/)
+* [Required Data I](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/required-data-i/)
 * [Sort the odd](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sort-the-odd/)
 * [Sortable Shapes](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sortable-shapes/)
 * [Surrounding Primes for a value](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/surrounding-primes-for-a-value/)
