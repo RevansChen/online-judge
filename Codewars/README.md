@@ -95,6 +95,7 @@
 * [Rotate Array (JS)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/rotate-array-js/)
 * [Routes in a square grid](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/routes-in-a-square-grid/)
 * [Selective Array Reversing](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/selective-array-reversing/)
+* [Simple Fun #169: Press Button](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/simple-fun-number-169-press-button/)
 * [Sort the odd](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sort-the-odd/)
 * [Sortable Shapes](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/sortable-shapes/)
 * [Surrounding Primes for a value](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/surrounding-primes-for-a-value/)
