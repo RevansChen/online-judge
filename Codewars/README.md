@@ -102,6 +102,7 @@
 * [Statistics for an Athletic Association](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/statistics-for-an-athletic-association/)
 * [Stop gninnipS My sdroW!](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/stop-gninnips-my-sdrow/)
 * [Surrounding Primes for a value](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/surrounding-primes-for-a-value/)
+* [Title Case](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/title-case/)
 * [Twisted Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/twisted-sum/)
 
 ## 7kyu
