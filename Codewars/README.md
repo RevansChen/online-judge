@@ -106,6 +106,7 @@
 * [Triangle number check](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/triangle-number-check/)
 * [Twisted Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/twisted-sum/)
 * [Unique In Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/unique-in-order/)
+* [up AND down](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/up-and-down/)
 
 ## 7kyu
 
