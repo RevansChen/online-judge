@@ -108,6 +108,7 @@
 * [Unique In Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/unique-in-order/)
 * [up AND down](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/up-and-down/)
 * [Valid Phone Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/valid-phone-number/)
+* [Vasya - Clerk](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/vasya-clerk/)
 
 ## 7kyu
 
