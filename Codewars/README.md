@@ -110,6 +110,7 @@
 * [Valid Phone Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/valid-phone-number/)
 * [Vasya - Clerk](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/vasya-clerk/)
 * [Write Number in Expanded Form](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/write-number-in-expanded-form/)
+* [Zeros and Ones](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/zeros-and-ones/)
 
 ## 7kyu
 
