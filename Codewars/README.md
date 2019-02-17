@@ -157,6 +157,7 @@
 * [2 + 2 * 2 problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/2-plus-2-star-2-problem/)
 * [101 Dalmatians - squash the bugs, not the dogs!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/101-dalmatians-squash-the-bugs-not-the-dogs/)
 * [A Needle in the Haystack](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-needle-in-the-haystack/)
+* [A Strange Trip to the Market](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-strange-trip-to-the-market/)
 * [Add new item (collections are passed by reference)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/add-new-item-collections-are-passed-by-reference/)
 * [Age Range Compatibility Equation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/age-range-compatibility-equation/)
 * [Alan Partridge II - Apple Turnover](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/alan-partridge-ii-apple-turnover/)
