@@ -217,6 +217,7 @@
 * [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclamation-marks-series-number-11-replace-all-vowel-to-exclamation-mark-in-the-sentence/)
 * [Exclusive "or" (xor) Logical Operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclusive-or-xor-logical-operator/)
 * [Fake Binary](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fake-binary/)
+* [Filter out the geese](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/filter-out-the-geese/)
 * [Find Maximum and Minimum Values of a List](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-maximum-and-minimum-values-of-a-list/)
 * [Find Multiples of a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-multiples-of-a-number/)
 * [Find numbers which are divisible by given number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-numbers-which-are-divisible-by-given-number/)
