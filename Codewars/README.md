@@ -345,6 +345,7 @@
 * [They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-1-are-they-opposite/)
 * [Tip Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/tip-calculator/)
 * [To square(root) or not to square(root)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/to-square-root-or-not-to-square-root/)
+* [Total amount of points](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/total-amount-of-points/)
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Transportation on vacation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/transportation-on-vacation/)
 * [Triple Trouble](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/triple-trouble-2/)
