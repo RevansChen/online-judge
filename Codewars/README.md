@@ -339,6 +339,7 @@
 * [Sum without highest and lowest number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-without-highest-and-lowest-number/)
 * [Surface Area and Volume of a Box](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/surface-area-and-volume-of-a-box/)
 * [Switch it Up!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/switch-it-up/)
+* [The Feast of Many Beasts](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-feast-of-many-beasts/)
 * [The 'if' function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-if-function/)
 * [The Wide-Mouthed frog!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-wide-mouthed-frog/)
 * [They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-1-are-they-opposite/)
