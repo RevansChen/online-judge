@@ -331,6 +331,7 @@
 * [String repeat](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/string-repeat/)
 * [String Templates - Bug Fixing #5](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/string-templates-bug-fixing-number-5/)
 * [Stringy Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/stringy-strings/)
+* [Student's Final Grade](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/students-final-grade/)
 * [Subtract the Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/subtract-the-sum/)
 * [Sum Mixed Array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-mixed-array/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
