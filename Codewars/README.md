@@ -33,6 +33,7 @@
 * [A Chain adding function](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/a-chain-adding-function/)
 * [Argument Mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/argument-mapper/)
 * [Bowling score calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/bowling-score-calculator/)
+* [By the Power Set of Castle Grayskull](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/by-the-power-set-of-castle-grayskull/)
 * [Connect 4](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/connect-4/)
 * [Going to zero or to infinity?](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/going-to-zero-or-to-infinity/)
 * [Interlaced Spiral Cipher](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/interlaced-spiral-cipher/)
