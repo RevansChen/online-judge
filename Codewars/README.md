@@ -36,6 +36,7 @@
 * [By the Power Set of Castle Grayskull](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/by-the-power-set-of-castle-grayskull/)
 * [Connect 4](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/connect-4/)
 * [Convert PascalCase string into snake_case](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/convert-pascalcase-string-into-snake-case/)
+* [Conway's Game of Life](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/conways-game-of-life/)
 * [Going to zero or to infinity?](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/going-to-zero-or-to-infinity/)
 * [Interlaced Spiral Cipher](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/interlaced-spiral-cipher/)
 * [RGB To Hex Conversion](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/rgb-to-hex-conversion/)
