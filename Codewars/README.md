@@ -38,6 +38,7 @@
 * [Convert PascalCase string into snake_case](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/convert-pascalcase-string-into-snake-case/)
 * [Conway's Game of Life](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/conways-game-of-life/)
 * [Directions Reduction](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/directions-reduction/)
+* [Esolang: Stick](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/esolang-stick/)
 * [Going to zero or to infinity?](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/going-to-zero-or-to-infinity/)
 * [Interlaced Spiral Cipher](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/interlaced-spiral-cipher/)
 * [RGB To Hex Conversion](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/rgb-to-hex-conversion/)
