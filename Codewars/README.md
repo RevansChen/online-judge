@@ -42,6 +42,7 @@
 * [Going to zero or to infinity?](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/going-to-zero-or-to-infinity/)
 * [Human Readable Time](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/human-readable-time/)
 * [Interlaced Spiral Cipher](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/interlaced-spiral-cipher/)
+* [Is my friend cheating?](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/is-my-friend-cheating/)
 * [RGB To Hex Conversion](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/rgb-to-hex-conversion/)
 * [Poker cards encoder/decoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/poker-cards-encoder-slash-decoder/)
 * [Poker cards reducer](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/poker-cards-reducer/)
