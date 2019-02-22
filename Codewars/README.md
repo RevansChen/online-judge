@@ -47,6 +47,7 @@
 * [Memoized Fibonacci](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/memoized-fibonacci/)
 * [Numbers that are a power of their sum of digits](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/numbers-that-are-a-power-of-their-sum-of-digits/)
 * [Ookkk, Ok, O? Ook, Ok, Ooo!](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/ookkk-ok-o-ook-ok-ooo/)
+* [PaginationHelper](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/paginationhelper/)
 * [RGB To Hex Conversion](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/rgb-to-hex-conversion/)
 * [Poker cards encoder/decoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/poker-cards-encoder-slash-decoder/)
 * [Poker cards reducer](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/poker-cards-reducer/)
