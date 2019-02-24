@@ -206,6 +206,7 @@
 * [Convert number to reversed array of digits](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-number-to-reversed-array-of-digits/)
 * [Correct the mistakes of the character recognition software](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/correct-the-mistakes-of-the-character-recognition-software/)
 * [Count by X](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-by-x/)
+* [Count Odd Numbers below n](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-odd-numbers-below-n/)
 * [Count of positives / sum of negatives](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-of-positives-slash-sum-of-negatives/)
 * [Count the Monkeys!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-the-monkeys/)
 * [Count the number of cubes with paint on](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-the-number-of-cubes-with-paint-on/)
