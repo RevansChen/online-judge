@@ -223,6 +223,7 @@
 * [Drink about](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/drink-about/)
 * [Duck Duck Goose](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/duck-duck-goose/)
 * [Enumerable Magic #1 - True for All?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-1-true-for-all/)
+* [Enumerable Magic #3 - Does My List Include This?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-3-does-my-list-include-this/)
 * [Even or Odd](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/even-or-odd/)
 * [Evil or Odious](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/evil-or-odious/)
 * [Exclamation marks series #1: Remove a exclamation mark from the end of string](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclamation-marks-series-number-1-remove-a-exclamation-mark-from-the-end-of-string/)
