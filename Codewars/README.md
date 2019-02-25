@@ -243,6 +243,7 @@
 * [Find n'th Digit of a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-nth-digit-of-a-number/)
 * [Find the position!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-position/)
 * [Find the Slope](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-slope/)
+* [Find the smallest integer in the array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-smallest-integer-in-the-array/)
 * [Finish Guess the Number Game](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/finish-guess-the-number-game/)
 * [Fix the Bugs (Syntax) - My First Kata](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-the-bugs-syntax-my-first-kata/)
 * [Fix your code before the garden dies!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-your-code-before-the-garden-dies/)
