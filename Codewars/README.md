@@ -252,6 +252,7 @@
 * [Freudian translator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/freudian-translator/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
 * [Function 1 - hello world](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-1-hello-world/)
+* [Function 2 - squaring an argument](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-2-squaring-an-argument/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [Generate user links](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/generate-user-links/)
 * [Geometry Basics: Distance between points in 2D](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/geometry-basics-distance-between-points-in-2d/)
