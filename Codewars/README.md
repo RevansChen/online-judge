@@ -339,6 +339,7 @@
 * [Return the day](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-the-day/)
 * [Return Two Highest Values in List](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-two-highest-values-in-list/)
 * [Reverse List Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reverse-list-order/)
+* [Reversed sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reversed-sequence/)
 * [Reversing Words in a String](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reversing-words-in-a-string/)
 * [Rock Paper Scissors!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/rock-paper-scissors/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
