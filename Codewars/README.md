@@ -360,6 +360,7 @@
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
 * [Sum of positive](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-positive/)
 * [Sum without highest and lowest number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-without-highest-and-lowest-number/)
+* [Super Duper Easy](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/super-duper-easy/)
 * [Surface Area and Volume of a Box](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/surface-area-and-volume-of-a-box/)
 * [Switch it Up!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/switch-it-up/)
 * [The Feast of Many Beasts](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-feast-of-many-beasts/)
