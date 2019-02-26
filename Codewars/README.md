@@ -272,6 +272,7 @@
 * [Grasshopper - Variable Assignment Debug](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-variable-assignment-debug/)
 * [Greek Sort](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/greek-sort/)
 * [Heads and Legs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/heads-and-legs/)
+* [Hello, Name or World!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/hello-name-or-world/)
 * [Hex to Decimal](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/hex-to-decimal/)
 * [Holiday VIII - Duty Free](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/holiday-viii-duty-free/)
 * [How do I compare numbers?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-do-i-compare-numbers/)
