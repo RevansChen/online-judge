@@ -316,6 +316,7 @@
 * [Palindrome Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/palindrome-strings/)
 * [Parse float](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/parse-float/)
 * [Parse nice int from char problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/parse-nice-int-from-char-problem/)
+* [Pillars](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/pillars/)
 * [Pirates!! Are the Cannons ready!??](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/pirates-are-the-cannons-ready/)
 * [Playing with cubes II](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/playing-with-cubes-ii/)
 * [Plural](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/plural/)
