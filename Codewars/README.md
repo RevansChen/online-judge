@@ -375,6 +375,7 @@
 * [Training JS #32: methods of Math---round() ceil() and floor()](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-32-methods-of-math-round-ceil-and-floor/)
 * [Transportation on vacation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/transportation-on-vacation/)
 * [Triple Trouble](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/triple-trouble-2/)
+* [Twice as old](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/twice-as-old/)
 * [Unexpected parsing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unexpected-parsing/)
 * [Unfinished Loop - Bug Fixing #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unfinished-loop-bug-fixing-number-1/)
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
