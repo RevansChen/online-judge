@@ -191,6 +191,7 @@
 * [Calculate average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-average/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Capitalization and Mutability](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/capitalization-and-mutability/)
+* [Century From Year](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/century-from-year/)
 * [Chuck Norris VII - True or False? (Beginner)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/chuck-norris-vii-true-or-false-beginner/)
 * [CIS 122 #1 Simple Printing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/cis-122-number-1-simple-printing/)
 * [Classic Hello World](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/classic-hello-world/)
