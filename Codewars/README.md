@@ -222,6 +222,7 @@
 * [Do I get a bonus?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/do-i-get-a-bonus/)
 * [Dollars and Cents](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/dollars-and-cents/)
 * [Double Char](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/double-char/)
+* [Draw stairs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/draw-stairs/)
 * [Drink about](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/drink-about/)
 * [Duck Duck Goose](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/duck-duck-goose/)
 * [Enumerable Magic #1 - True for All?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-1-true-for-all/)
