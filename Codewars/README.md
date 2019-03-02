@@ -242,6 +242,7 @@
 * [Filter out the geese](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/filter-out-the-geese/)
 * [Find Maximum and Minimum Values of a List](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-maximum-and-minimum-values-of-a-list/)
 * [Find Multiples of a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-multiples-of-a-number/)
+* [Find Nearest square number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-nearest-square-number/)
 * [Find numbers which are divisible by given number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-numbers-which-are-divisible-by-given-number/)
 * [Find the first non-consecutive number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-first-non-consecutive-number/)
 * [Find the Integral](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-integral/)
