@@ -245,6 +245,7 @@
 * [Find Nearest square number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-nearest-square-number/)
 * [Find numbers which are divisible by given number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-numbers-which-are-divisible-by-given-number/)
 * [Find the first non-consecutive number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-first-non-consecutive-number/)
+* [Find the force of gravity between two objects](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-force-of-gravity-between-two-objects/)
 * [Find the Integral](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-integral/)
 * [Find n'th Digit of a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-nth-digit-of-a-number/)
 * [Find the position!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-position/)
