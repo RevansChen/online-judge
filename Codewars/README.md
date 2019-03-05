@@ -269,6 +269,7 @@
 * [Function 2 - squaring an argument](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-2-squaring-an-argument/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
 * [Generate user links](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/generate-user-links/)
+* [Geometry Basics: Circle Circumference in 2D](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/geometry-basics-circle-circumference-in-2d/)
 * [Geometry Basics: Distance between points in 2D](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/geometry-basics-distance-between-points-in-2d/)
 * [Get Nth Even Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-nth-even-number/)
 * [Get number from string](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-number-from-string/)
