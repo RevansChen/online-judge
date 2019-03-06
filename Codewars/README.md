@@ -318,6 +318,7 @@
 * [Localize The Barycenter of a Triangle](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/localize-the-barycenter-of-a-triangle/)
 * [Logical calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/logical-calculator/)
 * [Man in the west](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/man-in-the-west/)
+* [Merge two sorted arrays into one](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/merge-two-sorted-arrays-into-one/)
 * [Miles per gallon to kilometers per liter](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/miles-per-gallon-to-kilometers-per-liter/)
 * [Multiple of index](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiple-of-index/)
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
