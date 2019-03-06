@@ -319,6 +319,7 @@
 * [Logical calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/logical-calculator/)
 * [Man in the west](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/man-in-the-west/)
 * [Miles per gallon to kilometers per liter](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/miles-per-gallon-to-kilometers-per-liter/)
+* [Multiple of index](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiple-of-index/)
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
 * [Multiply the number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply-the-number/)
 * [My head is at the wrong end!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/my-head-is-at-the-wrong-end/)
