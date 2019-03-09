@@ -373,6 +373,7 @@
 * [Simple validation of a username with regex](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-validation-of-a-username-with-regex/)
 * [Sleigh Authentication](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sleigh-authentication/)
 * [Smallest unused ID](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/smallest-unused-id/)
+* [Sort and Star](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sort-and-star/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
 * [Square(n) Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/square-n-sum/)
 * [Squash the bugs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/squash-the-bugs/)
