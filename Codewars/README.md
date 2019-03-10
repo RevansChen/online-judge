@@ -394,6 +394,7 @@
 * [The Feast of Many Beasts](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-feast-of-many-beasts/)
 * [The 'if' function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-if-function/)
 * [The Wide-Mouthed frog!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-wide-mouthed-frog/)
+* [Thinkful - Logic Drills: Traffic light](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/thinkful-logic-drills-traffic-light/)
 * [They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-1-are-they-opposite/)
 * [Tip Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/tip-calculator/)
 * [To square(root) or not to square(root)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/to-square-root-or-not-to-square-root/)
