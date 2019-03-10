@@ -401,6 +401,7 @@
 * [Tip Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/tip-calculator/)
 * [To square(root) or not to square(root)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/to-square-root-or-not-to-square-root/)
 * [Total amount of points](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/total-amount-of-points/)
+* [Total pressure calculation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/total-pressure-calculation/)
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Training JS #32: methods of Math---round() ceil() and floor()](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-32-methods-of-math-round-ceil-and-floor/)
 * [Transportation on vacation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/transportation-on-vacation/)
