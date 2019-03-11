@@ -422,6 +422,7 @@
 * [What's the real floor?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/whats-the-real-floor/)
 * [What's up next?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/whats-up-next/)
 * [What's wrong with these identifiers?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/whats-wrong-with-these-identifiers/)
+* [Who ate the cookie?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/who-ate-the-cookie/)
 * [Will there be enough space?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/will-there-be-enough-space/)
 * [Wilson primes](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/wilson-primes/)
 * [You Can't Code Under Pressure #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/you-cant-code-under-pressure-number-1/)
