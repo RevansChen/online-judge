@@ -1,0 +1,18 @@
+﻿# Python - 3.6.0
+
+Test.assert_equals(mystery([0, 0, 0, 0]), 0)
+Test.assert_equals(mystery([0, 0, 0, 1]), 0)
+Test.assert_equals(mystery([0, 0, 1, 0]), 0)
+Test.assert_equals(mystery([0, 0, 1, 1]), 0)
+Test.assert_equals(mystery([0, 1, 0, 0]), 0)
+Test.assert_equals(mystery([0, 1, 0, 1]), 0)
+Test.assert_equals(mystery([0, 1, 1, 0]), 1)
+Test.assert_equals(mystery([0, 1, 1, 1]), 1)
+Test.assert_equals(mystery([1, 0, 0, 0]), 0)
+Test.assert_equals(mystery([1, 0, 0, 1]), 1)
+Test.assert_equals(mystery([1, 0, 1, 0]), 0)
+Test.assert_equals(mystery([1, 0, 1, 1]), 1)
+Test.assert_equals(mystery([1, 1, 0, 0]), 0)
+Test.assert_equals(mystery([1, 1, 0, 1]), 1)
+Test.assert_equals(mystery([1, 1, 1, 0]), 1)
+Test.assert_equals(mystery([1, 1, 1, 1]), 2)

@@ -399,6 +399,7 @@
 * [Thinkful - Logic Drills: Traffic light](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/thinkful-logic-drills-traffic-light/)
 * [Thinkful - Number Drills: Blue and red marbles](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/thinkful-number-drills-blue-and-red-marbles/)
 * [Thinkful - Number Drills: Pixelart planning](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/thinkful-number-drills-pixelart-planning/)
+* [Thinking & Testing : Math of Primary School](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/thinking-and-testing-math-of-primary-school/)
 * [They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-1-are-they-opposite/)
 * [Tip Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/tip-calculator/)
 * [To square(root) or not to square(root)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/to-square-root-or-not-to-square-root/)
