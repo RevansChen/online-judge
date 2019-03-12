@@ -140,6 +140,7 @@
 * [Find the capitals](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-capitals-1/)
 * [Find the next perfect square!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-next-perfect-square/)
 * [Find the volume of a Cone.](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-volume-of-a-cone/)
+* [Fizz Buzz Cuckoo Clock](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/fizz-buzz-cuckoo-clock/)
 * [Gauß needs help! (Sums of a lot of numbers).](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/gauss-needs-help-sums-of-a-lot-of-numbers/)
 * [Head, Tail, Init and Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/head-tail-init-and-last/)
 * [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
