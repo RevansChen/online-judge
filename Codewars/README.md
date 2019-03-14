@@ -156,6 +156,7 @@
 * [Regexp Basics - is it a vowel?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/regexp-basics-is-it-a-vowel/)
 * [Regexp basics - parsing prices](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/regexp-basics-parsing-prices/)
 * [Relatively Prime Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/relatively-prime-numbers/)
+* [Remove Empty Items of Array](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/remove-empty-items-of-array/)
 * [Shortest Word](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/shortest-word/)
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
 * [Simple string division II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-string-division-ii/)
