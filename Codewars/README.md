@@ -229,6 +229,7 @@
 * [Difference of Volumes of Cuboids](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/difference-of-volumes-of-cuboids/)
 * [DNA to RNA Conversion](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/dna-to-rna-conversion/)
 * [Do I get a bonus?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/do-i-get-a-bonus/)
+* [Do you speak "English"?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/do-you-speak-english/)
 * [Dollars and Cents](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/dollars-and-cents/)
 * [Double Char](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/double-char/)
 * [Draw stairs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/draw-stairs/)
