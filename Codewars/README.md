@@ -273,6 +273,7 @@
 * [Generate user links](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/generate-user-links/)
 * [Geometry Basics: Circle Circumference in 2D](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/geometry-basics-circle-circumference-in-2d/)
 * [Geometry Basics: Distance between points in 2D](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/geometry-basics-distance-between-points-in-2d/)
+* [get character from ASCII Value](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-character-from-ascii-value/)
 * [Get Nth Even Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-nth-even-number/)
 * [Get number from string](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-number-from-string/)
 * [Get the mean of an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-the-mean-of-an-array/)
