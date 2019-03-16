@@ -239,6 +239,7 @@
 * [Duck Duck Goose](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/duck-duck-goose/)
 * [easy logs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-logs/)
 * [Enumerable Magic #1 - True for All?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-1-true-for-all/)
+* [Enumerable Magic #2 - True for Any?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-2-true-for-any/)
 * [Enumerable Magic #3 - Does My List Include This?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-3-does-my-list-include-this/)
 * [Enumerable Magic #30 - Split that Array!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-30-split-that-array/)
 * [Even or Odd](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/even-or-odd/)
