@@ -214,6 +214,7 @@
 * [Convert a string to an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-a-string-to-an-array/)
 * [Convert boolean values to strings 'Yes' or 'No'.](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-boolean-values-to-strings-yes-or-no/)
 * [Convert number to reversed array of digits](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-number-to-reversed-array-of-digits/)
+* [Convert to Binary](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-to-binary/)
 * [Correct the mistakes of the character recognition software](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/correct-the-mistakes-of-the-character-recognition-software/)
 * [Count by X](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-by-x/)
 * [Count Odd Numbers below n](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/count-odd-numbers-below-n/)
