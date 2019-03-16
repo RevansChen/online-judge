@@ -269,6 +269,7 @@
 * [Finish Guess the Number Game](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/finish-guess-the-number-game/)
 * [Fix the Bugs (Syntax) - My First Kata](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-the-bugs-syntax-my-first-kata/)
 * [Fix your code before the garden dies!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-your-code-before-the-garden-dies/)
+* [For Twins: 2. Math operations](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/for-twins-2-math-operations/)
 * [For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/for-ufc-fans-total-beginners-conor-mcgregor-vs-george-saint-pierre/)
 * [Formatting decimal places #0](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/formatting-decimal-places-number-0/)
 * [Freudian translator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/freudian-translator/)
