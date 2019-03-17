@@ -316,6 +316,7 @@
 * [Invert values](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/invert-values/)
 * [Is he gonna survive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-he-gonna-survive/)
 * [Is it a number?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-it-a-number/)
+* [Is it a palindrome?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-it-a-palindrome/)
 * [Is n divisible by x and y?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-n-divisible-by-x-and-y/)
 * [Is the string uppercase?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-the-string-uppercase/)
 * [Is there a vowel in there?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-there-a-vowel-in-there/)
