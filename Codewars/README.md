@@ -334,6 +334,7 @@
 * [MakeUpperCase](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/makeuppercase/)
 * [Man in the west](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/man-in-the-west/)
 * [Merge two sorted arrays into one](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/merge-two-sorted-arrays-into-one/)
+* [Merging sorted integer arrays (without duplicates)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/merging-sorted-integer-arrays-without-duplicates/)
 * [Miles per gallon to kilometers per liter](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/miles-per-gallon-to-kilometers-per-liter/)
 * [Multiple of index](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiple-of-index/)
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
