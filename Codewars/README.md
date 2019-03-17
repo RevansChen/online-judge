@@ -287,6 +287,7 @@
 * [Get the mean of an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-the-mean-of-an-array/)
 * [Grasshopper - Bug Squashing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-bug-squashing/)
 * [Grasshopper - Combine strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-combine-strings/)
+* [Grasshopper - Create the rooms](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-create-the-rooms/)
 * [Grasshopper - Debug](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-debug/)
 * [Grasshopper - Debug sayHello](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-debug-sayhello/)
 * [Grasshopper - If/else syntax debug](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-if-slash-else-syntax-debug/)
