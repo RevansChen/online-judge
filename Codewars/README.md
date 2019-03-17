@@ -293,6 +293,7 @@
 * [Grasshopper - If/else syntax debug](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-if-slash-else-syntax-debug/)
 * [Grasshopper - Make change](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-make-change/)
 * [Grasshopper - Messi Goals](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-messi-goals/)
+* [Grasshopper - Messi goals function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-messi-goals-function/)
 * [Grasshopper - Personalized Message](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-personalized-message/)
 * [Grasshopper - Shopping list](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-shopping-list/)
 * [Grasshopper - Summation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-summation/)
