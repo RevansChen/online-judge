@@ -79,6 +79,7 @@
 * [Does my number look big in this?](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/does-my-number-look-big-in-this/)
 * [Duplicate Arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-arguments/)
 * [Duplicate Encoder](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/duplicate-encoder/)
+* [Encrypt this!](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/encrypt-this/)
 * [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/esolang-interpreters-number-1-introduction-to-esolangs-and-my-first-interpreter-ministringfuck/)
 * [Esolang: Tick](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/esolang-tick/)
 * [Fibonacci, Tribonacci and friends](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/fibonacci-tribonacci-and-friends/)
