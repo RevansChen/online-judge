@@ -86,6 +86,7 @@
 * [Find the Mine!](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-mine/)
 * [Find the odd int](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-odd-int/)
 * [Find The Parity Outlier](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-parity-outlier/)
+* [Floating-point Approximation (II)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/floating-point-approximation-ii/)
 * [If you can read this...](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/if-you-can-read-this-dot-dot-dot/)
 * [IP address finder [Code-golf]](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ip-address-finder-code-golf/)
 * [IPv4 to int32](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ipv4-to-int32/)
