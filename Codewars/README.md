@@ -116,6 +116,7 @@
 * [Surrounding Primes for a value](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/surrounding-primes-for-a-value/)
 * [Title Case](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/title-case/)
 * [Triangle number check](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/triangle-number-check/)
+* [Tribonacci Sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/tribonacci-sequence/)
 * [Twisted Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/twisted-sum/)
 * [Unique In Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/unique-in-order/)
 * [up AND down](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/up-and-down/)
