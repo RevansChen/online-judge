@@ -82,6 +82,7 @@
 * [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/esolang-interpreters-number-1-introduction-to-esolangs-and-my-first-interpreter-ministringfuck/)
 * [Esolang: Tick](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/esolang-tick/)
 * [Fibonacci, Tribonacci and friends](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/fibonacci-tribonacci-and-friends/)
+* [Financing a purchase](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/financing-a-purchase/)
 * [Financing Plan on Planet XY140Z-n](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/financing-plan-on-planet-xy140z-n/)
 * [Find the Mine!](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-mine/)
 * [Find the odd int](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/find-the-odd-int/)
