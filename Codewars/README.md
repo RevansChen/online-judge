@@ -59,6 +59,7 @@
 ## 6kyu
 
 * [A disguised sequence (I)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/a-disguised-sequence-i/)
+* [A Rule of Divisibility by 13](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/a-rule-of-divisibility-by-13/)
 * [Area of a Shape](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/area-of-a-shape/)
 * [ASCII Fun #1: X- Shape](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-1-x-shape/)
 * [ASCII Fun #2: Funny Dots](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-2-funny-dots/)
