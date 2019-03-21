@@ -73,6 +73,7 @@
 * [Change Machine](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/change-machine/)
 * [Count characters in your string](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/count-characters-in-your-string/)
 * [Data Reverse](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/data-reverse/)
+* [Decipher this!](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/decipher-this/)
 * [Decode the Morse code](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/decode-the-morse-code/)
 * [Decompose a number](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/decompose-a-number/)
 * [Design a Simple Automaton (Finite State Machine)](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/design-a-simple-automaton-finite-state-machine/)
