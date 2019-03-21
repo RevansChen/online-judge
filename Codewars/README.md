@@ -64,6 +64,7 @@
 * [ASCII Fun #2: Funny Dots](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-2-funny-dots/)
 * [ASCII Fun #3: Puzzle Tiles](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-3-puzzle-tiles/)
 * [ASCII Fun #4: Build a pyramid](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ascii-fun-number-4-build-a-pyramid/)
+* [Ball Upwards](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/ball-upwards/)
 * [Bouncing Balls](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/bouncing-balls/)
 * [Brainfuck generator](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/brainfuck-generator/)
 * [Build a pile of Cubes](https://github.com/RevansChen/online-judge/tree/master/Codewars/6kyu/build-a-pile-of-cubes/)
