@@ -395,6 +395,7 @@
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
 * [Simple Fun #1: Seats in Theater](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-fun-number-1-seats-in-theater/)
 * [Simple Fun #261: Whose Move](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-fun-number-261-whose-move/)
+* [Simple Fun #352: Reagent Formula](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-fun-number-352-reagent-formula/)
 * [Simple multiplication](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-multiplication/)
 * [Simple validation of a username with regex](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-validation-of-a-username-with-regex/)
 * [Sleigh Authentication](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sleigh-authentication/)
