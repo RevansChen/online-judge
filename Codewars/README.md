@@ -182,6 +182,7 @@
 * [101 Dalmatians - squash the bugs, not the dogs!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/101-dalmatians-squash-the-bugs-not-the-dogs/)
 * [A Needle in the Haystack](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-needle-in-the-haystack/)
 * [A Strange Trip to the Market](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-strange-trip-to-the-market/)
+* [A wolf in sheep's clothing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-wolf-in-sheeps-clothing/)
 * [Abbreviate a Two Word Name](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/abbreviate-a-two-word-name/)
 * [Add new item (collections are passed by reference)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/add-new-item-collections-are-passed-by-reference/)
 * [Age Range Compatibility Equation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/age-range-compatibility-equation/)
