@@ -403,6 +403,7 @@
 * [Smallest unused ID](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/smallest-unused-id/)
 * [Sort and Star](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sort-and-star/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
+* [SQL Basics: Mod](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sql-basics-mod/)
 * [Square(n) Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/square-n-sum/)
 * [Squash the bugs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/squash-the-bugs/)
 * [String cleaning](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/string-cleaning/)
