@@ -352,6 +352,7 @@
 * [Merging sorted integer arrays (without duplicates)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/merging-sorted-integer-arrays-without-duplicates/)
 * [Miles per gallon to kilometers per liter](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/miles-per-gallon-to-kilometers-per-liter/)
 * [Multiple of index](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiple-of-index/)
+* [Multiplication table for number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiplication-table-for-number/)
 * [Multiply](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply/)
 * [Multiply the number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/multiply-the-number/)
 * [My head is at the wrong end!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/my-head-is-at-the-wrong-end/)
