@@ -216,6 +216,7 @@
 * [Classic Hello World](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/classic-hello-world/)
 * [Classy Extentions](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/classy-extentions/)
 * [Closest elevator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/closest-elevator/)
+* [Coding 3min : Jumping Dutch act](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/coding-3min-jumping-dutch-act/)
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
 * [Color Ghost](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/color-ghost/)
 * [Compare within margin](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/compare-within-margin/)
