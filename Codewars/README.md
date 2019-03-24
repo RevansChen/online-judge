@@ -318,6 +318,7 @@
 * [Heads and Legs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/heads-and-legs/)
 * [Hello, Name or World!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/hello-name-or-world/)
 * [Hex to Decimal](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/hex-to-decimal/)
+* [Holiday VI - Shark Pontoon](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/holiday-vi-shark-pontoon/)
 * [Holiday VIII - Duty Free](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/holiday-viii-duty-free/)
 * [How do I compare numbers?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-do-i-compare-numbers/)
 * [How good are you really?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/how-good-are-you-really/)
