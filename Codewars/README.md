@@ -318,6 +318,7 @@
 * [Greek Sort](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/greek-sort/)
 * [Heads and Legs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/heads-and-legs/)
 * [Hello, Name or World!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/hello-name-or-world/)
+* [Help the Elite Squad of Brazilian forces BOPE](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/help-the-elite-squad-of-brazilian-forces-bope/)
 * [Hex to Decimal](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/hex-to-decimal/)
 * [Holiday VI - Shark Pontoon](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/holiday-vi-shark-pontoon/)
 * [Holiday VIII - Duty Free](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/holiday-viii-duty-free/)
