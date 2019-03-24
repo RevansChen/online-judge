@@ -271,6 +271,7 @@
 * [Find Multiples of a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-multiples-of-a-number/)
 * [Find Nearest square number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-nearest-square-number/)
 * [Find numbers which are divisible by given number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-numbers-which-are-divisible-by-given-number/)
+* [Find out whether the shape is a cube](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-out-whether-the-shape-is-a-cube/)
 * [Find the first non-consecutive number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-first-non-consecutive-number/)
 * [Find the force of gravity between two objects](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-force-of-gravity-between-two-objects/)
 * [Find the Integral](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-the-integral/)
