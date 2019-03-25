@@ -377,6 +377,7 @@
 * [Plural](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/plural/)
 * [Points of Reflection](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/points-of-reflection/)
 * [Pole Vault Starting Marks](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/pole-vault-starting-marks/)
+* [Potenciation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/potenciation/)
 * [Powers of 2](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/powers-of-2/)
 * [Pre-FizzBuzz Workout #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/pre-fizzbuzz-workout-number-1/)
 * [Price of Mangoes](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/price-of-mangoes/)
