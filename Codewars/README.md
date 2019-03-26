@@ -454,6 +454,7 @@
 * [Unexpected parsing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unexpected-parsing/)
 * [Unfinished Loop - Bug Fixing #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unfinished-loop-bug-fixing-number-1/)
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
+* [USD => CNY](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/usd-equals-%3E-cny/)
 * [validate code with simple regex](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/validate-code-with-simple-regex/)
 * [Volume of a Cuboid](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/volume-of-a-cuboid/)
 * [Watermelon](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/watermelon/)
