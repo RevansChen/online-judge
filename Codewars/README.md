@@ -399,6 +399,7 @@
 * [Reverse List Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reverse-list-order/)
 * [Reversed sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reversed-sequence/)
 * [Reversed Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reversed-strings/)
+* [Reversed Words](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reversed-words/)
 * [Reversing Words in a String](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reversing-words-in-a-string/)
 * [Rock Paper Scissors!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/rock-paper-scissors/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
