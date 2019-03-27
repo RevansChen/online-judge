@@ -434,6 +434,7 @@
 * [The Feast of Many Beasts](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-feast-of-many-beasts/)
 * [The 'if' function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-if-function/)
 * [The Wide-Mouthed frog!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-wide-mouthed-frog/)
+* [Thinkful - Dictionary drills: Order filler](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/thinkful-dictionary-drills-order-filler/)
 * [Thinkful - Logic Drills: Traffic light](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/thinkful-logic-drills-traffic-light/)
 * [Thinkful - Number Drills: Blue and red marbles](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/thinkful-number-drills-blue-and-red-marbles/)
 * [Thinkful - Number Drills: Pixelart planning](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/thinkful-number-drills-pixelart-planning/)
