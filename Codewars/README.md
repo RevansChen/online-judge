@@ -332,6 +332,7 @@
 * [If you can't sleep, just count sheep!!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/if-you-cant-sleep-just-count-sheep/)
 * [Invert values](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/invert-values/)
 * [Is he gonna survive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-he-gonna-survive/)
+* [Is integer safe to use?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-integer-safe-to-use/)
 * [Is it a number?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-it-a-number/)
 * [Is it a palindrome?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-it-a-palindrome/)
 * [Is n divisible by x and y?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-n-divisible-by-x-and-y/)
