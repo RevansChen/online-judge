@@ -181,6 +181,7 @@
 * [2 + 2 * 2 problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/2-plus-2-star-2-problem/)
 * [5 without numbers !!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/5-without-numbers/)
 * [101 Dalmatians - squash the bugs, not the dogs!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/101-dalmatians-squash-the-bugs-not-the-dogs/)
+* [!a == a ?!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-equals-equals-a/)
 * [A Needle in the Haystack](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-needle-in-the-haystack/)
 * [A Strange Trip to the Market](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-strange-trip-to-the-market/)
 * [A wolf in sheep's clothing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-wolf-in-sheeps-clothing/)
