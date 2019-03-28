@@ -207,6 +207,7 @@
 * [Bin to Decimal](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/bin-to-decimal/)
 * [Calculate average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-average/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
+* [Calculate Price Excluding VAT](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-price-excluding-vat/)
 * [Can we divide it?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/can-we-divide-it/)
 * [Capitalization and Mutability](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/capitalization-and-mutability/)
 * [Cat years, Dog years](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/cat-years-dog-years/)
