@@ -387,6 +387,7 @@
 * [Pre-FizzBuzz Workout #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/pre-fizzbuzz-workout-number-1/)
 * [Price of Mangoes](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/price-of-mangoes/)
 * [Printing Array elements with Comma delimiters](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/printing-array-elements-with-comma-delimiters/)
+* [Pythagorean Triple](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/pythagorean-triple/)
 * [Regex count lowercase letters](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/regex-count-lowercase-letters/)
 * [Regexp Basics - is it a digit?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/regexp-basics-is-it-a-digit/)
 * [Regular Ball Super Ball](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/regular-ball-super-ball/)
