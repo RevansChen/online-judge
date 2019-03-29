@@ -1,4 +1,4 @@
-﻿# Python - 3.4.3
+# Python - 3.4.3
 
 def problem(a):
     try:

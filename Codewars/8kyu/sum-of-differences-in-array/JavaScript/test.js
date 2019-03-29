@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 Test.describe('sumOfDifferences([1, 2, 10]', function() {
     Test.assertEquals(sumOfDifferences([1, 2, 10]), 9);

@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 test.assert_equals(round(circle_circumference(Circle(Point(10, 10), 30)), 6), 188.495559)
 test.assert_equals(round(circle_circumference(Circle(Point(25, -70), 30)), 6), 188.495559)

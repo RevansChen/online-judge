@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v10.x
+// JavaScript - Node v10.x
 
 describe('Basic Tests', () => {
     it('Good stuff', () => {

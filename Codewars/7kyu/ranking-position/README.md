@@ -1,1 +1,1 @@
-﻿# [Ranking position](https://www.codewars.com/kata/ranking-position/)
+# [Ranking position](https://www.codewars.com/kata/ranking-position/)

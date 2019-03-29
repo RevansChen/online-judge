@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.describe('thirt')
 Test.it('Basic tests')

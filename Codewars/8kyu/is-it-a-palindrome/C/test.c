@@ -1,4 +1,4 @@
-﻿// C - Clang 3.6 / C11
+// C - Clang 3.6 / C11
 
 #include <criterion/criterion.h>
 

@@ -1,1 +1,1 @@
-﻿# [MakeUpperCase](https://www.codewars.com/kata/makeuppercase/)
+# [MakeUpperCase](https://www.codewars.com/kata/makeuppercase/)

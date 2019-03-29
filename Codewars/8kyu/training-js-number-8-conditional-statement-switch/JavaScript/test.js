@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 Test.assertSimilar(howManydays(1), 31);
 Test.assertSimilar(howManydays(2), 28);

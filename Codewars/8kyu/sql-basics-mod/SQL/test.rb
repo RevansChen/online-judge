@@ -1,4 +1,4 @@
-﻿results = run_sql
+results = run_sql
 
 describe :query do
     describe "should contain keywords" do

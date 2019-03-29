@@ -1,4 +1,4 @@
-﻿// CoffeeScript - 1.10.0
+// CoffeeScript - 1.10.0
 
 Test.assertEquals(magNumber(["PT92", 6]), 2);
 Test.assertEquals(magNumber(["M4A1", 8]), 1);

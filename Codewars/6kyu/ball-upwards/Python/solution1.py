@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 def max_ball(v0):
     v0 *= 1000.0 / 3600.0

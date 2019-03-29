@@ -1,1 +1,1 @@
-﻿# [The falling speed of petals](https://www.codewars.com/kata/the-falling-speed-of-petals/)
+# [The falling speed of petals](https://www.codewars.com/kata/the-falling-speed-of-petals/)

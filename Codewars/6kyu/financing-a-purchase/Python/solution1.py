@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 def amort(rate, bal, term, num_payments):
     r = rate / 1200

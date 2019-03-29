@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.it('Small values')
 Test.assert_equals(expression_matter(2, 1, 2), 6)

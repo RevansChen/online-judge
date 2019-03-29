@@ -1,4 +1,4 @@
-﻿-- SQL - PostgreSQL 9.6
+-- SQL - PostgreSQL 9.6
 
 SELECT
     MOD(number1, number2)

@@ -1,4 +1,4 @@
-﻿// Java - 11
+// Java - 11
 
 public class Dinglemouse {
     public final static Dinglemouse INST = new Dinglemouse();

@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 Test.describe('Tests', function() {
     Test.assertEquals(toBinary(1), 1);

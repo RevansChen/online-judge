@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 Test.assertSimilar(sc(2), 'Aa~ Pa! Aa!', 'good luck!');
 Test.assertSimilar(sc(6), 'Aa~ Aa~ Aa~ Aa~ Aa~ Pa! Aa!', 'good luck!');

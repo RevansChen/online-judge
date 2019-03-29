@@ -1,4 +1,4 @@
-﻿# CoffeeScript - 1.10.0
+# CoffeeScript - 1.10.0
 
 weapons =
     PT92:  17

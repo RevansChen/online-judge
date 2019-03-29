@@ -1,4 +1,4 @@
-﻿// C# - 7.3
+// C# - 7.3
 
 public class Kata {
     public static char GetChar(int charcode) {

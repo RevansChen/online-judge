@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 Test.describe('Tests', () => {
     Test.assertEquals(power(1,701270), 1);

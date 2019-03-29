@@ -1,4 +1,4 @@
-﻿// C# - 7.3
+// C# - 7.3
 
 using System;
 using NUnit.Framework;

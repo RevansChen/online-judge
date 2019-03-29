@@ -1,1 +1,1 @@
-﻿# [Fundamentals: Return](https://www.codewars.com/kata/fundamentals-return/)
+# [Fundamentals: Return](https://www.codewars.com/kata/fundamentals-return/)

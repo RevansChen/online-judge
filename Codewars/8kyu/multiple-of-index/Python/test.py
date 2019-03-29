@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.it('Basic tests')
 Test.assert_equals(multiple_of_index([22, -6, 32, 82, 9, 25]), [-6, 32, 25])

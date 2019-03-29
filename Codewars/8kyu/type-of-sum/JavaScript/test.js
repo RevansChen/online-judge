@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 Test.describe('Basic tests', () => {
     Test.assertEquals(typeOfSum(12, 1), 'number');

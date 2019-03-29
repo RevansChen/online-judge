@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.assert_equals(abbrevName('Sam Harris'), 'S.H')
 Test.assert_equals(abbrevName('Patrick Feenan'), 'P.F')

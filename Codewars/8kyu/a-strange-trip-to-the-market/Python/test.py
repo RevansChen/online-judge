@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.describe('Basic tests')
 Test.assert_equals(is_lock_ness_monster('Your girlscout cookies are ready to ship. Your total comes to tree fiddy'), True)

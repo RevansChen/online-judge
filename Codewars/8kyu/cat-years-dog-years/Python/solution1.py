@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 human_years_cat_years_dog_years = lambda human_years: [
     human_years,

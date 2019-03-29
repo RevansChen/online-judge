@@ -1,4 +1,4 @@
-﻿# Python - 2.7.6
+# Python - 2.7.6
 
 def balance_statement(lst):
     import re

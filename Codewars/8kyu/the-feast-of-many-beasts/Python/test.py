@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.assert_equals(feast('great blue heron', 'garlic naan'), True)
 Test.assert_equals(feast('chickadee', 'chocolate cake'), True)

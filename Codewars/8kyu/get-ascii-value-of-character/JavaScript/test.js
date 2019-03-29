@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v6.11.0
+// JavaScript - Node v6.11.0
 
 Test.assertEquals(getASCII('A'), 65);
 Test.assertEquals(getASCII(' '), 32);

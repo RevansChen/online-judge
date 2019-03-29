@@ -1,1 +1,1 @@
-﻿# [Sort and Star](https://www.codewars.com/kata/sort-and-star/)
+# [Sort and Star](https://www.codewars.com/kata/sort-and-star/)

@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 def nearest_sq(n):
     sqr = int(n ** 0.5)

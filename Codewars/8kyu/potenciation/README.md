@@ -1,1 +1,1 @@
-﻿# [Potenciation](https://www.codewars.com/kata/potenciation/)
+# [Potenciation](https://www.codewars.com/kata/potenciation/)

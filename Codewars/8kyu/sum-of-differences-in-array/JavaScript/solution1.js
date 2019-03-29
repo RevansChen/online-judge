@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 function sumOfDifferences(arr) {
     arr.sort((a, b) => b - a);

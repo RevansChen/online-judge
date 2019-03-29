@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.assert_equals(final_grade(100, 12), 100)
 Test.assert_equals(final_grade(99, 0), 100)

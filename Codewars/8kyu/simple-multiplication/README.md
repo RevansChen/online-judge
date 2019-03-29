@@ -1,1 +1,1 @@
-﻿# [Simple multiplication](https://www.codewars.com/kata/simple-multiplication/)
+# [Simple multiplication](https://www.codewars.com/kata/simple-multiplication/)

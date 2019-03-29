@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 Test.assertSimilar(aspectRatio(640, 480), [854, 480]);
 Test.assertSimilar(aspectRatio(960, 720), [1280, 720]);

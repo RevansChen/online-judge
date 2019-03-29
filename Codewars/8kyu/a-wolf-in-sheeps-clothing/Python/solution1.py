@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 def warn_the_sheep(queue):
     wolf = len(queue) - queue.index('wolf') - 1

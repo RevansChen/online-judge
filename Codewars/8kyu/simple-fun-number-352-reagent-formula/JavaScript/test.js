@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 describe('Basic Tests', function() {
     it('It should works for basic tests.', function() {

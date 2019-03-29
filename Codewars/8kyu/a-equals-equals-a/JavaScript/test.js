@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 Test.assertEquals( a == false, true, 'a != false');
 Test.assertEquals(!a == false, true, '!a != false');

@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.assert_equals(cookie('Ryan'), 'Who ate the last cookie? It was Zach!')
 Test.assert_equals(cookie(2.3), 'Who ate the last cookie? It was Monica!')

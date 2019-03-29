@@ -1,1 +1,1 @@
-﻿# [Returning Strings](https://www.codewars.com/kata/returning-strings/)
+# [Returning Strings](https://www.codewars.com/kata/returning-strings/)

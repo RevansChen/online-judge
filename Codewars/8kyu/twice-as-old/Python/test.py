@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.describe('Basic Tests')
 Test.assert_equals(twice_as_old(36, 7), 22)

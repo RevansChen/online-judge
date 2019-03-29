@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.assert_equals(decipher_this('65 119esi 111dl 111lw 108dvei 105n 97n 111ka'), 'A wise old owl lived in an oak')
 Test.assert_equals(decipher_this('84eh 109ero 104e 115wa 116eh 108sse 104e 115eokp'), 'The more he saw the less he spoke')

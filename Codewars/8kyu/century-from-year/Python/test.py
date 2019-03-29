@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 test.assert_equals(century(1705), 18, 'Testing for year 1705')
 test.assert_equals(century(1900), 19, 'Testing for year 1900')

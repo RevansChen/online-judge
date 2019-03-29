@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 test.assert_equals(amort(7.4, 10215, 24, 20), 'num_payment 20 c 459 princ 445 int 14 balance 1809')
 test.assert_equals(amort(7.9, 107090, 48, 41), 'num_payment 41 c 2609 princ 2476 int 133 balance 17794')

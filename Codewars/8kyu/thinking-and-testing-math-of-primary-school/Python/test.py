@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.assert_equals(mystery([0, 0, 0, 0]), 0)
 Test.assert_equals(mystery([0, 0, 0, 1]), 0)

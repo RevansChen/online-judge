@@ -1,1 +1,1 @@
-﻿# [Tribonacci Sequence](https://www.codewars.com/kata/tribonacci-sequence/)
+# [Tribonacci Sequence](https://www.codewars.com/kata/tribonacci-sequence/)

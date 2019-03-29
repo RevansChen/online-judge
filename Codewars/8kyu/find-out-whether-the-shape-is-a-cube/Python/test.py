@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.assert_equals(cube_checker(-12,2), False)
 Test.assert_equals(cube_checker(8, 3),  False)

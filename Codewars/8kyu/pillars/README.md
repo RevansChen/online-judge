@@ -1,1 +1,1 @@
-﻿# [Pillars](https://www.codewars.com/kata/pillars/)
+# [Pillars](https://www.codewars.com/kata/pillars/)

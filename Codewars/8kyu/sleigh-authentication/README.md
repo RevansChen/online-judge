@@ -1,1 +1,1 @@
-﻿# [Sleigh Authentication](https://www.codewars.com/kata/sleigh-authentication/)
+# [Sleigh Authentication](https://www.codewars.com/kata/sleigh-authentication/)

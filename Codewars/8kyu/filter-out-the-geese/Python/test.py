@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.describe('Basic tests')
 Test.assert_equals(goose_filter(['Mallard', 'Hook Bill', 'African', 'Crested', 'Pilgrim', 'Toulouse', 'Blue Swedish']), ['Mallard', 'Hook Bill', 'Crested', 'Blue Swedish'])

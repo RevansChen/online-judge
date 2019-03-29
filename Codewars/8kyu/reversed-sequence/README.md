@@ -1,1 +1,1 @@
-﻿# [Reversed sequence](https://www.codewars.com/kata/reversed-sequence/)
+# [Reversed sequence](https://www.codewars.com/kata/reversed-sequence/)

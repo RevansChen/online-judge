@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 def fizz_buzz_cuckoo_clock(time):
     h, m = [*map(int, time.split(':'))]

@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.assert_equals(guess_blue(5, 5, 2, 3), 0.6)
 Test.assert_equals(guess_blue(5, 7, 4, 3), 0.2)

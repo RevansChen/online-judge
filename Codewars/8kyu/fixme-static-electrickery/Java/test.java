@@ -1,4 +1,4 @@
-﻿// Java - 11
+// Java - 11
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

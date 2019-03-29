@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 input_ = [
     { 'name': 'John', 'points': 100 },

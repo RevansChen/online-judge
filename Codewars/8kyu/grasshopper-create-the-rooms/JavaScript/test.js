@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v6.11.0
+// JavaScript - Node v6.11.0
 
 describe('room creation', () => {
     const keys = Object.keys(rooms);

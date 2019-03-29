@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.assert_equals(other_angle(30, 60), 90)
 Test.assert_equals(other_angle(60, 60), 60)

@@ -1,1 +1,1 @@
-﻿# [Reverse List Order](https://www.codewars.com/kata/reverse-list-order/)
+# [Reverse List Order](https://www.codewars.com/kata/reverse-list-order/)

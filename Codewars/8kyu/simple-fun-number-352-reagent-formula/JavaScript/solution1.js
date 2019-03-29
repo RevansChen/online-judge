@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 function isValid(formula) {
     if ((formula.indexOf(1) != -1) && (formula.indexOf(2) != -1)) {

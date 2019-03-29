@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 test.describe('Basic times tests')
 test.it('13:34')

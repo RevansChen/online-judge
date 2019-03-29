@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.expect(solution('world') == 'dlrow')
 Test.expect(solution('hello') == 'olleh')

@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 def ranking(people):
     rank = sorted(sorted(people, key = lambda e: e['name']), key = lambda e: e['points'], reverse = True)

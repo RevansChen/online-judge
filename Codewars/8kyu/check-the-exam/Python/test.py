@@ -1,4 +1,4 @@
-﻿# Python - 3.6.0
+# Python - 3.6.0
 
 Test.it('Basic tests')
 Test.assert_equals(check_exam(['a', 'a', 'b', 'b'], ['a', 'c', 'b', 'd']), 6)

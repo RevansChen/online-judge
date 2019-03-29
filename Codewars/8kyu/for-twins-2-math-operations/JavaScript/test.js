@@ -1,4 +1,4 @@
-﻿// JavaScript - Node v8.1.3
+// JavaScript - Node v8.1.3
 
 Test.describe('Basic Tests', function() {
     Test.assertEquals(iceBrickVolume(1, 10, 2), 16);
