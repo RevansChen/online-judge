@@ -350,6 +350,7 @@
 * [Keep up the hoop](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/keep-up-the-hoop/)
 * [L1: Set Alarm](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/l1-set-alarm/)
 * [Lario and Muigi Pipe Problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/lario-and-muigi-pipe-problem/)
+* [Learning TypeScript. Basic Types. Type Assertions](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/learning-typescript-basic-types-type-assertions/)
 * [Leonardo Dicaprio and Oscars](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/leonardo-dicaprio-and-oscars/)
 * [Localize The Barycenter of a Triangle](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/localize-the-barycenter-of-a-triangle/)
 * [Logical calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/logical-calculator/)
