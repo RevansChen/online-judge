@@ -291,6 +291,7 @@
 * [Formatting decimal places #0](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/formatting-decimal-places-number-0/)
 * [Freudian translator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/freudian-translator/)
 * [Fuel Calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fuel-calculator/)
+* [Fun with ES6 Classes #1 - People, people, people](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fun-with-es6-classes-number-1-people-people-people/)
 * [Function 1 - hello world](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-1-hello-world/)
 * [Function 2 - squaring an argument](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-2-squaring-an-argument/)
 * [Function 3 - multiplying two numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/function-3-multiplying-two-numbers/)
