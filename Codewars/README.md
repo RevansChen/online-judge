@@ -187,6 +187,7 @@
 * [A wolf in sheep's clothing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-wolf-in-sheeps-clothing/)
 * [Abbreviate a Two Word Name](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/abbreviate-a-two-word-name/)
 * [Add new item (collections are passed by reference)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/add-new-item-collections-are-passed-by-reference/)
+* [Adults only (SQL for Beginners #1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/adults-only-sql-for-beginners-number-1/)
 * [Age Range Compatibility Equation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/age-range-compatibility-equation/)
 * [Alan Partridge II - Apple Turnover](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/alan-partridge-ii-apple-turnover/)
 * [All Star Code Challenge #18](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/all-star-code-challenge-number-18/)
