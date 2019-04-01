@@ -55,6 +55,7 @@
 * [Simple assembler interpreter](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-assembler-interpreter/)
 * [Simple CSS selector comparison](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/simple-css-selector-comparison/)
 * [String incrementer](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/string-incrementer/)
+* [Vector class](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/vector-class/)
 * [Where my anagrams at?](https://github.com/RevansChen/online-judge/tree/master/Codewars/5kyu/where-my-anagrams-at/)
 
 ## 6kyu
