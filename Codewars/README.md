@@ -180,6 +180,7 @@
 
 * [2 + 2 * 2 problem](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/2-plus-2-star-2-problem/)
 * [5 without numbers !!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/5-without-numbers/)
+* [8kyu interpreters: HQ9+](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/8kyu-interpreters-hq9-plus/)
 * [101 Dalmatians - squash the bugs, not the dogs!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/101-dalmatians-squash-the-bugs-not-the-dogs/)
 * [!a == a ?!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-equals-equals-a/)
 * [A Needle in the Haystack](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/a-needle-in-the-haystack/)
