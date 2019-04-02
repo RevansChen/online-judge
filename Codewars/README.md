@@ -173,6 +173,7 @@
 * [Simple string division II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-string-division-ii/)
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
+* [String ends with?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/string-ends-with/)
 * [Thinkful - String Drills: Repeater](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinkful-string-drills-repeater/)
 * [ToLeetSpeak](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/toleetspeak/)
 * [Volume of a cup](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/volume-of-a-cup/)
