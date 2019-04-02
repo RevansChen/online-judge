@@ -377,6 +377,7 @@
 * [N-th Power](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/n-th-power/)
 * [Name on billboard](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/name-on-billboard/)
 * [NBA full 48 minutes average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/nba-full-48-minutes-average/)
+* [No Loops 2 - You only need one](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/no-loops-2-you-only-need-one/)
 * [No zeros for heros](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/no-zeros-for-heros/)
 * [noobCode 01: SUPERSIZE ME.... or rather, this integer!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/)
 * [Number of People in the Bus](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-of-people-in-the-bus/)
