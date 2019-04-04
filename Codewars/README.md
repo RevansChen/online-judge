@@ -354,6 +354,7 @@
 * [Is there a vowel in there?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-there-a-vowel-in-there/)
 * [Is this my tail?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-this-my-tail/)
 * [Is your period late?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/is-your-period-late/)
+* [isReallyNaN](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/isreallynan/)
 * [Jenny's secret message](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/jennys-secret-message/)
 * [Kata Example Twist](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/kata-example-twist/)
 * [Keep Hydrated!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/keep-hydrated-1/)
