@@ -446,6 +446,7 @@
 * [Sum of differences in array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-differences-in-array/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
 * [Sum of positive](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-positive/)
+* [Sum The Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-the-strings/)
 * [Sum without highest and lowest number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-without-highest-and-lowest-number/)
 * [Super Duper Easy](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/super-duper-easy/)
 * [Surface Area and Volume of a Box](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/surface-area-and-volume-of-a-box/)
