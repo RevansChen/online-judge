@@ -260,6 +260,7 @@
 * [Duck Duck Goose](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/duck-duck-goose/)
 * [easy logs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-logs/)
 * [Easy SQL - Ordering](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-sql-ordering/)
+* [Easy SQL: Rounding Decimals](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-sql-rounding-decimals/)
 * [Easy SQL: Square Root and Log](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-sql-square-root-and-log/)
 * [Enumerable Magic #1 - True for All?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-1-true-for-all/)
 * [Enumerable Magic #2 - True for Any?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-2-true-for-any/)
