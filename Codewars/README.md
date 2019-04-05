@@ -327,6 +327,7 @@
 * [Grasshopper - Summation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-summation/)
 * [Grasshopper - Terminal game combat function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-terminal-game-combat-function-1/)
 * [Grasshopper - Terminal game move function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-terminal-game-move-function/)
+* [Grasshopper - Terminal Game #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-terminal-game-number-1/)
 * [Grasshopper - Terminal Game Turn Function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-terminal-game-turn-function/)
 * [Grasshopper - Variable Assignment Debug](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-variable-assignment-debug/)
 * [Greek Sort](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/greek-sort/)
