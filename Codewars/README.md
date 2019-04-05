@@ -294,6 +294,7 @@
 * [Fix the Bugs (Syntax) - My First Kata](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-the-bugs-syntax-my-first-kata/)
 * [Fix your code before the garden dies!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-your-code-before-the-garden-dies/)
 * [FIXME: Static electrickery](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fixme-static-electrickery/)
+* [For Twins: 1. Types](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/for-twins-1-types/)
 * [For Twins: 2. Math operations](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/for-twins-2-math-operations/)
 * [For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/for-ufc-fans-total-beginners-conor-mcgregor-vs-george-saint-pierre/)
 * [Formatting decimal places #0](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/formatting-decimal-places-number-0/)
