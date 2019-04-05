@@ -444,6 +444,7 @@
 * [Stringy Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/stringy-strings/)
 * [Student's Final Grade](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/students-final-grade/)
 * [Subtract the Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/subtract-the-sum/)
+* [Sum Arrays](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-arrays/)
 * [Sum Mixed Array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-mixed-array/)
 * [Sum of differences in array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-differences-in-array/)
 * [Sum of Multiples](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-of-multiples/)
