@@ -223,6 +223,7 @@
 * [Chuck Norris VII - True or False? (Beginner)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/chuck-norris-vii-true-or-false-beginner/)
 * [CIS 122 #1 Simple Printing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/cis-122-number-1-simple-printing/)
 * [Classic Hello World](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/classic-hello-world/)
+* [Classy Classes](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/classy-classes/)
 * [Classy Extentions](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/classy-extentions/)
 * [Closest elevator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/closest-elevator/)
 * [Coding 3min : Jumping Dutch act](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/coding-3min-jumping-dutch-act/)
