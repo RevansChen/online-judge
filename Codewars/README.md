@@ -197,6 +197,7 @@
 * [Alan Partridge II - Apple Turnover](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/alan-partridge-ii-apple-turnover/)
 * [All Star Code Challenge #18](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/all-star-code-challenge-number-18/)
 * [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/alternating-case-%3C-equals-%3E-alternating-case/)
+* [Are arrow functions odd?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/are-arrow-functions-odd/)
 * [Are You Playing Banjo?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/are-you-playing-banjo/)
 * [Area of a Square](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square/)
 * [Area of a Square (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square-easy/)
