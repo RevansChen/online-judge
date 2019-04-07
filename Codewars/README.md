@@ -210,6 +210,7 @@
 * [BEETLEJUICE X3 "ENTERTRAINMENT" // BUG FIX](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beetlejuice-x3-entertrainment-slash-slash-bug-fix/)
 * [Beginner - Lost Without a Map](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-lost-without-a-map/)
 * [Beginner - Reduce but Grow](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-reduce-but-grow/)
+* [Beginner Series #2 Clock](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-series-number-2-clock/)
 * [Beginner Series #4 Cockroach](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-series-number-4-cockroach/)
 * [Bin to Decimal](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/bin-to-decimal/)
 * [Calculate average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-average/)
