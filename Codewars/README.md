@@ -435,6 +435,7 @@
 * [Rock Paper Scissors!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/rock-paper-scissors/)
 * [Safen User Input Part I - htmlspecialchars](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/safen-user-input-part-i-htmlspecialchars/)
 * [Sentence Smash](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sentence-smash/)
+* [Short Long Short](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/short-long-short/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
 * [Simple Fun #1: Seats in Theater](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-fun-number-1-seats-in-theater/)
 * [Simple Fun #261: Whose Move](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-fun-number-261-whose-move/)
