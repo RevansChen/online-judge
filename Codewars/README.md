@@ -497,6 +497,7 @@
 * [Volume of a Cuboid](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/volume-of-a-cuboid/)
 * [Watermelon](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/watermelon/)
 * [Welcome!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/welcome/)
+* [Welcome to the City](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/welcome-to-the-city/)
 * [Well of Ideas - Easy Version](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/well-of-ideas-easy-version/)
 * [What is between?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/what-is-between/)
 * [What's the real floor?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/whats-the-real-floor/)
