@@ -467,6 +467,7 @@
 * [Super Duper Easy](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/super-duper-easy/)
 * [Surface Area and Volume of a Box](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/surface-area-and-volume-of-a-box/)
 * [Switch it Up!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/switch-it-up/)
+* [Take the Derivative](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/take-the-derivative/)
 * [The falling speed of petals](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-falling-speed-of-petals/)
 * [The Feast of Many Beasts](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-feast-of-many-beasts/)
 * [The 'if' function](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/the-if-function/)
