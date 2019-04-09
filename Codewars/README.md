@@ -424,6 +424,7 @@
 * [Remove String Spaces](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/remove-string-spaces/)
 * [Remove the time](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/remove-the-time/)
 * [Removing Elements](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/removing-elements/)
+* [repeatIt](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/repeatit/)
 * [Return Negative](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-negative/)
 * [Return the day](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-the-day/)
 * [Return Two Highest Values in List](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-two-highest-values-in-list/)
