@@ -389,6 +389,7 @@
 * [My head is at the wrong end!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/my-head-is-at-the-wrong-end/)
 * [N-th Power](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/n-th-power/)
 * [Name on billboard](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/name-on-billboard/)
+* [Name Shuffler](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/name-shuffler/)
 * [NBA full 48 minutes average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/nba-full-48-minutes-average/)
 * [No Loops 2 - You only need one](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/no-loops-2-you-only-need-one/)
 * [No zeros for heros](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/no-zeros-for-heros/)
