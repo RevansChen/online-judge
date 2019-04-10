@@ -322,6 +322,7 @@
 * [get character from ASCII Value](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-character-from-ascii-value/)
 * [Get Nth Even Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-nth-even-number/)
 * [Get number from string](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-number-from-string/)
+* [Get Planet Name By ID](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-planet-name-by-id/)
 * [Get the mean of an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-the-mean-of-an-array/)
 * [Grasshopper - Bug Squashing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-bug-squashing/)
 * [Grasshopper - Combine strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-combine-strings/)
