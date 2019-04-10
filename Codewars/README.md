@@ -284,6 +284,7 @@
 * [Exclusive "or" (xor) Logical Operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclusive-or-xor-logical-operator/)
 * [Expressions Matter](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/expressions-matter/)
 * [Fake Binary](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fake-binary/)
+* [Filling an array (part 1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/filling-an-array-part-1/)
 * [Filter out the geese](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/filter-out-the-geese/)
 * [Find Maximum and Minimum Values of a List](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-maximum-and-minimum-values-of-a-list/)
 * [Find Multiples of a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/find-multiples-of-a-number/)
