@@ -303,6 +303,7 @@
 * [Fix the Bugs (Syntax) - My First Kata](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-the-bugs-syntax-my-first-kata/)
 * [Fix the loop!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-the-loop/)
 * [Fix your code before the garden dies!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fix-your-code-before-the-garden-dies/)
+* [FIXME: Replace all dots](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fixme-replace-all-dots/)
 * [FIXME: Static electrickery](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fixme-static-electrickery/)
 * [For Twins: 1. Types](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/for-twins-1-types/)
 * [For Twins: 2. Math operations](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/for-twins-2-math-operations/)
