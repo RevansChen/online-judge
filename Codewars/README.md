@@ -265,6 +265,7 @@
 * [Drink about](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/drink-about/)
 * [Duck Duck Goose](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/duck-duck-goose/)
 * [easy logs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-logs/)
+* [Easy SQL: Convert to Hexadecimal](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-sql-convert-to-hexadecimal/)
 * [Easy SQL - Ordering](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-sql-ordering/)
 * [Easy SQL: Rounding Decimals](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-sql-rounding-decimals/)
 * [Easy SQL: Square Root and Log](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/easy-sql-square-root-and-log/)
