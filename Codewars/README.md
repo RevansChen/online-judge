@@ -234,6 +234,7 @@
 * [Collatz Conjecture (3n+1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/collatz-conjecture-3n-plus-1/)
 * [Color Ghost](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/color-ghost/)
 * [Compare within margin](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/compare-within-margin/)
+* [Contamination #1 -String-](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/contamination-number-1-string/)
 * [Convert a Boolean to a String](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-a-boolean-to-a-string/)
 * [Convert a Number to a String!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-a-number-to-a-string/)
 * [Convert a String to a Number!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/convert-a-string-to-a-number/)
