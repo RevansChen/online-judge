@@ -215,6 +215,7 @@
 * [Beginner Series #2 Clock](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-series-number-2-clock/)
 * [Beginner Series #4 Cockroach](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-series-number-4-cockroach/)
 * [Bin to Decimal](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/bin-to-decimal/)
+* [Broken Counter](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/broken-counter/)
 * [Calculate average](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-average/)
 * [Calculate BMI](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-bmi/)
 * [Calculate Price Excluding VAT](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/calculate-price-excluding-vat/)
