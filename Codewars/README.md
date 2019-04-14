@@ -334,6 +334,7 @@
 * [Grasshopper - Create the rooms](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-create-the-rooms/)
 * [Grasshopper - Debug](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-debug/)
 * [Grasshopper - Debug sayHello](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-debug-sayhello/)
+* [Grasshopper - Grade book](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-grade-book/)
 * [Grasshopper - If/else syntax debug](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-if-slash-else-syntax-debug/)
 * [Grasshopper - Make change](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-make-change/)
 * [Grasshopper - Messi Goals](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-messi-goals/)
