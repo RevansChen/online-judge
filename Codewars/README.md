@@ -329,6 +329,7 @@
 * [Get number from string](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-number-from-string/)
 * [Get Planet Name By ID](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-planet-name-by-id/)
 * [Get the mean of an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-the-mean-of-an-array/)
+* [Grasshopper - Array Mean](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-array-mean/)
 * [Grasshopper - Bug Squashing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-bug-squashing/)
 * [Grasshopper - Combine strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-combine-strings/)
 * [Grasshopper - Create the rooms](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-create-the-rooms/)
