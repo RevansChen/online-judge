@@ -440,6 +440,7 @@
 * [Return location](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-location/)
 * [Return Negative](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-negative/)
 * [Return the day](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-the-day/)
+* [Return to Sanity](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-to-sanity/)
 * [Return Two Highest Values in List](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/return-two-highest-values-in-list/)
 * [Returning Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/returning-strings/)
 * [Reverse List Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/reverse-list-order/)
