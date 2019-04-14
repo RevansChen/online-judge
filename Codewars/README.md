@@ -512,6 +512,7 @@
 * [USD => CNY](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/usd-equals-%3E-cny/)
 * [validate code with simple regex](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/validate-code-with-simple-regex/)
 * [Volume of a Cuboid](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/volume-of-a-cuboid/)
+* [Vowel remover](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/vowel-remover/)
 * [Watermelon](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/watermelon/)
 * [Welcome!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/welcome/)
 * [Welcome to the City](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/welcome-to-the-city/)
