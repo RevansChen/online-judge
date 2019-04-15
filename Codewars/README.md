@@ -407,6 +407,7 @@
 * [Number of People in the Bus](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-of-people-in-the-bus/)
 * [Number toString](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/number-tostring/)
 * [Object Oriented Piracy](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/object-oriented-piracy/)
+* [Online RPG: player to qualifying stage?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/online-rpg-player-to-qualifying-stage/)
 * [Opposite number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposite-number/)
 * [Opposites Attract](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/opposites-attract/)
 * [Palindrome Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/palindrome-strings/)
