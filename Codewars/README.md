@@ -285,6 +285,7 @@
 * [Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclamation-marks-series-number-6-remove-n-exclamation-marks-in-the-sentence-from-left-to-right/)
 * [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclamation-marks-series-number-11-replace-all-vowel-to-exclamation-mark-in-the-sentence/)
 * [Exclusive "or" (xor) Logical Operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclusive-or-xor-logical-operator/)
+* [Expand a string](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/expand-a-string/)
 * [Expressions Matter](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/expressions-matter/)
 * [Fake Binary](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/fake-binary/)
 * [Filling an array (part 1)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/filling-an-array-part-1/)
