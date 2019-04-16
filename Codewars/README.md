@@ -207,6 +207,7 @@
 * [BASIC: Making Six Toast.](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-making-six-toast/)
 * [Basic Mathematical Operations](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-mathematical-operations/)
 * [Basic subclasses - Adam and Eve](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-subclasses-adam-and-eve/)
+* [Basic Training: Add item to an Array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-training-add-item-to-an-array/)
 * [Basic variable assignment](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-variable-assignment/)
 * [BEETLEJUICE X3 "ENTERTRAINMENT" // BUG FIX](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beetlejuice-x3-entertrainment-slash-slash-bug-fix/)
 * [Beginner - Lost Without a Map](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-lost-without-a-map/)
