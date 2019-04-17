@@ -487,6 +487,7 @@
 * [Sum without highest and lowest number](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sum-without-highest-and-lowest-number/)
 * [Super Duper Easy](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/super-duper-easy/)
 * [Surface Area and Volume of a Box](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/surface-area-and-volume-of-a-box/)
+* [Swap Values](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/swap-values/)
 * [Switch it Up!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/switch-it-up/)
 * [Switch/Case - Bug Fixing #6](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/switch-slash-case-bug-fixing-number-6/)
 * [Take the Derivative](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/take-the-derivative/)
