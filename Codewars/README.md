@@ -514,6 +514,7 @@
 * [Triple Trouble](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/triple-trouble-2/)
 * [Twice as old](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/twice-as-old/)
 * [Type of sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/type-of-sum/)
+* [UEFA EURO 2016](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/uefa-euro-2016/)
 * [Unexpected parsing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unexpected-parsing/)
 * [Unfinished Loop - Bug Fixing #1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unfinished-loop-bug-fixing-number-1/)
 * [Unicode Total](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/unicode-total/)
