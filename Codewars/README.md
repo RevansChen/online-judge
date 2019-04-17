@@ -506,6 +506,7 @@
 * [Total amount of points](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/total-amount-of-points/)
 * [Total pressure calculation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/total-pressure-calculation/)
 * [Training JS #5: Basic data types--Object](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-5-basic-data-types-object/)
+* [Training JS #6: Basic data types--Boolean and conditional statements if..else](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-6-basic-data-types-boolean-and-conditional-statements-if-dot-else/)
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Training JS #8: Conditional statement--switch](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-8-conditional-statement-switch/)
 * [Training JS #18: Methods of String object--concat() split() and its good friend join()](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-18-methods-of-string-object-concat-split-and-its-good-friend-join/)
