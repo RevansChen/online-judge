@@ -425,6 +425,7 @@
 * [Plural](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/plural/)
 * [Points of Reflection](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/points-of-reflection/)
 * [Pole Vault Starting Marks](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/pole-vault-starting-marks/)
+* [Polish alphabet](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/polish-alphabet/)
 * [Potenciation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/potenciation/)
 * [Power](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/power/)
 * [Powers of 2](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/powers-of-2/)
