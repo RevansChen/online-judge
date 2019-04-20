@@ -334,6 +334,7 @@
 * [Get the mean of an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/get-the-mean-of-an-array/)
 * [Grader](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grader/)
 * [Grasshopper - Array Mean](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-array-mean/)
+* [Grasshopper - Basic Function Fixer](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-basic-function-fixer/)
 * [Grasshopper - Bug Squashing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-bug-squashing/)
 * [Grasshopper - Combine strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-combine-strings/)
 * [Grasshopper - Create the rooms](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/grasshopper-create-the-rooms/)
