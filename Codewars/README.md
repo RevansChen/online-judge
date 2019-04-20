@@ -279,6 +279,7 @@
 * [Enumerable Magic #4 - True for None?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-4-true-for-none/)
 * [Enumerable Magic #25 - Take the First N Elements](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-25-take-the-first-n-elements/)
 * [Enumerable Magic #30 - Split that Array!](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/enumerable-magic-number-30-split-that-array/)
+* [ES6 string addition](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/es6-string-addition/)
 * [Even or Odd](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/even-or-odd/)
 * [Evil or Odious](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/evil-or-odious/)
 * [Exclamation marks series #1: Remove a exclamation mark from the end of string](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/exclamation-marks-series-number-1-remove-a-exclamation-mark-from-the-end-of-string/)
