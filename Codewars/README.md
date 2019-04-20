@@ -202,6 +202,7 @@
 * [Are You Playing Banjo?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/are-you-playing-banjo/)
 * [Area of a Square](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square/)
 * [Area of a Square (Easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/area-of-a-square-easy/)
+* [Arguments to Binary addition](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/arguments-to-binary-addition/)
 * [Array plus array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/array-plus-array/)
 * [Aspect Ratio Cropping - Part 1](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/aspect-ratio-cropping-part-1/)
 * [Barking mad](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/barking-mad/)
