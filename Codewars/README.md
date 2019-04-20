@@ -228,6 +228,7 @@
 * [Character Frequency](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/character-frequency-2/)
 * [Check the exam](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/check-the-exam/)
 * [Chuck Norris VII - True or False? (Beginner)](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/chuck-norris-vii-true-or-false-beginner/)
+* [Circular Objects #1 - Running around in circles](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/circular-objects-number-1-running-around-in-circles/)
 * [CIS 122 #1 Simple Printing](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/cis-122-number-1-simple-printing/)
 * [Classic Hello World](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/classic-hello-world/)
 * [Classy Classes](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/classy-classes/)
