@@ -211,6 +211,7 @@
 * [Basic subclasses - Adam and Eve](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-subclasses-adam-and-eve/)
 * [Basic Training: Add item to an Array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-training-add-item-to-an-array/)
 * [Basic variable assignment](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/basic-variable-assignment/)
+* [Be Concise IV - Index of an element in an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/be-concise-iv-index-of-an-element-in-an-array/)
 * [BEETLEJUICE X3 "ENTERTRAINMENT" // BUG FIX](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beetlejuice-x3-entertrainment-slash-slash-bug-fix/)
 * [Beginner - Lost Without a Map](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-lost-without-a-map/)
 * [Beginner - Reduce but Grow](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/beginner-reduce-but-grow/)
