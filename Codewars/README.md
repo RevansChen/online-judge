@@ -520,6 +520,7 @@
 * [Training JS #7: if..else and ternary operator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-7-if-dot-else-and-ternary-operator)
 * [Training JS #8: Conditional statement--switch](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-8-conditional-statement-switch/)
 * [Training JS #18: Methods of String object--concat() split() and its good friend join()](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-18-methods-of-string-object-concat-split-and-its-good-friend-join/)
+* [Training JS #29: methods of arrayObject---concat() and join()](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-29-methods-of-arrayobject-concat-and-join/)
 * [Training JS #32: methods of Math---round() ceil() and floor()](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-32-methods-of-math-round-ceil-and-floor/)
 * [Training JS #34: methods of Math---pow() sqrt() and cbrt()](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/training-js-number-34-methods-of-math-pow-sqrt-and-cbrt/)
 * [Transportation on vacation](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/transportation-on-vacation/)
