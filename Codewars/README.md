@@ -478,6 +478,7 @@
 * [Sort and Star](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sort-and-star/)
 * [Sort My Textbooks](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sort-my-textbooks/)
 * [SpeedCode #2 - Array Madness](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-2-array-madness/)
+* [SpeedCode #3 × Fun with ES6 Classes #5 - Dogs and Classes](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/speedcode-number-3-x-fun-with-es6-classes-number-5-dogs-and-classes/)
 * [SQL Basics: Mod](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sql-basics-mod/)
 * [Square(n) Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/square-n-sum/)
 * [Squash the bugs](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/squash-the-bugs/)
