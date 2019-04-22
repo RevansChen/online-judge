@@ -467,6 +467,7 @@
 * [Sentence Smash](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/sentence-smash/)
 * [Short Long Short](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/short-long-short/)
 * [simple calculator](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-calculator/)
+* [Simple Change Machine](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-change-machine/)
 * [Simple Comparison?](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-comparison/)
 * [Simple Fun #1: Seats in Theater](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-fun-number-1-seats-in-theater/)
 * [Simple Fun #261: Whose Move](https://github.com/RevansChen/online-judge/tree/master/Codewars/8kyu/simple-fun-number-261-whose-move/)
