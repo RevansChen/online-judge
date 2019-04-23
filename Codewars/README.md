@@ -164,6 +164,7 @@
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 * [Ones and Zeros](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ones-and-zeros/)
 * [Order of weight](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/order-of-weight/)
+* [Power of two](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/power-of-two/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
 * [Ranking position](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ranking-position/)
 * [Regexp Basics - is it a vowel?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/regexp-basics-is-it-a-vowel/)
