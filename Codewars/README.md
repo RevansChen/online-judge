@@ -155,6 +155,7 @@
 * [Gauß needs help! (Sums of a lot of numbers).](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/gauss-needs-help-sums-of-a-lot-of-numbers/)
 * [Head, Tail, Init and Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/head-tail-init-and-last/)
 * [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
+* [How sexy is your name?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/how-sexy-is-your-name/)
 * [Largest 5 digit number in a series](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/largest-5-digit-number-in-a-series/)
 * [Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/last/)
 * [Make them bark!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/make-them-bark/)
