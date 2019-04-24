@@ -179,6 +179,7 @@
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
 * [String ends with?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/string-ends-with/)
+* [The Ladies of ENIAC](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-ladies-of-eniac/)
 * [Thinkful - String Drills: Repeater](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinkful-string-drills-repeater/)
 * [ToLeetSpeak](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/toleetspeak/)
 * [Unlucky Days](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/unlucky-days/)
