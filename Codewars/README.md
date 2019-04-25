@@ -185,6 +185,7 @@
 * [ToLeetSpeak](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/toleetspeak/)
 * [Unlucky Days](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/unlucky-days/)
 * [Volume of a cup](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/volume-of-a-cup/)
+* [What's my golf score?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/whats-my-golf-score/)
 * [You're a square!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/youre-a-square/)
 
 ## 8kyu
