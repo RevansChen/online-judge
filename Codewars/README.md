@@ -141,6 +141,7 @@
 * [AD2070: Help Lorimar troubleshoot his robots- ultrasonic distance analysis](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ad2070-help-lorimar-troubleshoot-his-robots-ultrasonic-distance-analysis/)
 * [Area of a Circle](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/area-of-a-circle/)
 * [Averages of numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/averages-of-numbers/)
+* [Bouncy Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/bouncy-numbers/)
 * [Coding 3min : Planting Trees](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coding-3min-planting-trees/)
 * [Complementary DNA](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/complementary-dna/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
