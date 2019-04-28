@@ -168,6 +168,7 @@
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 * [Ones and Zeros](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ones-and-zeros/)
 * [Order of weight](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/order-of-weight/)
+* [Parts of a list](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/parts-of-a-list/)
 * [Power of two](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/power-of-two/)
 * [Printer Errors](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/printer-errors/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
