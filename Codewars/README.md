@@ -143,6 +143,7 @@
 * [Averages of numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/averages-of-numbers/)
 * [Coding 3min : Planting Trees](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coding-3min-planting-trees/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
+* [Count the Digit](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/count-the-digit/)
 * [Count the Ones](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/count-the-ones/)
 * [Counting in the Amazon](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/counting-in-the-amazon/)
 * [Descending Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/descending-order/)
