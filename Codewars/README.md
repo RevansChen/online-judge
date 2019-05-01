@@ -154,6 +154,7 @@
 * [Figurate Numbers #2 - Pronic Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/figurate-numbers-number-2-pronic-number/)
 * [Find the capitals](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-capitals-1/)
 * [Find the next perfect square!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-next-perfect-square/)
+* [Find the stray number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-stray-number/)
 * [Find the volume of a Cone.](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-volume-of-a-cone/)
 * [Fizz Buzz Cuckoo Clock](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/fizz-buzz-cuckoo-clock/)
 * [Functional Addition](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/functional-addition/)
