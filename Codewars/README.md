@@ -139,6 +139,7 @@
 
 * [A Rule of Divisibility by 7](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/a-rule-of-divisibility-by-7/)
 * [AD2070: Help Lorimar troubleshoot his robots- ultrasonic distance analysis](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ad2070-help-lorimar-troubleshoot-his-robots-ultrasonic-distance-analysis/)
+* [All Inclusive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/all-inclusive/)
 * [Area of a Circle](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/area-of-a-circle/)
 * [Arithmetic Sequence!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/arithmetic-sequence/)
 * [Array - squareUp b!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/array-squareup-b/)
