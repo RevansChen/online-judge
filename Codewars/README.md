@@ -190,6 +190,7 @@
 * [Regexp basics - parsing prices](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/regexp-basics-parsing-prices/)
 * [Relatively Prime Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/relatively-prime-numbers/)
 * [Remove Empty Items of Array](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/remove-empty-items-of-array/)
+* [Return pyramids](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/return-pyramids/)
 * [Reverse a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/reverse-a-number/)
 * [Reverse words](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/reverse-words/)
 * [Shortest Word](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/shortest-word/)
