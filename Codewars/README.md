@@ -166,6 +166,7 @@
 * [Going to the cinema](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/going-to-the-cinema/)
 * [Growth of a Population](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/growth-of-a-population/)
 * [Head, Tail, Init and Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/head-tail-init-and-last/)
+* [Hex Word Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/hex-word-sum/)
 * [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
 * [How sexy is your name?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/how-sexy-is-your-name/)
 * [Hungarian Vowel Harmony (easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/hungarian-vowel-harmony-easy/)
