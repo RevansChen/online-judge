@@ -169,6 +169,7 @@
 * [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
 * [How sexy is your name?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/how-sexy-is-your-name/)
 * [Hungarian Vowel Harmony (easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/hungarian-vowel-harmony-easy/)
+* [I'm already Tracer](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/im-already-tracer/)
 * [Is It Negative Zero (-0)?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/is-it-negative-zero-0/)
 * [Largest 5 digit number in a series](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/largest-5-digit-number-in-a-series/)
 * [Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/last/)
