@@ -175,6 +175,7 @@
 * [Looking for a benefactor](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/looking-for-a-benefactor/)
 * [Make them bark!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/make-them-bark/)
 * [Maximum Length Difference](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/maximum-length-difference/)
+* [Milk and Cookies for Santa](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/milk-and-cookies-for-santa/)
 * [Minimum Ticket Cost](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/minimum-ticket-cost/)
 * [Money, Money, Money](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/money-money-money/)
 * [Mumbling](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mumbling/)
