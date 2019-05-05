@@ -198,6 +198,7 @@
 * [Reverse a Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/reverse-a-number/)
 * [Reverse words](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/reverse-words/)
 * [Shortest Word](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/shortest-word/)
+* [Simple Fun #9: Array Packing](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-9-array-packing/)
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
 * [Simple string division II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-string-division-ii/)
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
