@@ -152,6 +152,7 @@
 * [Count the Ones](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/count-the-ones/)
 * [Counting in the Amazon](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/counting-in-the-amazon/)
 * [Descending Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/descending-order/)
+* [Easy Line](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/easy-line/)
 * [Easy wallpaper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/easy-wallpaper/)
 * [Excel sheet column numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/excel-sheet-column-numbers/)
 * [Exes and Ohs](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/exes-and-ohs/)
