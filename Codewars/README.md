@@ -154,6 +154,7 @@
 * [Descending Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/descending-order/)
 * [Easy wallpaper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/easy-wallpaper/)
 * [Excel sheet column numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/excel-sheet-column-numbers/)
+* [Exes and Ohs](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/exes-and-ohs/)
 * [Figurate Numbers #2 - Pronic Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/figurate-numbers-number-2-pronic-number/)
 * [Find the 2nd largest integer in array](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-2nd-largest-integer-in-array/)
 * [Find the capitals](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-capitals-1/)
