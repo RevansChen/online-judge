@@ -201,6 +201,7 @@
 * [Simple Fun #9: Array Packing](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-9-array-packing/)
 * [Simple Fun #59: Reverse On Diagonals](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-59-reverse-on-diagonals/)
 * [Simple Fun #63: Shape Area](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-63-shape-area/)
+* [Simple Fun #144: Distinct Digit Year](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-144-distinct-digit-year/)
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
 * [Simple string division II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-string-division-ii/)
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
