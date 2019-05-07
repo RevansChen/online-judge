@@ -146,6 +146,7 @@
 * [Averages of numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/averages-of-numbers/)
 * [Bouncy Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/bouncy-numbers/)
 * [Coding 3min : Planting Trees](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coding-3min-planting-trees/)
+* [Coloured Triangles](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coloured-triangles/)
 * [Complementary DNA](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/complementary-dna/)
 * [Composing squared strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/composing-squared-strings/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
