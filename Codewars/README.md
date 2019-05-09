@@ -219,6 +219,7 @@
 * [Tail Swap](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/tail-swap/)
 * [The Ladies of ENIAC](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-ladies-of-eniac/)
 * [Thinkful - String Drills: Repeater](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinkful-string-drills-repeater/)
+* [Thinking & Testing : Retention and discard II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinking-and-testing-retention-and-discard-ii/)
 * [ToLeetSpeak](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/toleetspeak/)
 * [Two to One](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/two-to-one/)
 * [Unlucky Days](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/unlucky-days/)

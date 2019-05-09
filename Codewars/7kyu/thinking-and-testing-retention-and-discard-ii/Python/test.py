@@ -1,0 +1,17 @@
+# Python - 3.6.0
+
+Test.assert_equals(mystery('', 0), '')
+Test.assert_equals(mystery('1', 0), '')
+Test.assert_equals(mystery('1', 1), '1')
+Test.assert_equals(mystery('11', 0), '')
+Test.assert_equals(mystery('11', 1), '1')
+Test.assert_equals(mystery('11', 2), '1')
+Test.assert_equals(mystery('11', 3), '11')
+Test.assert_equals(mystery('11', 4), '1')
+Test.assert_equals(mystery('1234', 0), '')
+Test.assert_equals(mystery('1234', 1), '1')
+Test.assert_equals(mystery('1234', 2), '1')
+Test.assert_equals(mystery('1234', 3), '12')
+Test.assert_equals(mystery('1234', 4), '1')
+Test.assert_equals(mystery('1234', 5), '13')
+Test.assert_equals(mystery('1234', 6), '12')
