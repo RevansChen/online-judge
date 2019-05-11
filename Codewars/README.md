@@ -214,6 +214,7 @@
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
 * [String ends with?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/string-ends-with/)
+* [Suitcase packing](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/suitcase-packing/)
 * [Sum Factorial](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-factorial/)
 * [Sum of a sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-of-a-sequence/)
 * [Tail Swap](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/tail-swap/)
