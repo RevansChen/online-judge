@@ -185,6 +185,7 @@
 * [Milk and Cookies for Santa](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/milk-and-cookies-for-santa/)
 * [Minimum Ticket Cost](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/minimum-ticket-cost/)
 * [Money, Money, Money](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/money-money-money/)
+* [Moves in squared strings (I)](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/moves-in-squared-strings-i/)
 * [Mumbling](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mumbling/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
 * [Offload your work!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/offload-your-work/)
