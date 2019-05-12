@@ -187,6 +187,7 @@
 * [Money, Money, Money](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/money-money-money/)
 * [Mumbling](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mumbling/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
+* [Offload your work!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/offload-your-work/)
 * [Ones and Zeros](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ones-and-zeros/)
 * [Order of weight](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/order-of-weight/)
 * [Ordered Count of Characters](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ordered-count-of-characters/)
