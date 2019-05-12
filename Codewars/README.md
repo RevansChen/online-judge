@@ -207,6 +207,7 @@
 * [Rotate for a Max](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/rotate-for-a-max/)
 * [Scaling Squared Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/scaling-squared-strings/)
 * [Shortest Word](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/shortest-word/)
+* [Simple beads count](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-beads-count/)
 * [Simple Fun #9: Array Packing](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-9-array-packing/)
 * [Simple Fun #59: Reverse On Diagonals](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-59-reverse-on-diagonals/)
 * [Simple Fun #63: Shape Area](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-63-shape-area/)
