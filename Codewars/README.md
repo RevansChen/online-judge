@@ -222,6 +222,7 @@
 * [Tail Swap](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/tail-swap/)
 * [The fusc function -- Part 1](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-fusc-function-part-1/)
 * [The Ladies of ENIAC](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-ladies-of-eniac/)
+* [The Office II - Boredom Score](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-office-ii-boredom-score/)
 * [The Office IV - Find a Meeting Room](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-office-iv-find-a-meeting-room/)
 * [Thinkful - String Drills: Repeater](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinkful-string-drills-repeater/)
 * [Thinking & Testing : Retention and discard](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinking-and-testing-retention-and-discard/)
