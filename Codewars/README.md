@@ -177,6 +177,7 @@
 * [Hungarian Vowel Harmony (easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/hungarian-vowel-harmony-easy/)
 * [I'm already Tracer](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/im-already-tracer/)
 * [Is It Negative Zero (-0)?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/is-it-negative-zero-0/)
+* [Is Sator Square?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/is-sator-square/)
 * [Largest 5 digit number in a series](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/largest-5-digit-number-in-a-series/)
 * [Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/last/)
 * [Looking for a benefactor](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/looking-for-a-benefactor/)
