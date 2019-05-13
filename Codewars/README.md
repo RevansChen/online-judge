@@ -167,6 +167,7 @@
 * [Find the volume of a Cone.](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-volume-of-a-cone/)
 * [Fizz Buzz Cuckoo Clock](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/fizz-buzz-cuckoo-clock/)
 * [Functional Addition](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/functional-addition/)
+* [Functions of Integers on Cartesian Plane](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/functions-of-integers-on-cartesian-plane/)
 * [Gauß needs help! (Sums of a lot of numbers).](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/gauss-needs-help-sums-of-a-lot-of-numbers/)
 * [Going to the cinema](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/going-to-the-cinema/)
 * [Growth of a Population](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/growth-of-a-population/)
