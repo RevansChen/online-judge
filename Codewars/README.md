@@ -165,6 +165,7 @@
 * [Find the next perfect square!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-next-perfect-square/)
 * [Find the stray number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-stray-number/)
 * [Find the volume of a Cone.](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-volume-of-a-cone/)
+* [Fizz Buzz](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/fizz-buzz/)
 * [Fizz Buzz Cuckoo Clock](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/fizz-buzz-cuckoo-clock/)
 * [Frequency sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/frequency-sequence/)
 * [Functional Addition](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/functional-addition/)
