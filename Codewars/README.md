@@ -228,6 +228,7 @@
 * [Suitcase packing](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/suitcase-packing/)
 * [Sum Factorial](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-factorial/)
 * [Sum of a sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-of-a-sequence/)
+* [Sum of angles](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-of-angles/)
 * [Tail Swap](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/tail-swap/)
 * [The fusc function -- Part 1](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-fusc-function-part-1/)
 * [The Ladies of ENIAC](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-ladies-of-eniac/)
