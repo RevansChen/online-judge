@@ -236,6 +236,7 @@
 * [The Office I - Outed](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-office-i-outed/)
 * [The Office II - Boredom Score](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-office-ii-boredom-score/)
 * [The Office IV - Find a Meeting Room](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-office-iv-find-a-meeting-room/)
+* [The Office VI - Sabbatical](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-office-vi-sabbatical/)
 * [Thinkful - String Drills: Repeater](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinkful-string-drills-repeater/)
 * [Thinking & Testing : Retention and discard](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinking-and-testing-retention-and-discard/)
 * [Thinking & Testing : Retention and discard II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinking-and-testing-retention-and-discard-ii/)
