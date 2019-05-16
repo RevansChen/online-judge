@@ -222,6 +222,7 @@
 * [Simple Fun #144: Distinct Digit Year](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-144-distinct-digit-year/)
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
 * [Simple string division II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-string-division-ii/)
+* [So Easy: Charge time calculation](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/so-easy-charge-time-calculation/)
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
 * [String ends with?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/string-ends-with/)
