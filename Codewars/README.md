@@ -201,6 +201,7 @@
 * [Parts of a list](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/parts-of-a-list/)
 * [Plus - minus - plus - plus - ... - Count](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/plus-minus-plus-plus-dot-dot-dot-count/)
 * [Power of two](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/power-of-two/)
+* [Principal Diagonal | VS | Secondary Diagonal](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/principal-diagonal-vs-secondary-diagonal/)
 * [Printer Errors](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/printer-errors/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
 * [Ranking position](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ranking-position/)
