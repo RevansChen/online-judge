@@ -204,6 +204,7 @@
 * [Power of two](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/power-of-two/)
 * [Principal Diagonal | VS | Secondary Diagonal](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/principal-diagonal-vs-secondary-diagonal/)
 * [Printer Errors](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/printer-errors/)
+* [Product Of Maximums Of Array (Array Series #2)](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/product-of-maximums-of-array-array-series-number-2/)
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
 * [Ranking position](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ranking-position/)
 * [Recaman Sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/recaman-sequence/)
