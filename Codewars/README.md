@@ -248,6 +248,7 @@
 * [ToLeetSpeak](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/toleetspeak/)
 * [Traffic Count During Peak Hours](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/traffic-count-during-peak-hours/)
 * [Two to One](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/two-to-one/)
+* [Ultimate Array Reverser](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ultimate-array-reverser/)
 * [Unlucky Days](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/unlucky-days/)
 * [Volume of a cup](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/volume-of-a-cup/)
 * [Vowel Count](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/vowel-count/)
