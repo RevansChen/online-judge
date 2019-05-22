@@ -162,6 +162,7 @@
 * [Exes and Ohs](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/exes-and-ohs/)
 * [Figurate Numbers #2 - Pronic Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/figurate-numbers-number-2-pronic-number/)
 * [Find the 2nd largest integer in array](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-2nd-largest-integer-in-array/)
+* [Find the calculation type](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-calculation-type/)
 * [Find the capitals](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-capitals-1/)
 * [Find the next perfect square!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-next-perfect-square/)
 * [Find the stray number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-stray-number/)
