@@ -178,6 +178,7 @@
 * [Hex Word Sum](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/hex-word-sum/)
 * [Highest and Lowest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/highest-and-lowest/)
 * [How Green Is My Valley?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/how-green-is-my-valley/)
+* [How many arguments](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/how-many-arguments/)
 * [How sexy is your name?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/how-sexy-is-your-name/)
 * [Hungarian Vowel Harmony (easy)](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/hungarian-vowel-harmony-easy/)
 * [I'm already Tracer](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/im-already-tracer/)
