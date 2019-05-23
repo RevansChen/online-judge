@@ -145,6 +145,7 @@
 * [Array - squareUp b!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/array-squareup-b/)
 * [Averages of numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/averages-of-numbers/)
 * [Bouncy Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/bouncy-numbers/)
+* [Build a square](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/build-a-square/)
 * [Changing letters](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/changing-letters/)
 * [[ Code Golf ] Add 2 values for each](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/code-golf-add-2-values-for-each/)
 * [Coding 3min : Planting Trees](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coding-3min-planting-trees/)
