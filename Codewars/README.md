@@ -158,6 +158,7 @@
 * [Count the Ones](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/count-the-ones/)
 * [Counting in the Amazon](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/counting-in-the-amazon/)
 * [Descending Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/descending-order/)
+* [Digital cypher](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/digital-cypher/)
 * [Digital cypher vol 2](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/digital-cypher-vol-2/)
 * [Easy Line](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/easy-line/)
 * [Easy wallpaper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/easy-wallpaper/)
