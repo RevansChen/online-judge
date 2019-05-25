@@ -137,6 +137,7 @@
 
 ## 7kyu
 
+* [99 Problems, #1: last in list](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/99-problems-number-1-last-in-list/)
 * [A Rule of Divisibility by 7](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/a-rule-of-divisibility-by-7/)
 * [AD2070: Help Lorimar troubleshoot his robots- ultrasonic distance analysis](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ad2070-help-lorimar-troubleshoot-his-robots-ultrasonic-distance-analysis/)
 * [After(?) Midnight](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/after-midnight/)
