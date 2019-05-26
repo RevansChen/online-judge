@@ -260,6 +260,7 @@
 * [Thinking & Testing : Retention and discard](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinking-and-testing-retention-and-discard/)
 * [Thinking & Testing : Retention and discard II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/thinking-and-testing-retention-and-discard-ii/)
 * [ToLeetSpeak](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/toleetspeak/)
+* [Tower of Hanoi](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/tower-of-hanoi-3/)
 * [Traffic Count During Peak Hours](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/traffic-count-during-peak-hours/)
 * [Two to One](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/two-to-one/)
 * [Ultimate Array Reverser](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ultimate-array-reverser/)
