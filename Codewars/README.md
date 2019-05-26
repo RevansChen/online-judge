@@ -240,6 +240,7 @@
 * [Simple Fun #198: Cake Slice](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-fun-number-198-cake-slice/)
 * [Simple remove duplicates](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-remove-duplicates/)
 * [Simple string division II](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/simple-string-division-ii/)
+* [Slamming Lockers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/slamming-lockers/)
 * [So Easy: Charge time calculation](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/so-easy-charge-time-calculation/)
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
