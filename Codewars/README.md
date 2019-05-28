@@ -142,6 +142,7 @@
 * [AD2070: Help Lorimar troubleshoot his robots- ultrasonic distance analysis](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ad2070-help-lorimar-troubleshoot-his-robots-ultrasonic-distance-analysis/)
 * [After(?) Midnight](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/after-midnight/)
 * [All Inclusive?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/all-inclusive/)
+* [Alternate capitalization](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/alternate-capitalization/)
 * [Area of a Circle](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/area-of-a-circle/)
 * [Arithmetic Sequence!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/arithmetic-sequence/)
 * [Array - squareUp b!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/array-squareup-b/)
