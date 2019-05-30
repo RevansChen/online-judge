@@ -198,6 +198,7 @@
 * [Is It Negative Zero (-0)?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/is-it-negative-zero-0/)
 * [Is Sator Square?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/is-sator-square/)
 * [JavaScript Array Filter](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/javascript-array-filter/)
+* [Jumping Number (Special Numbers Series #4)](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/jumping-number-special-numbers-series-number-4/)
 * [Largest 5 digit number in a series](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/largest-5-digit-number-in-a-series/)
 * [Last](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/last/)
 * [Looking for a benefactor](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/looking-for-a-benefactor/)
