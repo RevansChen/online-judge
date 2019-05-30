@@ -223,6 +223,7 @@
 * [Programmed mapper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/programmed-mapper/)
 * [Ranking position](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ranking-position/)
 * [Recaman Sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/recaman-sequence/)
+* [Recursive Replication](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/recursive-replication/)
 * [Regexp Basics - is it a vowel?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/regexp-basics-is-it-a-vowel/)
 * [Regexp basics - parsing prices](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/regexp-basics-parsing-prices/)
 * [Relatively Prime Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/relatively-prime-numbers/)
