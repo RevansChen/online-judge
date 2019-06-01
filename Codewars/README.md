@@ -179,6 +179,7 @@
 * [Find the volume of a Cone.](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-volume-of-a-cone/)
 * [Fizz Buzz](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/fizz-buzz/)
 * [Fizz Buzz Cuckoo Clock](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/fizz-buzz-cuckoo-clock/)
+* [Flatten and sort an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/flatten-and-sort-an-array/)
 * [Form The Largest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/form-the-largest/)
 * [Frequency sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/frequency-sequence/)
 * [Functional Addition](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/functional-addition/)
