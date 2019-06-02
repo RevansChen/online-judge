@@ -164,6 +164,7 @@
 * [Descending Order](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/descending-order/)
 * [Digital cypher](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/digital-cypher/)
 * [Digital cypher vol 2](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/digital-cypher-vol-2/)
+* [Disemvowel Trolls](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/disemvowel-trolls/)
 * [Easy Line](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/easy-line/)
 * [Easy wallpaper](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/easy-wallpaper/)
 * [Even numbers in an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/even-numbers-in-an-array/)
