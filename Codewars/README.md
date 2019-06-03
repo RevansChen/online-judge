@@ -254,6 +254,7 @@
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
 * [String ends with?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/string-ends-with/)
 * [String prefix and suffix](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/string-prefix-and-suffix/)
+* [String Scramble](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/string-scramble/)
 * [Suitcase packing](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/suitcase-packing/)
 * [Sum Factorial](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-factorial/)
 * [Sum of a sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-of-a-sequence/)
