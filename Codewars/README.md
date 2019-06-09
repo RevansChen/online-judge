@@ -252,6 +252,7 @@
 * [So Easy: Charge time calculation](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/so-easy-charge-time-calculation/)
 * [Sort an array by value and index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-an-array-by-value-and-index/)
 * [Sort and Transform](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-and-transform/)
+* [Sort by Last Char](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-by-last-char/)
 * [Sort Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sort-numbers/)
 * [String ends with?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/string-ends-with/)
 * [String prefix and suffix](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/string-prefix-and-suffix/)
