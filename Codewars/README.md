@@ -213,6 +213,7 @@
 * [Moves in squared strings (I)](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/moves-in-squared-strings-i/)
 * [Mumbling](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mumbling/)
 * [Mutate My Strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/mutate-my-strings/)
+* [Odds-Index](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/odds-index/)
 * [Offload your work!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/offload-your-work/)
 * [Ones and Zeros](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ones-and-zeros/)
 * [Order of weight](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/order-of-weight/)
