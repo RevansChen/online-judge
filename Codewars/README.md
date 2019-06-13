@@ -156,6 +156,7 @@
 * [Coloured Triangles](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coloured-triangles/)
 * [Complementary DNA](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/complementary-dna/)
 * [Composing squared strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/composing-squared-strings/)
+* [Consecutive letters](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/consecutive-letters/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
 * [Count the Digit](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/count-the-digit/)
 * [Count the Ones](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/count-the-ones/)
