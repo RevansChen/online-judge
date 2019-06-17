@@ -184,6 +184,7 @@
 * [Flatten and sort an array](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/flatten-and-sort-an-array/)
 * [Form The Largest](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/form-the-largest/)
 * [Frequency sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/frequency-sequence/)
+* [Friend or Foe?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/friend-or-foe/)
 * [Functional Addition](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/functional-addition/)
 * [Functions of Integers on Cartesian Plane](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/functions-of-integers-on-cartesian-plane/)
 * [Gauß needs help! (Sums of a lot of numbers).](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/gauss-needs-help-sums-of-a-lot-of-numbers/)
