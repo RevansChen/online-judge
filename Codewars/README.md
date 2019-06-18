@@ -172,6 +172,7 @@
 * [Excel sheet column numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/excel-sheet-column-numbers/)
 * [Exes and Ohs](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/exes-and-ohs/)
 * [Extra Perfect Numbers (Special Numbers Series #7)](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/extra-perfect-numbers-special-numbers-series-number-7/)
+* [Factorial](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/factorial-1/)
 * [Figurate Numbers #2 - Pronic Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/figurate-numbers-number-2-pronic-number/)
 * [Find the 2nd largest integer in array](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-2nd-largest-integer-in-array/)
 * [Find the calculation type](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-calculation-type/)
