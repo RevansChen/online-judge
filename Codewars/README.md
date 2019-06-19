@@ -155,6 +155,7 @@
 * [Coding 3min : Planting Trees](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coding-3min-planting-trees/)
 * [Coloured Triangles](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coloured-triangles/)
 * [Complementary DNA](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/complementary-dna/)
+* [Complete The Pattern #7 - Cyclical Permutation](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/complete-the-pattern-number-7-cyclical-permutation/)
 * [Composing squared strings](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/composing-squared-strings/)
 * [Consecutive letters](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/consecutive-letters/)
 * [Convert month name to number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/convert-month-name-to-number/)
