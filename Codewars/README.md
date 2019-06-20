@@ -289,6 +289,7 @@
 * [Unlucky Days](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/unlucky-days/)
 * [Volume of a cup](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/volume-of-a-cup/)
 * [Vowel Count](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/vowel-count/)
+* [What time is it?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/what-time-is-it/)
 * [What's my golf score?](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/whats-my-golf-score/)
 * [You're a square!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/youre-a-square/)
 
