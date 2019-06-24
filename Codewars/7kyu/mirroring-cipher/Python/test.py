@@ -1,0 +1,15 @@
+# Python - 3.4.3
+
+Test.describe('Basic tests')
+Test.it('No optional parameter given, reverse whole alphabet')
+Test.assert_equals(mirror('Welcome home'), 'dvoxlnv slnv')
+Test.assert_equals(mirror('hello'), 'svool')
+Test.assert_equals(mirror('goodbye'), 'tllwybv')
+Test.assert_equals(mirror('ngmlsoor'), 'mtnohlli')
+Test.assert_equals(mirror('gsrh rh z hvxivg'), 'this is a secret')
+Test.it('Second parameter given')
+Test.assert_equals(mirror('Welcome home', 'w'), 'welcome home')
+Test.assert_equals(mirror('hello', 'abcdefgh'), 'adllo')
+Test.assert_equals(mirror('goodbye', ''), 'goodbye')
+Test.assert_equals(mirror('CodeWars', '+-*/='), 'codewars')
+Test.assert_equals(mirror('this is a secret', ' *'), 'this*is*a*secret')
