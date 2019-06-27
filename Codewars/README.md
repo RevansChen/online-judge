@@ -275,6 +275,7 @@
 * [Sum of a sequence](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-of-a-sequence/)
 * [Sum of all the multiples of 3 or 5](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-of-all-the-multiples-of-3-or-5/)
 * [Sum of angles](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-of-angles/)
+* [Sum of two lowest positive integers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/sum-of-two-lowest-positive-integers/)
 * [Tail Swap](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/tail-swap/)
 * [The fusc function -- Part 1](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-fusc-function-part-1/)
 * [The Ladies of ENIAC](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/the-ladies-of-eniac/)
