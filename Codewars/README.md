@@ -151,6 +151,7 @@
 * [Bouncy Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/bouncy-numbers/)
 * [Build a square](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/build-a-square/)
 * [Case-sensitive!](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/case-sensitive-1/)
+* [Categorize New Member](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/categorize-new-member/)
 * [Changing letters](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/changing-letters/)
 * [[ Code Golf ] Add 2 values for each](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/code-golf-add-2-values-for-each/)
 * [Coding 3min : Planting Trees](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/coding-3min-planting-trees/)
