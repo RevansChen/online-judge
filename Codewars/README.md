@@ -228,6 +228,7 @@
 * [Ones and Zeros](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ones-and-zeros/)
 * [Order of weight](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/order-of-weight/)
 * [Ordered Count of Characters](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/ordered-count-of-characters/)
+* [Palindromic Expression](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/palindromic-expression/)
 * [Parts of a list](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/parts-of-a-list/)
 * [Password Hashes](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/password-hashes/)
 * [Pernicious Numbers](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/pernicious-numbers/)
