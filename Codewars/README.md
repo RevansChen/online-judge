@@ -178,6 +178,7 @@
 * [Factorial](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/factorial-1/)
 * [Figurate Numbers #2 - Pronic Number](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/figurate-numbers-number-2-pronic-number/)
 * [Find all pairs](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-all-pairs-1/)
+* [Find Duplicates](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-duplicates/)
 * [Find the 2nd largest integer in array](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-2nd-largest-integer-in-array/)
 * [Find the calculation type](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-calculation-type/)
 * [Find the capitals](https://github.com/RevansChen/online-judge/tree/master/Codewars/7kyu/find-the-capitals-1/)
